@@ -1,0 +1,72 @@
+{
+  "3257": {
+    "name": "Jacoby Brissett",
+    "position": "QB",
+    "team": "ARI"
+  },
+  "6904": {
+    "name": "Jalen Hurts",
+    "position": "QB",
+    "team": "PHI"
+  },
+  "8154": {
+    "name": "Brian Robinson",
+    "position": "RB",
+    "team": "ATL"
+  },
+  "9511": {
+    "name": "Keaton Mitchell",
+    "position": "RB",
+    "team": "LAC"
+  },
+  "11581": {
+    "name": "MarShawn Lloyd",
+    "position": "RB",
+    "team": "GB"
+  },
+  "7547": {
+    "name": "Amon-Ra St. Brown",
+    "position": "WR",
+    "team": "DET"
+  },
+  "6794": {
+    "name": "Justin Jefferson",
+    "position": "WR",
+    "team": "MIN"
+  },
+  "5844": {
+    "name": "T.J. Hockenson",
+    "position": "TE",
+    "team": "MIN"
+  },
+  "5927": {
+    "name": "Terry McLaurin",
+    "position": "WR",
+    "team": "WAS"
+  },
+  "12501": {
+    "name": "Matthew Golden",
+    "position": "WR",
+    "team": "GB"
+  },
+  "9500": {
+    "name": "Josh Downs",
+    "position": "WR",
+    "team": "IND"
+  },
+  "8110": {
+    "name": "Jake Ferguson",
+    "position": "TE",
+    "team": "DAL"
+  },
+  "NYJ": {
+    "name": "New York Jets",
+    "position": "DEF",
+    "team": "NYJ"
+  },
+  "8155": {
+    "name": "Breece Hall",
+    "position": "RB",
+    "team": "NYJ"
+  }
+}
