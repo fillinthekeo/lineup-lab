@@ -1,15 +1,18 @@
 {
   "season": 2026,
   "week": 5,
-  "generated_at": "2026-10-11T15:55:00Z",
-  "run": "Sunday inactives, 10 AM games",
-  "headline": "Jefferson is active and Addison is out, so keep Jefferson in and Hockenson on the bench. No swaps needed for the 10 AM games.",
+  "generated_at": "2026-10-11T18:55:00Z",
+  "run": "Sunday inactives, late games",
+  "headline": "No swaps needed for the late games. Brissett, St. Brown and Mitchell carry no injury tags, and Quentin Johnston is out for the Chargers.",
   "alerts": [
+    "11:50 AM: Chargers ruled out WR Quentin Johnston and S Derwin James. Ladd McConkey is active. Keep Keaton Mitchell in the FLEX, he could see a few extra targets.",
+    "11:55 AM: Lions and Cardinals inactives were not posted yet. Neither St. Brown nor Brissett is on the final injury report, so no change is expected. Check Sleeper before 1:25 PM.",
+    "1:05 PM: Chargers vs. Broncos locks (Mitchell). 1:25 PM: Lions at Cardinals locks (Brissett, St. Brown).",
+    "5:20 PM: Falcons vs. Ravens on Sunday night. Brian Robinson has no injury tag. Ravens Zay Flowers and Marlon Humphrey are expected to play.",
+    "Sleeper could not be reached this run, so confirm in the app that Brissett, St. Brown, Mitchell and Robinson are in your starting slots.",
     "8:31 AM: Justin Jefferson is active vs. the Saints. Jordan Addison is inactive. Keep Jefferson at WR.",
     "8:40 AM: Terry McLaurin is active but expected to be on limited snaps. Leave him on the bench.",
-    "8:39 AM: Bears ruled out Caleb Williams again. Tyson Bagent starts, a small boost for the Packers and Matthew Golden.",
-    "Josh Downs is not on the Colts inactive list. Keep him in the FLEX.",
-    "10 AM: Vikings, Commanders, Colts, Packers and Jets games lock. Sleeper could not be reached this run, so confirm in the app that Jefferson, St. Brown, Downs and Golden or Mitchell are in your starting slots."
+    "8:39 AM: Bears ruled out Caleb Williams again. Tyson Bagent starts, a small boost for the Packers and Matthew Golden."
   ],
   "games": {
     "PHI": {
@@ -19,10 +22,10 @@
       "note": "London game at 6:30 AM Pacific."
     },
     "BAL": {
-      "note": "Lamar Jackson is out. Backup quarterback starts."
+      "note": "Lamar Jackson is out. Zay Flowers and Marlon Humphrey are expected to play."
     },
     "ATL": {
-      "note": "Sunday night, 5:20 PM Pacific. Line flipped from Ravens -6 to Falcons -3 after Lamar Jackson was ruled out."
+      "note": "Sunday night, 5:20 PM Pacific. Line flipped to Falcons -3 after Lamar Jackson was ruled out. OT Jake Matthews is expected to play."
     },
     "DAL": {
       "note": "Played Thursday night. Points are final."
@@ -44,6 +47,18 @@
     },
     "NYJ": {
       "note": "Breece Hall inactive vs. Cleveland."
+    },
+    "DET": {
+      "note": "1:25 PM Pacific at Arizona. Final injury report has only linemen and defensive backs out. St. Brown has no tag."
+    },
+    "ARI": {
+      "note": "1:25 PM Pacific vs. Detroit. Brissett has no injury tag. OL Isaiah Adams is out."
+    },
+    "LAC": {
+      "note": "1:05 PM Pacific vs. Denver. Quentin Johnston and Derwin James are out. McConkey is active."
+    },
+    "DEN": {
+      "note": "Broncos ruled out CBs Patrick Surtain and Riley Moss, a boost for the Chargers passing game."
     }
   },
   "players": {
@@ -56,7 +71,8 @@
       "notes": [
         "Lions are favored by 5.5 with a 54.5 total, so Arizona projects for about 24.5 points, 7 or 8 more than the Eagles.",
         "Trailing script should keep him throwing. Dimers projects about 265 passing yards.",
-        "Late afternoon kickoff, so you keep all the morning news before he locks."
+        "Late afternoon kickoff, so you keep all the morning news before he locks.",
+        "No injury tag on the final report. Inactives were not posted by 11:55 AM Pacific."
       ],
       "sources": [
         {
@@ -70,6 +86,14 @@
         {
           "title": "Dimers: Brissett Week 5 projection",
           "url": "https://www.dimers.com/nfl/news/jacoby-brissett-projected-fantasy-stats-nfl-week-5-2026-ac"
+        },
+        {
+          "title": "NFL.com: Lions at Cardinals game center",
+          "url": "https://www.nfl.com/games/lions-at-cardinals-2026-reg-5"
+        },
+        {
+          "title": "SideLion Report: Lions vs. Cardinals tracker",
+          "url": "https://sidelionreport.com/lions-vs-cardinals-week-5-tracker-injury-updates-storylines-prediction-and-more-01m4bfkmp46v"
         }
       ]
     },
@@ -107,7 +131,8 @@
       "notes": [
         "Steady No. 2 back behind Bijan Robinson with goal-line work: 4 TDs over the last two games.",
         "Falcons are 3-point favorites after the line flipped from Ravens -6, and Lamar Jackson is out, so a lead and late carries are likely.",
-        "Touchdown dependent. He catches very few passes."
+        "Touchdown dependent. He catches very few passes.",
+        "No injury tag for Sunday night. Ravens expect Flowers and Humphrey to play."
       ],
       "sources": [
         {
@@ -121,23 +146,32 @@
         {
           "title": "Doc's Sports: Week 5 line moves",
           "url": "https://www.docsports.com/2026/nfl-week-5-line-movements-point-spread-analysis.html"
+        },
+        {
+          "title": "NFL.com: Week 5 injuries to monitor",
+          "url": "https://www.nfl.com/news/week-5-injuries-sunday-pregame-2026-nfl-season"
         }
       ]
     },
     "9511": {
       "name": "Keaton Mitchell",
       "verdict": "flex",
-      "adj_pct": 0,
+      "adj_pct": 3,
       "confidence": "low",
       "notes": [
         "Led the Chargers backfield in Week 4: 10 carries plus 6 targets, ahead of Omarion Hampton.",
         "Still a three-way committee with Hampton and Kimani Vidal, and the Chargers project for only about 19 points against Denver.",
-        "Coin flip with Lloyd. Mitchell gets the slight edge on passing-game work."
+        "Coin flip with Lloyd. Mitchell gets the slight edge on passing-game work.",
+        "Not listed as inactive. With Quentin Johnston out and both top Denver corners out, the Chargers passing game gets a small bump."
       ],
       "sources": [
         {
           "title": "Draft Sharks: Chargers backfield shift",
           "url": "https://www.draftsharks.com/fantasy-football-news/83173/things-just-got-even-worse-for-omarion-hampton"
+        },
+        {
+          "title": "CBS Sports: Week 5 inactives tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
         }
       ]
     },
@@ -167,12 +201,17 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Lions project for about 30 points, tied for the highest team total of the week."
+        "Lions project for about 30 points, tied for the highest team total of the week.",
+        "Not on the Lions final injury report. Inactives post about 11:55 AM Pacific."
       ],
       "sources": [
         {
           "title": "VegasInsider Week 5 odds",
           "url": "https://www.vegasinsider.com/nfl/nfl-week-5-odds-2026/"
+        },
+        {
+          "title": "NFL.com: Lions at Cardinals game center",
+          "url": "https://www.nfl.com/games/lions-at-cardinals-2026-reg-5"
         }
       ]
     },
@@ -368,7 +407,7 @@
       "a": "9511",
       "b": "11581",
       "pick": "9511",
-      "why": "Near coin flip. Mitchell's 6 targets last week give him a slightly better PPR floor.",
+      "why": "Lloyd's game already kicked off at 10 AM. Mitchell stays in, and Johnston being out could add a target or two.",
       "sources": [
         {
           "title": "Draft Sharks: Chargers backfield",
