@@ -1,14 +1,15 @@
 {
   "season": 2026,
   "week": 5,
-  "generated_at": "2026-10-11T12:51:43Z",
-  "run": "Sunday early check",
-  "headline": "Hurts is active in London but still a sit. Make sure Brissett is in at QB before 6:30 AM, then check back after 8:30 AM inactives for Jefferson and McLaurin.",
+  "generated_at": "2026-10-11T15:55:00Z",
+  "run": "Sunday inactives, 10 AM games",
+  "headline": "Jefferson is active and Addison is out, so keep Jefferson in and Hockenson on the bench. No swaps needed for the 10 AM games.",
   "alerts": [
-    "6:30 AM: Eagles at Jaguars locks. Hurts is active, but the Eagles are still 7.5-point underdogs. Start Brissett.",
-    "8:30 AM: Jefferson and Addison will test in pregame workouts. If Jefferson is out, start Hockenson.",
-    "8:30 AM: McLaurin is still a game-time call with only a slight lean to play.",
-    "Sleeper could not be reached this run, so confirm in the app that your starters match these verdicts."
+    "8:31 AM: Justin Jefferson is active vs. the Saints. Jordan Addison is inactive. Keep Jefferson at WR.",
+    "8:40 AM: Terry McLaurin is active but expected to be on limited snaps. Leave him on the bench.",
+    "8:39 AM: Bears ruled out Caleb Williams again. Tyson Bagent starts, a small boost for the Packers and Matthew Golden.",
+    "Josh Downs is not on the Colts inactive list. Keep him in the FLEX.",
+    "10 AM: Vikings, Commanders, Colts, Packers and Jets games lock. Sleeper could not be reached this run, so confirm in the app that Jefferson, St. Brown, Downs and Golden or Mitchell are in your starting slots."
   ],
   "games": {
     "PHI": {
@@ -30,13 +31,19 @@
       "note": "Played Thursday night. Points are final."
     },
     "MIN": {
-      "note": "10 AM Pacific at New Orleans. Vikings favored by 1.5 to 2.5 with a 41.5 total. Jefferson and Addison test pregame."
+      "note": "10 AM Pacific at New Orleans. Jefferson active, Addison and Odell Beckham Jr. inactive."
     },
     "WAS": {
-      "note": "10 AM Pacific vs. Giants. Commanders favored by 3.5 with a 41.5 total."
+      "note": "10 AM Pacific vs. Giants. McLaurin active but expected on limited snaps. Diggs inactive."
     },
     "GB": {
-      "note": "Packers at Bears. Line flipped from Packers -2.5 to Bears favored by about 1.5 to 3 during the week."
+      "note": "Packers at Bears. Caleb Williams inactive again, Tyson Bagent starts for Chicago."
+    },
+    "IND": {
+      "note": "10 AM Pacific at Pittsburgh. Slayton and Dulin inactive. Downs active."
+    },
+    "NYJ": {
+      "note": "Breece Hall inactive vs. Cleveland."
     }
   },
   "players": {
@@ -172,14 +179,22 @@
     "6794": {
       "name": "Justin Jefferson",
       "verdict": "start",
-      "adj_pct": -5,
-      "confidence": "low",
+      "adj_pct": 0,
+      "confidence": "medium",
       "notes": [
-        "Ankle. Questionable. Rapoport reported Sunday that he and Jordan Addison will work out pregame to decide their status.",
-        "The Vikings promoted two practice squad receivers, a possible bad sign for Jefferson or Addison.",
-        "DraftKings has his catches at 6.5. Start him if active. If he is out at 8:30 AM, start Hockenson. Locks at 10 AM."
+        "Active vs. the Saints. No snap limit was reported, though he carries some reinjury risk on the ankle.",
+        "Jordan Addison is inactive, so Jefferson should see an even bigger target share.",
+        "DraftKings has his catches at 6.5."
       ],
       "sources": [
+        {
+          "title": "Draft Sharks: Jefferson active, Addison inactive",
+          "url": "https://www.draftsharks.com/fantasy-football-news/83299/justin-jefferson-active-jordan-addison-inactive"
+        },
+        {
+          "title": "CBS Sports: Week 5 inactives tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
+        },
         {
           "title": "SI: Is Justin Jefferson playing today?",
           "url": "https://www.si.com/betting/justin-jefferson-injury-update-betting-impact-for-vikings-vs-saints-in-nfl-week-5-2026"
@@ -196,10 +211,14 @@
       "adj_pct": 0,
       "confidence": "low",
       "notes": [
-        "Caught all 13 targets for 119 yards in Week 4 with Jefferson out.",
-        "Bench if Jefferson plays. Start in the FLEX if Jefferson is ruled out."
+        "Stays on the bench because Jefferson is active. With Addison out he gets a few more looks, but not enough to start over your FLEX options.",
+        "Caught all 13 targets for 119 yards in Week 4 with Jefferson out."
       ],
       "sources": [
+        {
+          "title": "Draft Sharks: Jefferson active, Addison inactive",
+          "url": "https://www.draftsharks.com/fantasy-football-news/83299/justin-jefferson-active-jordan-addison-inactive"
+        },
         {
           "title": "RotoWire: T.J. Hockenson",
           "url": "https://www.rotowire.com/football/player/tj-hockenson-13610"
@@ -209,30 +228,31 @@
     "5927": {
       "name": "Terry McLaurin",
       "verdict": "sit",
-      "adj_pct": -8,
-      "confidence": "low",
+      "adj_pct": -10,
+      "confidence": "medium",
       "notes": [
-        "Hamstring. Still a true game-time decision as of Sunday morning, with a pregame workout first.",
-        "ESPN's John Keim calls it only a slight lean to play.",
-        "If active, he is the top receiver with Diggs out, but reinjury risk keeps him a backup plan."
+        "Active vs. the Giants, per the CBS inactives tracker.",
+        "Mike Garafolo reported his snaps are expected to be limited, so he stays a bench player this week.",
+        "ESPN's John Keim calls it only a slight lean to play."
       ],
       "sources": [
         {
-          "title": "Riggo's Rag: McLaurin Sunday update",
-          "url": "https://riggosrag.com/terry-mclaurin-playing-today-giants-latest-updates-washington-commanders-wr-week-5"
+          "title": "CBS Sports: Week 5 inactives tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
         },
         {
-          "title": "Fantasy Footballers: McLaurin questionable",
-          "url": "https://www.thefantasyfootballers.com/news/641578/terry-mclaurin-questionable-for-week-5/"
+          "title": "SI: Is Terry McLaurin playing today?",
+          "url": "https://www.si.com/betting/terry-mclaurin-injury-update-betting-impact-for-giants-vs-commanders-in-nfl-week-5-2026"
         }
       ]
     },
     "12501": {
       "name": "Matthew Golden",
       "verdict": "flex",
-      "adj_pct": 0,
+      "adj_pct": 3,
       "confidence": "medium",
       "notes": [
+        "Bears ruled out Caleb Williams again and Tyson Bagent starts, which should help Green Bay control the game.",
         "Seven targets and a TD in Week 4, his second straight game with a score.",
         "The line moved toward Chicago this week, now about Bears -1.5 with a 47.5 total, so Green Bay projects near 23 points."
       ],
@@ -244,6 +264,14 @@
         {
           "title": "VegasInsider Week 5 odds",
           "url": "https://www.vegasinsider.com/nfl/nfl-week-5-odds-2026/"
+        },
+        {
+          "title": "NBC Sports: Bears inactives",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/caleb-williams-again-leads-bears-inactives"
+        },
+        {
+          "title": "CBS Sports: Week 5 inactives tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
         }
       ]
     },
@@ -253,6 +281,7 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "Not on the Colts inactive list. Darius Slayton and Ashton Dulin are out, which thins the target competition.",
         "Healthy, with no injury tag. Steelers favored by 3 with a 43.5 total, so the Colts project for about 20 points."
       ],
       "sources": [
@@ -263,6 +292,10 @@
         {
           "title": "VegasInsider Week 5 odds",
           "url": "https://www.vegasinsider.com/nfl/nfl-week-5-odds-2026/"
+        },
+        {
+          "title": "Yahoo/Colts Wire: Colts vs. Steelers inactives",
+          "url": "https://sports.yahoo.com/articles/colts-vs-steelers-inactives-whos-153534697.html"
         }
       ]
     },
@@ -347,15 +380,35 @@
       "a": "6794",
       "b": "5844",
       "pick": "6794",
-      "why": "Jefferson if active. He tests pregame, and if he is ruled out at 8:30 AM, Hockenson takes his spot after a 13-catch game without him.",
+      "why": "Jefferson is active and Addison is out, so start Jefferson. Hockenson stays on the bench.",
       "sources": [
         {
-          "title": "SI: Is Justin Jefferson playing today?",
-          "url": "https://www.si.com/betting/justin-jefferson-injury-update-betting-impact-for-vikings-vs-saints-in-nfl-week-5-2026"
+          "title": "Draft Sharks: Jefferson active, Addison inactive",
+          "url": "https://www.draftsharks.com/fantasy-football-news/83299/justin-jefferson-active-jordan-addison-inactive"
         },
         {
-          "title": "Newsweek: Jefferson status",
-          "url": "https://www.newsweek.com/sports/nfl/vikings-reveal-justin-jeffersons-status-ahead-of-week-5-game-vs-saints-12548945"
+          "title": "CBS Sports: Week 5 inactives tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
+        }
+      ]
+    },
+    {
+      "a": "9500",
+      "b": "5927",
+      "pick": "9500",
+      "why": "McLaurin is active but on limited snaps. Downs is healthy and gains targets with Slayton and Dulin out.",
+      "sources": [
+        {
+          "title": "CBS Sports: Week 5 inactives tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
+        },
+        {
+          "title": "SI: Is Terry McLaurin playing today?",
+          "url": "https://www.si.com/betting/terry-mclaurin-injury-update-betting-impact-for-giants-vs-commanders-in-nfl-week-5-2026"
+        },
+        {
+          "title": "Yahoo/Colts Wire: Colts vs. Steelers inactives",
+          "url": "https://sports.yahoo.com/articles/colts-vs-steelers-inactives-whos-153534697.html"
         }
       ]
     }
