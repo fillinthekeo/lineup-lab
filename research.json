@@ -1,10 +1,12 @@
 {
   "season": 2026,
   "week": 6,
-  "generated_at": "2026-10-12T20:55:00Z",
-  "run": "Tuesday waivers",
-  "headline": "Lions and Vikings byes take out St. Brown, Jefferson and Hockenson, so add a WR and start Lloyd, Golden and McLaurin.",
+  "generated_at": "2026-10-12T20:30:15Z",
+  "run": "Thursday night check",
+  "headline": "No rostered players in Thursday's Seahawks-Broncos game. The Week 6 plan holds: bench St. Brown, Jefferson and Hockenson for their byes and add a WR on waivers.",
   "alerts": [
+    "Thu Oct 15, 5:15 PM: Seahawks at Broncos. None of your players are in this game, nothing locks Thursday.",
+    "No kicker shows in the tracked roster. Check your K slot in Sleeper and add one if it is empty before Sunday 10 AM.",
     "Week 6 byes: Lions and Vikings (St. Brown, Jefferson, Hockenson). Start McLaurin and Golden at WR with Downs at FLEX.",
     "Sleeper could not be reached this run. Roster and free agent status are based on last week's list, so confirm in the app's Waivers tab.",
     "Breece Hall (quad) is week to week. Check Wednesday and Thursday practice reports before slotting him over Mitchell.",
@@ -46,6 +48,12 @@
     },
     "MIN": {
       "note": "Bye week."
+    },
+    "SEA": {
+      "note": "Thursday night at Denver, 5:15 PM Pacific. Seahawks are about 1.5-point favorites with a 42.5 total. No rostered players."
+    },
+    "DEN": {
+      "note": "Thursday night vs. Seattle, 5:15 PM Pacific."
     }
   },
   "players": {
@@ -246,7 +254,8 @@
       "confidence": "high",
       "notes": [
         "Vikings are on bye in Week 6.",
-        "He is also dealing with a concussion. Top drop candidate this week."
+        "He is also dealing with a concussion. Top drop candidate this week.",
+        "Left Week 5 early with a concussion, so he must clear protocol before Week 7."
       ],
       "sources": [
         {
@@ -256,6 +265,10 @@
         {
           "title": "Yahoo: Week 6 waiver wire",
           "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
+        },
+        {
+          "title": "Fantasy Six Pack: Week 5 recap and injury fallout",
+          "url": "https://fantasysixpack.net/2026-fantasy-football-week-5-recap/"
         }
       ]
     },
@@ -353,7 +366,8 @@
       "notes": [
         "Jets had 8 sacks and allowed 12 points to Cleveland in Week 5.",
         "Week 6 is at New England, a 7.5-point favorite with about 26 implied points.",
-        "The Colts D/ST at home vs. Tennessee is a better stream if available."
+        "The Colts D/ST at home vs. Tennessee is a better stream if available.",
+        "Patriots RB TreVeyon Henderson hurt his ankle in Week 5 and could miss a couple of weeks."
       ],
       "sources": [
         {
@@ -367,6 +381,10 @@
         {
           "title": "SI: Week 6 opening odds",
           "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
+        },
+        {
+          "title": "Fantasy Six Pack: Week 5 recap and injury fallout",
+          "url": "https://fantasysixpack.net/2026-fantasy-football-week-5-recap/"
         }
       ]
     }
