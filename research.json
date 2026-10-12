@@ -1,462 +1,355 @@
 {
   "season": 2026,
-  "week": 5,
-  "generated_at": "2026-10-12T20:20:00Z",
-  "run": "Sunday inactives, late games",
-  "headline": "All of your Week 5 games are final. Nobody on your roster plays in Bills at Rams on Monday night, so the lineup is locked and no swaps are possible.",
+  "week": 6,
+  "generated_at": "2026-10-12T20:45:00Z",
+  "run": "Week 6 early look (Monday)",
+  "headline": "Week 6 early look: St. Brown, Jefferson and Hockenson are on bye, so Golden and Downs move into the WR slots.",
   "alerts": [
-    "1:20 PM Monday: Every Sunday game is final, including Falcons vs. Ravens. No verdicts changed.",
-    "5:15 PM Monday: Bills at Rams is the only game left. Rams favored by 3.5 with a 54.5 total. You have no Bills or Rams players, so nothing to do.",
-    "Sleeper could not be reached this run, so check the app for your final score and the opponent's Monday night players.",
-    "11:50 AM: Chargers ruled out WR Quentin Johnston and S Derwin James. Ladd McConkey is active. Keep Keaton Mitchell in the FLEX, he could see a few extra targets.",
-    "11:55 AM: Lions and Cardinals inactives were not posted yet. Neither St. Brown nor Brissett is on the final injury report, so no change is expected. Check Sleeper before 1:25 PM.",
-    "1:05 PM: Chargers vs. Broncos locks (Mitchell). 1:25 PM: Lions at Cardinals locks (Brissett, St. Brown).",
-    "5:20 PM: Falcons vs. Ravens on Sunday night. Brian Robinson has no injury tag. Ravens Zay Flowers and Marlon Humphrey are expected to play.",
-    "Sleeper could not be reached this run, so confirm in the app that Brissett, St. Brown, Mitchell and Robinson are in your starting slots.",
-    "8:31 AM: Justin Jefferson is active vs. the Saints. Jordan Addison is inactive. Keep Jefferson at WR.",
-    "8:40 AM: Terry McLaurin is active but expected to be on limited snaps. Leave him on the bench.",
-    "8:39 AM: Bears ruled out Caleb Williams again. Tyson Bagent starts, a small boost for the Packers and Matthew Golden."
+    "Lions and Vikings are on bye. Bench St. Brown, Jefferson and Hockenson before Sunday 10 AM.",
+    "Sunday 10 AM locks: Hurts, Robinson, Downs, Jets DEF. 1:05 PM: Brissett. 1:25 PM: Mitchell. 5:20 PM: Golden, Lloyd, Ferguson. Monday 5:15 PM: McLaurin.",
+    "London game (Texans at Jaguars) is Sunday 6:30 AM. None of your players are in it.",
+    "Jets DEF faces a 25-point Patriots implied total. Look for a streaming defense and a kicker on waivers.",
+    "Sleeper could not be reached this run, so roster and opponent were not refreshed. Lines are early lookahead numbers, and the Saturday review will update them."
   ],
   "games": {
+    "ARI": {
+      "note": "At Rams, Sun 1:05 PM. Rams -10.5, total 51.5."
+    },
     "PHI": {
-      "note": "London game at 6:30 AM Pacific. Hurts is active. Jaguars still favored by 7.5 with a 41.5 total."
-    },
-    "JAX": {
-      "note": "London game at 6:30 AM Pacific."
-    },
-    "BAL": {
-      "note": "Played Sunday night. Points are final."
+      "note": "Vs. Panthers, Sun 10 AM. Eagles -2.5, total 43.5."
     },
     "ATL": {
-      "note": "Played Sunday night. Points are final."
-    },
-    "DAL": {
-      "note": "Played Thursday night. Points are final."
-    },
-    "TB": {
-      "note": "Played Thursday night. Points are final."
-    },
-    "MIN": {
-      "note": "10 AM Pacific at New Orleans. Jefferson active, Addison and Odell Beckham Jr. inactive."
-    },
-    "WAS": {
-      "note": "10 AM Pacific vs. Giants. McLaurin active but expected on limited snaps. Diggs inactive."
-    },
-    "GB": {
-      "note": "Packers at Bears. Caleb Williams inactive again, Tyson Bagent starts for Chicago."
-    },
-    "IND": {
-      "note": "10 AM Pacific at Pittsburgh. Slayton and Dulin inactive. Downs active."
-    },
-    "NYJ": {
-      "note": "Breece Hall inactive vs. Cleveland."
-    },
-    "DET": {
-      "note": "1:25 PM Pacific at Arizona. Final injury report has only linemen and defensive backs out. St. Brown has no tag. Game is final."
-    },
-    "ARI": {
-      "note": "1:25 PM Pacific vs. Detroit. Brissett has no injury tag. OL Isaiah Adams is out. Game is final."
+      "note": "Vs. Bears, Sun 10 AM. Bears -1.5, total 47.5."
     },
     "LAC": {
-      "note": "1:05 PM Pacific vs. Denver. Quentin Johnston and Derwin James are out. McConkey is active. Game is final."
+      "note": "At Chiefs, Sun 1:25 PM. Chiefs -7.5, total 45.5."
     },
-    "DEN": {
-      "note": "Broncos ruled out CBs Patrick Surtain and Riley Moss, a boost for the Chargers passing game. Game is final."
+    "GB": {
+      "note": "Vs. Cowboys, Sun 5:20 PM. Cowboys -2.5, total 50.5."
     },
-    "BUF": {
-      "note": "Monday night at the Rams, 5:15 PM Pacific. Bills are 3.5-point underdogs, 54.5 total. Josh Allen has been playing through a reported knee issue."
+    "DAL": {
+      "note": "At Packers, Sun 5:20 PM. Cowboys -2.5, total 50.5."
     },
-    "LAR": {
-      "note": "Monday night vs. Buffalo, 5:15 PM Pacific at SoFi Stadium. Rams favored by 3.5."
+    "IND": {
+      "note": "Vs. Titans, Sun 10 AM. Colts -6.5, total 44.5."
+    },
+    "WAS": {
+      "note": "At 49ers, Mon 5:15 PM. 49ers -7.5, total 50.5."
+    },
+    "NYJ": {
+      "note": "At Patriots, Sun 10 AM. Patriots -7, total 43.5."
+    },
+    "DET": {
+      "note": "Bye week."
+    },
+    "MIN": {
+      "note": "Bye week."
     }
   },
   "players": {
     "3257": {
       "name": "Jacoby Brissett",
-      "verdict": "start",
-      "prop_proj": 19.5,
+      "verdict": "flex",
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "low",
       "notes": [
-        "Lions are favored by 5.5 with a 54.5 total, so Arizona projects for about 24.5 points, 7 or 8 more than the Eagles.",
-        "Trailing script should keep him throwing. Dimers projects about 265 passing yards.",
-        "Late afternoon kickoff, so you keep all the morning news before he locks.",
-        "No injury tag on the final report. Inactives were not posted by 11:55 AM Pacific."
+        "At the Rams, Sunday 1:05 PM. Arizona is a 10.5-point underdog with a 51.5 total, about 20.5 implied points.",
+        "Trailing script could mean a lot of volume. Toss-up with Hurts until Saturday."
       ],
       "sources": [
         {
-          "title": "VegasInsider Week 5 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-5-odds-2026/"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         },
         {
-          "title": "SI: Lions vs. Cardinals odds",
-          "url": "https://www.si.com/betting/lions-vs-cardinals-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
-        },
-        {
-          "title": "Dimers: Brissett Week 5 projection",
-          "url": "https://www.dimers.com/nfl/news/jacoby-brissett-projected-fantasy-stats-nfl-week-5-2026-ac"
-        },
-        {
-          "title": "NFL.com: Lions at Cardinals game center",
-          "url": "https://www.nfl.com/games/lions-at-cardinals-2026-reg-5"
-        },
-        {
-          "title": "SideLion Report: Lions vs. Cardinals tracker",
-          "url": "https://sidelionreport.com/lions-vs-cardinals-week-5-tracker-injury-updates-storylines-prediction-and-more-01m4bfkmp46v"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "6904": {
       "name": "Jalen Hurts",
-      "verdict": "sit",
-      "prop_proj": 16.7,
-      "adj_pct": -3,
-      "confidence": "medium",
+      "verdict": "start",
+      "adj_pct": 0,
+      "confidence": "low",
       "notes": [
-        "Active for London. No surprise inactives for the Eagles offense beyond Saquon Barkley.",
-        "Eagles are 7.5-point underdogs with a 41.5 total, about 17 implied points.",
-        "Locks at 6:30 AM Pacific, before any late injury news on your other players."
+        "Home vs. Carolina, Sunday 10 AM. Eagles are 2.5-point favorites with a 43.5 total, about 23 implied points.",
+        "Rushing floor gives him the slight edge over Brissett on early lines."
       ],
       "sources": [
         {
-          "title": "Inquirer: Eagles vs. Jaguars odds and props",
-          "url": "https://www.inquirer.com/eagles/eagles-jaguars-week-5-nfl-odds-prop-bets-20261008.html"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         },
         {
-          "title": "NBC Sports Philadelphia: Eagles inactives",
-          "url": "https://www.nbcsportsphiladelphia.com/nfl/philadelphia-eagles/eagles-inactives-jonathan-greenard-jaguars-jake-majors/757961/"
-        },
-        {
-          "title": "Jaguars.com: Week 5 inactives",
-          "url": "https://www.jaguars.com/news/in-and-out-2026-week-5-murray-inactive-for-eagles-vs-jaguars"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "8154": {
       "name": "Brian Robinson",
       "verdict": "start",
-      "adj_pct": 5,
+      "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Steady No. 2 back behind Bijan Robinson with goal-line work: 4 TDs over the last two games.",
-        "Falcons are 3-point favorites after the line flipped from Ravens -6, and Lamar Jackson is out, so a lead and late carries are likely.",
-        "Touchdown dependent. He catches very few passes.",
-        "No injury tag for Sunday night. Ravens expect Flowers and Humphrey to play."
+        "Home vs. Chicago, Sunday 10 AM. Atlanta is a 1.5-point underdog in a 47.5 total, about 23 implied points.",
+        "Kept goal-line work in recent weeks."
       ],
       "sources": [
         {
-          "title": "RotoWire: Brian Robinson",
-          "url": "https://rotowire.com//football/player/brian-robinson-15907"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         },
         {
-          "title": "Lamar Jackson ruled out",
-          "url": "https://www.thefantasyfootballers.com/news/641531/lamar-jackson-officially-ruled-out-for-week-5/"
-        },
-        {
-          "title": "Doc's Sports: Week 5 line moves",
-          "url": "https://www.docsports.com/2026/nfl-week-5-line-movements-point-spread-analysis.html"
-        },
-        {
-          "title": "NFL.com: Week 5 injuries to monitor",
-          "url": "https://www.nfl.com/news/week-5-injuries-sunday-pregame-2026-nfl-season"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "9511": {
       "name": "Keaton Mitchell",
       "verdict": "flex",
-      "adj_pct": 3,
+      "adj_pct": 0,
       "confidence": "low",
       "notes": [
-        "Led the Chargers backfield in Week 4: 10 carries plus 6 targets, ahead of Omarion Hampton.",
-        "Still a three-way committee with Hampton and Kimani Vidal, and the Chargers project for only about 19 points against Denver.",
-        "Coin flip with Lloyd. Mitchell gets the slight edge on passing-game work.",
-        "Not listed as inactive. With Quentin Johnston out and both top Denver corners out, the Chargers passing game gets a small bump."
+        "At Kansas City, Sunday 1:25 PM. Chargers are 7.5-point underdogs, about 19 implied points.",
+        "Pass-game role helps if the Chargers trail."
       ],
       "sources": [
         {
-          "title": "Draft Sharks: Chargers backfield shift",
-          "url": "https://www.draftsharks.com/fantasy-football-news/83173/things-just-got-even-worse-for-omarion-hampton"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         },
         {
-          "title": "CBS Sports: Week 5 inactives tracker",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "11581": {
       "name": "MarShawn Lloyd",
-      "verdict": "sit",
-      "adj_pct": -5,
-      "confidence": "medium",
+      "verdict": "flex",
+      "adj_pct": 0,
+      "confidence": "low",
       "notes": [
-        "Lead back only because Josh Jacobs is on the exempt list, but averaging 2.7 yards per carry with no game over 10 points.",
-        "Split carries with Kaleb Johnson last week (7 to 8), though he caught 5 passes."
+        "Home vs. Dallas on Sunday night, 5:20 PM. Green Bay projects for about 24 points in a 50.5 total.",
+        "Check whether Josh Jacobs is still on the exempt list before Saturday."
       ],
       "sources": [
         {
-          "title": "Yardbarker: Lloyd is now a stash",
-          "url": "https://www.yardbarker.com/nfl/articles/marshawn_lloyd_is_now_a_stash_in_fantasy_football/s1_17814_44405602"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         },
         {
-          "title": "FantasyNerds: Packers backfield",
-          "url": "https://fantasynerds.com/news/story/2026/09/04/packers-2026-running-game-outlook-marshawn-lloyd-to-lead-amidst-uncertainty-1615307"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "7547": {
       "name": "Amon-Ra St. Brown",
-      "verdict": "start",
+      "verdict": "out",
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Lions project for about 30 points, tied for the highest team total of the week.",
-        "Not on the Lions final injury report. Inactives post about 11:55 AM Pacific."
+        "Lions are on bye in Week 6. Must be benched."
       ],
       "sources": [
         {
-          "title": "VegasInsider Week 5 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-5-odds-2026/"
-        },
-        {
-          "title": "NFL.com: Lions at Cardinals game center",
-          "url": "https://www.nfl.com/games/lions-at-cardinals-2026-reg-5"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         }
       ]
     },
     "6794": {
       "name": "Justin Jefferson",
-      "verdict": "start",
+      "verdict": "out",
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "high",
       "notes": [
-        "Active vs. the Saints. No snap limit was reported, though he carries some reinjury risk on the ankle.",
-        "Jordan Addison is inactive, so Jefferson should see an even bigger target share.",
-        "DraftKings has his catches at 6.5."
+        "Vikings are on bye in Week 6. Must be benched."
       ],
       "sources": [
         {
-          "title": "Draft Sharks: Jefferson active, Addison inactive",
-          "url": "https://www.draftsharks.com/fantasy-football-news/83299/justin-jefferson-active-jordan-addison-inactive"
-        },
-        {
-          "title": "CBS Sports: Week 5 inactives tracker",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
-        },
-        {
-          "title": "SI: Is Justin Jefferson playing today?",
-          "url": "https://www.si.com/betting/justin-jefferson-injury-update-betting-impact-for-vikings-vs-saints-in-nfl-week-5-2026"
-        },
-        {
-          "title": "Newsweek: Jefferson Week 5 status",
-          "url": "https://www.newsweek.com/sports/nfl/vikings-reveal-justin-jeffersons-status-ahead-of-week-5-game-vs-saints-12548945"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         }
       ]
     },
     "5844": {
       "name": "T.J. Hockenson",
-      "verdict": "sit",
+      "verdict": "out",
       "adj_pct": 0,
-      "confidence": "low",
+      "confidence": "high",
       "notes": [
-        "Stays on the bench because Jefferson is active. With Addison out he gets a few more looks, but not enough to start over your FLEX options.",
-        "Caught all 13 targets for 119 yards in Week 4 with Jefferson out."
+        "Vikings are on bye in Week 6."
       ],
       "sources": [
         {
-          "title": "Draft Sharks: Jefferson active, Addison inactive",
-          "url": "https://www.draftsharks.com/fantasy-football-news/83299/justin-jefferson-active-jordan-addison-inactive"
-        },
-        {
-          "title": "RotoWire: T.J. Hockenson",
-          "url": "https://www.rotowire.com/football/player/tj-hockenson-13610"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         }
       ]
     },
     "5927": {
       "name": "Terry McLaurin",
-      "verdict": "sit",
-      "adj_pct": -10,
+      "verdict": "flex",
+      "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Active vs. the Giants, per the CBS inactives tracker.",
-        "Mike Garafolo reported his snaps are expected to be limited, so he stays a bench player this week.",
-        "ESPN's John Keim calls it only a slight lean to play."
+        "Caught all 4 targets for 62 yards in the Week 5 tie with the Giants.",
+        "At San Francisco on Monday night, 5:15 PM. Washington is a 7.5-point underdog in a 50.5 total, about 21.5 implied points."
       ],
       "sources": [
         {
-          "title": "CBS Sports: Week 5 inactives tracker",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
+          "title": "NBC Sports: McLaurin Week 5",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/terry-mclaurin-goes-for-62-yards-vs-giants"
         },
         {
-          "title": "SI: Is Terry McLaurin playing today?",
-          "url": "https://www.si.com/betting/terry-mclaurin-injury-update-betting-impact-for-giants-vs-commanders-in-nfl-week-5-2026"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+        },
+        {
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "12501": {
       "name": "Matthew Golden",
-      "verdict": "flex",
-      "adj_pct": 3,
+      "verdict": "start",
+      "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Bears ruled out Caleb Williams again and Tyson Bagent starts, which should help Green Bay control the game.",
-        "Seven targets and a TD in Week 4, his second straight game with a score.",
-        "The line moved toward Chicago this week, now about Bears -1.5 with a 47.5 total, so Green Bay projects near 23 points."
+        "Home vs. Dallas on Sunday night, 5:20 PM, in the highest total of your games at 50.5.",
+        "Moves into a WR slot with St. Brown and Jefferson on bye."
       ],
       "sources": [
         {
-          "title": "NBC Sports: Golden scores in Week 4",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-04/golden-scores-second-td-of-2026-in-week-4-win"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         },
         {
-          "title": "VegasInsider Week 5 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-5-odds-2026/"
-        },
-        {
-          "title": "NBC Sports: Bears inactives",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/caleb-williams-again-leads-bears-inactives"
-        },
-        {
-          "title": "CBS Sports: Week 5 inactives tracker",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "9500": {
       "name": "Josh Downs",
-      "verdict": "flex",
+      "verdict": "start",
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Not on the Colts inactive list. Darius Slayton and Ashton Dulin are out, which thins the target competition.",
-        "Healthy, with no injury tag. Steelers favored by 3 with a 43.5 total, so the Colts project for about 20 points."
+        "Home vs. Tennessee, Sunday 10 AM. Colts are 6.5-point favorites, about 25.5 implied points.",
+        "Moves into a WR slot with St. Brown and Jefferson on bye."
       ],
       "sources": [
         {
-          "title": "RotoWire: Josh Downs",
-          "url": "https://rotowire.com//football/player/josh-downs-16689"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
         },
         {
-          "title": "VegasInsider Week 5 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-5-odds-2026/"
-        },
-        {
-          "title": "Yahoo/Colts Wire: Colts vs. Steelers inactives",
-          "url": "https://sports.yahoo.com/articles/colts-vs-steelers-inactives-whos-153534697.html"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "8110": {
       "name": "Jake Ferguson",
       "verdict": "start",
-      "confidence": "high",
+      "adj_pct": 0,
+      "confidence": "medium",
       "notes": [
-        "Played Thursday night, so his points are already locked in."
+        "At Green Bay on Sunday night, 5:20 PM. Dallas is a 2.5-point favorite, about 26.5 implied points, the best of your games."
+      ],
+      "sources": [
+        {
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+        },
+        {
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+        }
       ]
     },
     "NYJ": {
       "name": "Jets DEF",
-      "verdict": "start",
+      "verdict": "sit",
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Jets are 2.5-point home favorites over Cleveland with a 39.5 total, holding the Browns to about 18.5 implied points."
+        "At New England, Sunday 10 AM. Patriots are 7-point favorites, about 25 implied points against.",
+        "Look for a streaming defense on waivers this week."
       ],
       "sources": [
         {
-          "title": "VegasInsider Week 5 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-5-odds-2026/"
+          "title": "NFL.com: Week 6 schedule",
+          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+        },
+        {
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     "8155": {
       "name": "Breece Hall",
-      "verdict": "out",
-      "confidence": "high",
+      "verdict": "stash",
+      "adj_pct": 0,
+      "confidence": "low",
       "notes": [
-        "Listed Out on Sleeper this week."
+        "Missed Week 5 with a quad injury. No return timeline yet.",
+        "Watch Wednesday practice reports."
+      ],
+      "sources": [
+        {
+          "title": "NBC Sports: Hall ruled out Week 5",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-09/breece-hall-quad-ruled-out-for-week-5-vs-browns"
+        }
       ]
     }
   },
   "comparisons": [
     {
-      "a": "3257",
-      "b": "6904",
-      "pick": "3257",
-      "why": "Hurts is active, but Arizona projects for about 24.5 points to Philadelphia's 17, and Hurts locks early from London.",
+      "a": "6904",
+      "b": "3257",
+      "pick": "6904",
+      "why": "Hurts has the higher implied total and a rushing floor. Brissett could pile up garbage-time volume as a big underdog. Low confidence, revisit Saturday.",
       "sources": [
         {
-          "title": "Inquirer: Eagles props",
-          "url": "https://www.inquirer.com/eagles/eagles-jaguars-week-5-nfl-odds-prop-bets-20261008.html"
-        },
-        {
-          "title": "SI: Lions vs. Cardinals",
-          "url": "https://www.si.com/betting/lions-vs-cardinals-prediction-odds-spread-injuries-trends-for-nfl-week-5-2026"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     {
-      "a": "8154",
-      "b": "11581",
-      "pick": "8154",
-      "why": "Robinson has steady goal-line work in a favored offense facing a Ravens team without Lamar. Lloyd is splitting carries at 2.7 yards per carry.",
+      "a": "5927",
+      "b": "9511",
+      "pick": "5927",
+      "why": "McLaurin looked healthy in Week 5 and gets a 50.5 total on Monday night. Mitchell faces a tough spot as a 7.5-point underdog in Kansas City.",
       "sources": [
         {
-          "title": "RotoWire: Brian Robinson",
-          "url": "https://rotowire.com//football/player/brian-robinson-15907"
+          "title": "NBC Sports: McLaurin Week 5",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/terry-mclaurin-goes-for-62-yards-vs-giants"
         },
         {
-          "title": "Yardbarker: Lloyd",
-          "url": "https://www.yardbarker.com/nfl/articles/marshawn_lloyd_is_now_a_stash_in_fantasy_football/s1_17814_44405602"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     },
     {
-      "a": "9511",
-      "b": "11581",
-      "pick": "9511",
-      "why": "Lloyd's game already kicked off at 10 AM. Mitchell stays in, and Johnston being out could add a target or two.",
+      "a": "11581",
+      "b": "9511",
+      "pick": "11581",
+      "why": "Lloyd is at home in a 50.5 total with Green Bay projected near 24 points. Mitchell's team projects near 19. Close call.",
       "sources": [
         {
-          "title": "Draft Sharks: Chargers backfield",
-          "url": "https://www.draftsharks.com/fantasy-football-news/83173/things-just-got-even-worse-for-omarion-hampton"
-        }
-      ]
-    },
-    {
-      "a": "6794",
-      "b": "5844",
-      "pick": "6794",
-      "why": "Jefferson is active and Addison is out, so start Jefferson. Hockenson stays on the bench.",
-      "sources": [
-        {
-          "title": "Draft Sharks: Jefferson active, Addison inactive",
-          "url": "https://www.draftsharks.com/fantasy-football-news/83299/justin-jefferson-active-jordan-addison-inactive"
-        },
-        {
-          "title": "CBS Sports: Week 5 inactives tracker",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
-        }
-      ]
-    },
-    {
-      "a": "9500",
-      "b": "5927",
-      "pick": "9500",
-      "why": "McLaurin is active but on limited snaps. Downs is healthy and gains targets with Slayton and Dulin out.",
-      "sources": [
-        {
-          "title": "CBS Sports: Week 5 inactives tracker",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-5-inactives-injury-tracker-updates/live/"
-        },
-        {
-          "title": "SI: Is Terry McLaurin playing today?",
-          "url": "https://www.si.com/betting/terry-mclaurin-injury-update-betting-impact-for-giants-vs-commanders-in-nfl-week-5-2026"
-        },
-        {
-          "title": "Yahoo/Colts Wire: Colts vs. Steelers inactives",
-          "url": "https://sports.yahoo.com/articles/colts-vs-steelers-inactives-whos-153534697.html"
+          "title": "StatSniper: Week 6 lookahead odds",
+          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
         }
       ]
     }
