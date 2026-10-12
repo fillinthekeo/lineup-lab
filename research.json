@@ -1,43 +1,45 @@
 {
   "season": 2026,
   "week": 6,
-  "generated_at": "2026-10-12T20:45:00Z",
-  "run": "Week 6 early look (Monday)",
-  "headline": "Week 6 early look: St. Brown, Jefferson and Hockenson are on bye, so Golden and Downs move into the WR slots.",
+  "generated_at": "2026-10-12T20:55:00Z",
+  "run": "Tuesday waivers",
+  "headline": "Lions and Vikings byes take out St. Brown, Jefferson and Hockenson, so add a WR and start Lloyd, Golden and McLaurin.",
   "alerts": [
-    "Lions and Vikings are on bye. Bench St. Brown, Jefferson and Hockenson before Sunday 10 AM.",
-    "Sunday 10 AM locks: Hurts, Robinson, Downs, Jets DEF. 1:05 PM: Brissett. 1:25 PM: Mitchell. 5:20 PM: Golden, Lloyd, Ferguson. Monday 5:15 PM: McLaurin.",
-    "London game (Texans at Jaguars) is Sunday 6:30 AM. None of your players are in it.",
-    "Jets DEF faces a 25-point Patriots implied total. Look for a streaming defense and a kicker on waivers.",
-    "Sleeper could not be reached this run, so roster and opponent were not refreshed. Lines are early lookahead numbers, and the Saturday review will update them."
+    "Week 6 byes: Lions and Vikings (St. Brown, Jefferson, Hockenson). Start McLaurin and Golden at WR with Downs at FLEX.",
+    "Sleeper could not be reached this run. Roster and free agent status are based on last week's list, so confirm in the app's Waivers tab.",
+    "Breece Hall (quad) is week to week. Check Wednesday and Thursday practice reports before slotting him over Mitchell.",
+    "Sun 10:00 AM: Robinson, Downs, Hurts and Jets D lock. 1:05 PM: Brissett. 1:25 PM: Mitchell. 5:20 PM: Lloyd, Golden, Ferguson.",
+    "Sun 6:30 AM: Texans at Jaguars in London. None of your players are in it.",
+    "Mon 5:15 PM: McLaurin at San Francisco. Keep a late-game backup in mind in case his hamstring flares up.",
+    "Week 6 player props are not posted yet. A later run will add prop numbers."
   ],
   "games": {
     "ARI": {
-      "note": "At Rams, Sun 1:05 PM. Rams -10.5, total 51.5."
+      "note": "At Rams Sunday 1:05 PM Pacific. Rams -12.5, total 52.5. Arizona about 20 implied points."
     },
     "PHI": {
-      "note": "Vs. Panthers, Sun 10 AM. Eagles -2.5, total 43.5."
+      "note": "Vs. Carolina Sunday 10:00 AM Pacific. Eagles -1.5, total 43.5. Barkley, Smith and Shipley injuries."
     },
     "ATL": {
-      "note": "Vs. Bears, Sun 10 AM. Bears -1.5, total 47.5."
+      "note": "Vs. Chicago Sunday 10:00 AM Pacific. Falcons -1.5, total 47.5."
     },
     "LAC": {
-      "note": "At Chiefs, Sun 1:25 PM. Chiefs -7.5, total 45.5."
+      "note": "At Kansas City Sunday 1:25 PM Pacific. Chiefs -8.5, total 43.5. Chargers about 17.5 implied points."
     },
     "GB": {
-      "note": "Vs. Cowboys, Sun 5:20 PM. Cowboys -2.5, total 50.5."
+      "note": "Vs. Dallas Sunday night 5:20 PM Pacific. Packers -1.5, total 52.5."
     },
     "DAL": {
-      "note": "At Packers, Sun 5:20 PM. Cowboys -2.5, total 50.5."
-    },
-    "IND": {
-      "note": "Vs. Titans, Sun 10 AM. Colts -6.5, total 44.5."
+      "note": "At Green Bay Sunday night 5:20 PM Pacific. CeeDee Lamb has a quad injury."
     },
     "WAS": {
-      "note": "At 49ers, Mon 5:15 PM. 49ers -7.5, total 50.5."
+      "note": "At San Francisco Monday 5:15 PM Pacific. 49ers -7.5, total 50.5."
+    },
+    "IND": {
+      "note": "Vs. Tennessee Sunday 10:00 AM Pacific. Colts -7, total 44.5."
     },
     "NYJ": {
-      "note": "At Patriots, Sun 10 AM. Patriots -7, total 43.5."
+      "note": "At New England Sunday 10:00 AM Pacific. Patriots -7.5, total 44.5."
     },
     "DET": {
       "note": "Bye week."
@@ -49,101 +51,156 @@
   "players": {
     "3257": {
       "name": "Jacoby Brissett",
-      "verdict": "flex",
+      "verdict": "start",
       "adj_pct": 0,
-      "confidence": "low",
+      "confidence": "medium",
       "notes": [
-        "At the Rams, Sunday 1:05 PM. Arizona is a 10.5-point underdog with a 51.5 total, about 20.5 implied points.",
-        "Trailing script could mean a lot of volume. Toss-up with Hurts until Saturday."
+        "Week 5: 29 of 47 for 292 yards, 3 TD, 1 INT in a 45-21 loss to Detroit.",
+        "He is averaging about 45 attempts a game, and Arizona is a 12.5-point underdog at the Rams, so volume should stay high.",
+        "Arizona implied for about 20 points. Kickoff Sunday 1:05 PM Pacific.",
+        "Marvin Harrison Jr. was traded, and rookie Carson Beck could take over later in the season. Not a Week 6 worry yet."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "CBS: Lions at Cardinals box score",
+          "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261011_DET@ARI/"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "RotoWire: Week 6 waiver pickups",
+          "url": "https://www.rotowire.com/football/article/fantasy-football-waiver-wire-top-pickups-for-week-6-140522"
+        },
+        {
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
     "6904": {
       "name": "Jalen Hurts",
-      "verdict": "start",
-      "adj_pct": 0,
-      "confidence": "low",
+      "verdict": "sit",
+      "adj_pct": -5,
+      "confidence": "medium",
       "notes": [
-        "Home vs. Carolina, Sunday 10 AM. Eagles are 2.5-point favorites with a 43.5 total, about 23 implied points.",
-        "Rushing floor gives him the slight edge over Brissett on early lines."
+        "Week 5 in London: 21 of 40 for 220 yards and 1 TD, with only 2 rushing yards.",
+        "Saquon Barkley and DeVonta Smith both missed Week 5, and Will Shipley hurt his foot, so the offense is thin.",
+        "Eagles are 1.5-point home favorites over Carolina with a 43.5 total, about 22.5 implied points. Kickoff 10:00 AM Pacific."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "CBS: Eagles at Jaguars recap",
+          "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261011_PHI@JAC/"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "FanDuel: 10 best Week 6 adds",
+          "url": "https://www.fanduel.com/research/10-best-fantasy-football-waiver-wire-adds-heading-into-nfl-week-6-2026"
+        },
+        {
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
+        }
+      ]
+    },
+    "11581": {
+      "name": "MarShawn Lloyd",
+      "verdict": "start",
+      "adj_pct": 10,
+      "confidence": "medium",
+      "notes": [
+        "Week 5: 10 carries, 31 yards and 2 TDs on 27 snaps, his first career scores.",
+        "Josh Jacobs is still on the commissioner exempt list, Chris Brooks is on IR, and Kaleb Johnson's role has shrunk.",
+        "Packers host Dallas Sunday night, 5:20 PM Pacific. Green Bay is a 1.5-point favorite with a 52.5 total, about 27 implied points."
+      ],
+      "sources": [
+        {
+          "title": "Packers.com: Packers defeat Bears",
+          "url": "https://www.packers.com/news/in-game-updates-week-5-bears-2026"
+        },
+        {
+          "title": "FanDuel: 10 best Week 6 adds",
+          "url": "https://www.fanduel.com/research/10-best-fantasy-football-waiver-wire-adds-heading-into-nfl-week-6-2026"
+        },
+        {
+          "title": "RotoWire: Week 6 waiver pickups",
+          "url": "https://www.rotowire.com/football/article/fantasy-football-waiver-wire-top-pickups-for-week-6-140522"
+        },
+        {
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
     "8154": {
       "name": "Brian Robinson",
-      "verdict": "start",
+      "verdict": "flex",
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "low",
       "notes": [
-        "Home vs. Chicago, Sunday 10 AM. Atlanta is a 1.5-point underdog in a 47.5 total, about 23 implied points.",
-        "Kept goal-line work in recent weeks."
+        "He is the clear backup to Bijan Robinson, who had 17 carries and 4 catches in the Week 5 overtime loss.",
+        "Before Week 5 he had 35 carries and 4 TDs over three games, but his last outing before that was 7 carries for 16 yards.",
+        "Falcons host Chicago at 10:00 AM Pacific, 1.5-point favorites with a 47.5 total, about 24.5 implied points."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "NBC: Bijan Robinson Week 5",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/bijan-robinson-held-out-of-ez-in-week-5-ot-loss"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "STACKED: Brian Robinson role",
+          "url": "https://www.stackedfantasy.com/nfl/news/insights/1030510"
+        },
+        {
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
     "9511": {
       "name": "Keaton Mitchell",
       "verdict": "flex",
-      "adj_pct": 0,
+      "adj_pct": -10,
       "confidence": "low",
       "notes": [
-        "At Kansas City, Sunday 1:25 PM. Chargers are 7.5-point underdogs, about 19 implied points.",
-        "Pass-game role helps if the Chargers trail."
+        "Week 5: 6 carries for 11 yards and 3 catches for 18 yards in a loss to Denver.",
+        "Kimani Vidal's snap share has risen each week, so this looks like a committee.",
+        "Chargers are 8.5-point underdogs at Kansas City, only about 17.5 implied points. Kickoff 1:25 PM Pacific."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "NBC: Mitchell held to 29 yards",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/keaton-mitchell-held-to-29-total-yards-in-defeat"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "Yahoo: Week 6 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
+        },
+        {
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
-    "11581": {
-      "name": "MarShawn Lloyd",
-      "verdict": "flex",
-      "adj_pct": 0,
+    "8155": {
+      "name": "Breece Hall",
+      "verdict": "stash",
+      "adj_pct": -15,
       "confidence": "low",
       "notes": [
-        "Home vs. Dallas on Sunday night, 5:20 PM. Green Bay projects for about 24 points in a 50.5 total.",
-        "Check whether Josh Jacobs is still on the exempt list before Saturday."
+        "Quad injury, missed the last two games and is week to week.",
+        "Braelon Allen ran 24 times for 116 yards and the game-winning TD in Week 5, so Hall may share work when he returns.",
+        "Jets are 7.5-point underdogs at New England, about 18.5 implied points. Kickoff 10:00 AM Pacific. Watch Wednesday and Thursday practice."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "RotoWire: Breece Hall news",
+          "url": "https://www.rotowire.com/football/player/breece-hall-15810"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "ABC/AP: Jets beat Browns 17-12",
+          "url": "https://abcnews.com/Sports/wireStory/allen-late-22-yard-td-run-jets-defense-137181510"
+        },
+        {
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
@@ -153,12 +210,17 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Lions are on bye in Week 6. Must be benched."
+        "Lions are on bye in Week 6.",
+        "Week 5: 6 catches on 11 targets for 69 yards."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "FOX Sports: 2026 bye weeks",
+          "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams"
+        },
+        {
+          "title": "CBS: Lions at Cardinals box score",
+          "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261011_DET@ARI/"
         }
       ]
     },
@@ -168,12 +230,12 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Vikings are on bye in Week 6. Must be benched."
+        "Vikings are on bye in Week 6."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "FOX Sports: 2026 bye weeks",
+          "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams"
         }
       ]
     },
@@ -183,76 +245,82 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Vikings are on bye in Week 6."
+        "Vikings are on bye in Week 6.",
+        "He is also dealing with a concussion. Top drop candidate this week."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "FOX Sports: 2026 bye weeks",
+          "url": "https://www.foxsports.com/stories/nfl/2026-nfl-bye-weeks-schedule-all-32-teams"
+        },
+        {
+          "title": "Yahoo: Week 6 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
         }
       ]
     },
     "5927": {
       "name": "Terry McLaurin",
-      "verdict": "flex",
-      "adj_pct": 0,
+      "verdict": "start",
+      "adj_pct": -5,
       "confidence": "medium",
       "notes": [
-        "Caught all 4 targets for 62 yards in the Week 5 tie with the Giants.",
-        "At San Francisco on Monday night, 5:15 PM. Washington is a 7.5-point underdog in a 50.5 total, about 21.5 implied points."
+        "Played through his hamstring in Week 5 and caught all 4 targets for 62 yards.",
+        "Stefon Diggs (hamstring) missed Week 5, which leaves more targets for McLaurin.",
+        "Commanders are 7.5-point underdogs at San Francisco on Monday night, 5:15 PM Pacific. Trailing script helps passing volume."
       ],
       "sources": [
         {
-          "title": "NBC Sports: McLaurin Week 5",
+          "title": "NBC: McLaurin 62 yards vs. Giants",
           "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/terry-mclaurin-goes-for-62-yards-vs-giants"
         },
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "RotoWire: Week 6 waiver pickups",
+          "url": "https://www.rotowire.com/football/article/fantasy-football-waiver-wire-top-pickups-for-week-6-140522"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
     "12501": {
       "name": "Matthew Golden",
       "verdict": "start",
-      "adj_pct": 0,
+      "adj_pct": 5,
       "confidence": "medium",
       "notes": [
-        "Home vs. Dallas on Sunday night, 5:20 PM, in the highest total of your games at 50.5.",
-        "Moves into a WR slot with St. Brown and Jefferson on bye."
+        "Week 5: 6 catches for 123 yards, including catches of 36 and 50 yards.",
+        "Packers host Dallas Sunday night, 5:20 PM Pacific, in the highest total game on the slate at 52.5."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "Packers.com: Packers defeat Bears",
+          "url": "https://www.packers.com/news/in-game-updates-week-5-bears-2026"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
     "9500": {
       "name": "Josh Downs",
-      "verdict": "start",
+      "verdict": "flex",
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Home vs. Tennessee, Sunday 10 AM. Colts are 6.5-point favorites, about 25.5 implied points.",
-        "Moves into a WR slot with St. Brown and Jefferson on bye."
+        "Week 5: 3 catches on 6 targets for 47 yards in a loss at Pittsburgh.",
+        "Colts are 7-point home favorites over Tennessee, about 25.75 implied points. Kickoff 10:00 AM Pacific."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "NBC: Downs held to three catches",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/downs-held-to-just-three-catches-in-week-5-loss"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
@@ -262,97 +330,181 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "At Green Bay on Sunday night, 5:20 PM. Dallas is a 2.5-point favorite, about 26.5 implied points, the best of your games."
+        "Your only healthy TE with Hockenson on bye.",
+        "CeeDee Lamb is nursing a quad injury, which could push a few more targets to Ferguson.",
+        "Cowboys at Packers Sunday night, 5:20 PM Pacific, 52.5 total, Dallas about 25.5 implied points."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "Yahoo: Week 6 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
     "NYJ": {
-      "name": "Jets DEF",
+      "name": "New York Jets",
       "verdict": "sit",
-      "adj_pct": 0,
+      "adj_pct": -10,
       "confidence": "medium",
       "notes": [
-        "At New England, Sunday 10 AM. Patriots are 7-point favorites, about 25 implied points against.",
-        "Look for a streaming defense on waivers this week."
+        "Jets had 8 sacks and allowed 12 points to Cleveland in Week 5.",
+        "Week 6 is at New England, a 7.5-point favorite with about 26 implied points.",
+        "The Colts D/ST at home vs. Tennessee is a better stream if available."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 6 schedule",
-          "url": "https://www.nfl.com/schedules/2026/by-week/reg-6"
+          "title": "ABC/AP: Jets beat Browns 17-12",
+          "url": "https://abcnews.com/Sports/wireStory/allen-late-22-yard-td-run-jets-defense-137181510"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
-        }
-      ]
-    },
-    "8155": {
-      "name": "Breece Hall",
-      "verdict": "stash",
-      "adj_pct": 0,
-      "confidence": "low",
-      "notes": [
-        "Missed Week 5 with a quad injury. No return timeline yet.",
-        "Watch Wednesday practice reports."
-      ],
-      "sources": [
+          "title": "Yahoo: Week 6 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
+        },
         {
-          "title": "NBC Sports: Hall ruled out Week 5",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-09/breece-hall-quad-ruled-out-for-week-5-vs-browns"
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     }
   },
   "comparisons": [
     {
-      "a": "6904",
-      "b": "3257",
-      "pick": "6904",
-      "why": "Hurts has the higher implied total and a rushing floor. Brissett could pile up garbage-time volume as a big underdog. Low confidence, revisit Saturday.",
+      "a": "3257",
+      "b": "6904",
+      "pick": "3257",
+      "why": "Brissett's pass volume as a big underdog beats Hurts in a low-total game with his top weapons hurt.",
       "sources": [
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
-        }
-      ]
-    },
-    {
-      "a": "5927",
-      "b": "9511",
-      "pick": "5927",
-      "why": "McLaurin looked healthy in Week 5 and gets a 50.5 total on Monday night. Mitchell faces a tough spot as a 7.5-point underdog in Kansas City.",
-      "sources": [
-        {
-          "title": "NBC Sports: McLaurin Week 5",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-11/terry-mclaurin-goes-for-62-yards-vs-giants"
+          "title": "CBS: Lions at Cardinals box score",
+          "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261011_DET@ARI/"
         },
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "CBS: Eagles at Jaguars recap",
+          "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261011_PHI@JAC/"
+        },
+        {
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
         }
       ]
     },
     {
-      "a": "11581",
+      "a": "8154",
       "b": "9511",
-      "pick": "11581",
-      "why": "Lloyd is at home in a 50.5 total with Green Bay projected near 24 points. Mitchell's team projects near 19. Close call.",
+      "pick": "8154",
+      "why": "If you only need one of them, Robinson gets a better game script at home. Mitchell is in a committee and the Chargers project for only 17.5 points.",
       "sources": [
         {
-          "title": "StatSniper: Week 6 lookahead odds",
-          "url": "https://statsniper.com/blog/nfl/nfl-week-6-2026-odds-rams-chiefs-49ers-favorites/"
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
+        },
+        {
+          "title": "Yahoo: Week 6 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
+        }
+      ]
+    },
+    {
+      "a": "9511",
+      "b": "8155",
+      "pick": "9511",
+      "why": "Hall is week to week with a quad injury. Switch to Hall only if he gets a full practice by Friday.",
+      "sources": [
+        {
+          "title": "RotoWire: Breece Hall news",
+          "url": "https://www.rotowire.com/football/player/breece-hall-15810"
         }
       ]
     }
   ],
-  "waivers": []
+  "waivers": [
+    {
+      "id": "",
+      "name": "Germie Bernard",
+      "pos": "WR",
+      "why": "Steelers rookie ran a route on 94% of dropbacks with 9 targets, 6 catches and 80 yards. Pittman is on IR and Roman Wilson is out. Drop Hockenson.",
+      "sources": [
+        {
+          "title": "Yahoo: Week 6 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
+        },
+        {
+          "title": "RotoWire: Week 6 waiver pickups",
+          "url": "https://www.rotowire.com/football/article/fantasy-football-waiver-wire-top-pickups-for-week-6-140522"
+        },
+        {
+          "title": "FanDuel: 10 best Week 6 adds",
+          "url": "https://www.fanduel.com/research/10-best-fantasy-football-waiver-wire-adds-heading-into-nfl-week-6-2026"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Kendrick Bourne",
+      "pos": "WR",
+      "why": "Cardinals WR2 after the Harrison trade, 8 targets in Week 5, and he shares your Brissett stack. Drop Jets D or Mitchell.",
+      "sources": [
+        {
+          "title": "RotoWire: Week 6 waiver pickups",
+          "url": "https://www.rotowire.com/football/article/fantasy-football-waiver-wire-top-pickups-for-week-6-140522"
+        },
+        {
+          "title": "FanDuel: 10 best Week 6 adds",
+          "url": "https://www.fanduel.com/research/10-best-fantasy-football-waiver-wire-adds-heading-into-nfl-week-6-2026"
+        },
+        {
+          "title": "CBS: Lions at Cardinals box score",
+          "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261011_DET@ARI/"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Dameon Pierce",
+      "pos": "RB",
+      "why": "Played 48 snaps with Barkley out and Shipley hurt. Could lead the Eagles backfield in Week 6. Drop Mitchell if needed.",
+      "sources": [
+        {
+          "title": "FanDuel: 10 best Week 6 adds",
+          "url": "https://www.fanduel.com/research/10-best-fantasy-football-waiver-wire-adds-heading-into-nfl-week-6-2026"
+        },
+        {
+          "title": "Yahoo: Week 6 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Dontayvion Wicks",
+      "pos": "WR",
+      "why": "Had 8 targets for 63 yards with DeVonta Smith out. A bye-week flex if Smith misses again.",
+      "sources": [
+        {
+          "title": "FanDuel: 10 best Week 6 adds",
+          "url": "https://www.fanduel.com/research/10-best-fantasy-football-waiver-wire-adds-heading-into-nfl-week-6-2026"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Indianapolis Colts",
+      "pos": "DEF",
+      "why": "Home vs. Tennessee as a 7-point favorite, about 4% rostered in Yahoo. Drop the Jets D, who play at New England.",
+      "sources": [
+        {
+          "title": "Yahoo: Week 6 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-6-germie-bernard-dameon-pierce-among-top-pickups-171100083.html"
+        },
+        {
+          "title": "SI: Week 6 opening odds",
+          "url": "https://www.si.com/betting/nfl-week-6-opening-odds-for-every-game-seahawks-packers-49ers-favored-in-primetime-2026"
+        }
+      ]
+    }
+  ]
 }
