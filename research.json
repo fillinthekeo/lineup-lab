@@ -1,10 +1,13 @@
 {
   "season": 2026,
   "week": 5,
-  "generated_at": "2026-10-11T18:55:00Z",
+  "generated_at": "2026-10-12T20:20:00Z",
   "run": "Sunday inactives, late games",
-  "headline": "No swaps needed for the late games. Brissett, St. Brown and Mitchell carry no injury tags, and Quentin Johnston is out for the Chargers.",
+  "headline": "All of your Week 5 games are final. Nobody on your roster plays in Bills at Rams on Monday night, so the lineup is locked and no swaps are possible.",
   "alerts": [
+    "1:20 PM Monday: Every Sunday game is final, including Falcons vs. Ravens. No verdicts changed.",
+    "5:15 PM Monday: Bills at Rams is the only game left. Rams favored by 3.5 with a 54.5 total. You have no Bills or Rams players, so nothing to do.",
+    "Sleeper could not be reached this run, so check the app for your final score and the opponent's Monday night players.",
     "11:50 AM: Chargers ruled out WR Quentin Johnston and S Derwin James. Ladd McConkey is active. Keep Keaton Mitchell in the FLEX, he could see a few extra targets.",
     "11:55 AM: Lions and Cardinals inactives were not posted yet. Neither St. Brown nor Brissett is on the final injury report, so no change is expected. Check Sleeper before 1:25 PM.",
     "1:05 PM: Chargers vs. Broncos locks (Mitchell). 1:25 PM: Lions at Cardinals locks (Brissett, St. Brown).",
@@ -22,10 +25,10 @@
       "note": "London game at 6:30 AM Pacific."
     },
     "BAL": {
-      "note": "Lamar Jackson is out. Zay Flowers and Marlon Humphrey are expected to play."
+      "note": "Played Sunday night. Points are final."
     },
     "ATL": {
-      "note": "Sunday night, 5:20 PM Pacific. Line flipped to Falcons -3 after Lamar Jackson was ruled out. OT Jake Matthews is expected to play."
+      "note": "Played Sunday night. Points are final."
     },
     "DAL": {
       "note": "Played Thursday night. Points are final."
@@ -49,16 +52,22 @@
       "note": "Breece Hall inactive vs. Cleveland."
     },
     "DET": {
-      "note": "1:25 PM Pacific at Arizona. Final injury report has only linemen and defensive backs out. St. Brown has no tag."
+      "note": "1:25 PM Pacific at Arizona. Final injury report has only linemen and defensive backs out. St. Brown has no tag. Game is final."
     },
     "ARI": {
-      "note": "1:25 PM Pacific vs. Detroit. Brissett has no injury tag. OL Isaiah Adams is out."
+      "note": "1:25 PM Pacific vs. Detroit. Brissett has no injury tag. OL Isaiah Adams is out. Game is final."
     },
     "LAC": {
-      "note": "1:05 PM Pacific vs. Denver. Quentin Johnston and Derwin James are out. McConkey is active."
+      "note": "1:05 PM Pacific vs. Denver. Quentin Johnston and Derwin James are out. McConkey is active. Game is final."
     },
     "DEN": {
-      "note": "Broncos ruled out CBs Patrick Surtain and Riley Moss, a boost for the Chargers passing game."
+      "note": "Broncos ruled out CBs Patrick Surtain and Riley Moss, a boost for the Chargers passing game. Game is final."
+    },
+    "BUF": {
+      "note": "Monday night at the Rams, 5:15 PM Pacific. Bills are 3.5-point underdogs, 54.5 total. Josh Allen has been playing through a reported knee issue."
+    },
+    "LAR": {
+      "note": "Monday night vs. Buffalo, 5:15 PM Pacific at SoFi Stadium. Rams favored by 3.5."
     }
   },
   "players": {
