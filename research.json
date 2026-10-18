@@ -1,21 +1,21 @@
 {
   "season": 2026,
   "week": 6,
-  "generated_at": "2026-10-18T15:47:55Z",
-  "run": "Sunday inactives, 10 AM games",
-  "headline": "Inactives are posted for the 10 AM games. Robinson, Downs and the Jets D are all active, so no swaps. Still add a kicker before 10:00 AM.",
+  "generated_at": "2026-10-18T18:53:12Z",
+  "run": "Sunday inactives, late games",
+  "headline": "Late-game inactives are out. Brissett and Mitchell are both active, so no swaps. Add a kicker before 1:05 PM if you still need one.",
   "alerts": [
-    "Sun 8:45 AM: Inactives are out for the 10 AM games. Brian Robinson, Josh Downs and the Jets D are all active. No swaps needed.",
-    "No kicker shows on your tracked roster. Use the open spot (or drop Hockenson) to add one before Sun 10:00 AM. Harrison Mevis (Rams, 1:05 PM) is a good fit.",
-    "Jalen Hurts is on IR (calf blood clot). Move him to an IR slot if your league has one. Start Brissett at QB.",
-    "Colts TE Tyler Warren is inactive, which should push a few more targets to Downs.",
-    "Patriots WR A.J. Brown is active against the Jets D, a small downgrade for the Jets.",
-    "Sun 10:00 AM: Robinson, Downs and Jets D lock. 1:05 PM: Brissett. 1:25 PM: Mitchell. 5:20 PM: Lloyd, Golden, Ferguson. Mon 5:15 PM: McLaurin.",
+    "Sun 11:50 AM: Cardinals inactives are out. Brissett is active, Carson Beck is only the emergency QB. Keep Brissett at QB.",
+    "Chargers inactives are posted. Keaton Mitchell is active. Tre Harris, Derwin James, Donte Jackson and Bud Dupree are inactive.",
+    "If you still have no kicker, add Harrison Mevis (Rams) before 1:05 PM. Rams are 12.5-point favorites.",
+    "Jalen Hurts is on IR. Move him to an IR slot if your league has one.",
+    "Chiefs WR Rashee Rice is out, Chargers are missing Tre Harris, Joe Alt and Derwin James. Low-scoring script expected.",
+    "Locks: 1:05 PM Brissett. 1:25 PM Mitchell. 5:20 PM Lloyd, Golden, Ferguson. Mon 5:15 PM McLaurin.",
     "Sleeper could not be reached this run, so the roster is from an earlier run. Confirm your starters in the app."
   ],
   "games": {
     "ARI": {
-      "note": "At Rams Sunday 1:05 PM Pacific. Rams -12.5, total 51.5, Arizona about 19.5 implied. RB Jeremiyah Love is out."
+      "note": "At Rams Sunday 1:05 PM Pacific. Rams -12.5, total 51.5. Inactives posted, Brissett active. Jeremiyah Love is inactive. Rams CB Trent McDuffie is inactive, a small boost for Arizona's passing game."
     },
     "PHI": {
       "note": "Vs. Carolina Sunday 10:00 AM Pacific. Hurts went on IR Saturday, Tanner McKee starts. Barkley is out. Panthers -3, total 39.5."
@@ -24,7 +24,7 @@
       "note": "Vs. Chicago Sunday 10:00 AM Pacific. Bears -1.5, total 52.5, Falcons about 25.5 implied. Penix starts, and the Bears reportedly plan to start Caleb Williams."
     },
     "LAC": {
-      "note": "At Kansas City Sunday 1:25 PM Pacific. Chiefs -7.5, total 41.5, Chargers about 17 implied. Tre Harris, Joe Alt and Derwin James are out."
+      "note": "At Kansas City Sunday 1:25 PM Pacific. Chiefs -7.5, total 41.5. Inactives posted, Mitchell active. Tre Harris, Derwin James, Donte Jackson and Bud Dupree are inactive. Chiefs WR Rashee Rice is out."
     },
     "GB": {
       "note": "Vs. Dallas Sunday 5:20 PM Pacific. Packers -1.5, total 53.5, about 27.5 implied. Skyy Moore is out."
@@ -58,12 +58,16 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
+        "Active. Not on the Cardinals inactive list, and Carson Beck is the emergency third QB.",
+        "Rams CB Trent McDuffie is inactive, which helps the passing matchup.",
         "Props: 242.5 passing yards, 1.5 TD with the over at +140, 36.5 attempts. About 14.5 points with about 1 INT.",
-        "Arizona is a 12.5-point underdog at the Rams, total 51.5, so pass volume should stay high.",
-        "RB Jeremiyah Love is out, which can push even more of the offense through the air.",
-        "Your only healthy QB this week with Hurts out. Kickoff Sunday 1:05 PM Pacific."
+        "Arizona is a 12.5-point underdog at the Rams, total 51.5, so pass volume should stay high."
       ],
       "sources": [
+        {
+          "title": "SI All Cardinals: Cardinals vs Rams final inactives, Week 6",
+          "url": "https://www.si.com/nfl/cardinals/onsi/arizona-cardinals-los-angeles-rams-final-inactives-whos-in-whos-out-for-week-6"
+        },
         {
           "title": "SportsBettingDime: Week 6 player prop over/unders",
           "url": "https://www.sportsbettingdime.com/news/nfl/week-6-player-props-over-unders-all-games-2026/"
@@ -180,12 +184,19 @@
       "adj_pct": -10,
       "confidence": "low",
       "notes": [
-        "Not listed on the Chargers final report. McConkey also came off the report, but WR Tre Harris, LT Joe Alt and Derwin James are out.",
-        "Week 5: 6 carries for 11 yards and 3 catches. Still a three-man split with Kimani Vidal.",
-        "Chargers are 7.5-point underdogs at Kansas City, total 41.5, about 17 implied. Kickoff 1:25 PM Pacific.",
-        "Weakest of your flex options, use only if another starter is ruled out."
+        "Active. Not on the Chargers inactive list.",
+        "Chiefs WR Rashee Rice is out, but the Chargers are still about 17 implied with a thin line.",
+        "Week 5: 6 carries for 11 yards and 3 catches. Still a three-man split with Kimani Vidal."
       ],
       "sources": [
+        {
+          "title": "FantasyPros: 2026 NFL inactives",
+          "url": "https://www.fantasypros.com/nfl/players/inactives.php"
+        },
+        {
+          "title": "FOX Sports: Chargers vs. Chiefs game page and injury report",
+          "url": "https://www.foxsports.com/nfl/week-6-los-angeles-chargers-vs-kansas-city-chiefs-oct-18-2026-game-boxscore-11233"
+        },
         {
           "title": "NFL.com: Week 6 injury report, all games",
           "url": "https://www.nfl.com/news/nfl-week-6-injury-report-2026-season"
