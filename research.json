@@ -1,28 +1,28 @@
 {
   "season": 2026,
   "week": 6,
-  "generated_at": "2026-10-18T03:01:25Z",
-  "run": "Saturday review",
-  "headline": "Hurts and Hall are ruled out, Downs and McLaurin are cleared, so start Brissett and use Downs in a FLEX.",
+  "generated_at": "2026-10-18T13:05:00Z",
+  "run": "Sunday early check",
+  "headline": "No lineup changes overnight, Hurts is now on IR, so move him to an IR slot and use the open spot on a kicker before 10:00 AM.",
   "alerts": [
-    "Jalen Hurts (calf) is OUT Sunday. Start Brissett at QB.",
-    "Breece Hall (quad) is OUT again. Keep him on the bench.",
-    "Josh Downs is off the injury report and McLaurin has no designation for Monday. Both are fine to start.",
-    "Penix is off the injury report and will start for Atlanta, good for Brian Robinson.",
-    "Sun 6:30 AM: Jaguars vs. Texans in London. None of your tracked players are in it.",
+    "Jalen Hurts was placed on IR Saturday (calf blood clot), out at least four games. If your league has an IR slot, move him there.",
+    "No kicker shows on your tracked roster. Use the open spot (or drop Hockenson) to add one before Sun 10:00 AM. Harrison Mevis (Rams, 1:05 PM) is a good fit.",
+    "Start Brissett at QB. Breece Hall is out again.",
+    "No overnight news on Robinson, Downs, Mitchell, Lloyd, Golden, Ferguson or McLaurin. Lines are unchanged since Saturday.",
+    "NFL Network reports the Bears plan to start Caleb Williams vs. Atlanta. That keeps the 52.5 total in play for Brian Robinson.",
+    "Sun 6:30 AM: Texans at Jaguars in London. Inactives are posted, none of your players are in it.",
     "Sun 10:00 AM: Robinson, Downs and Jets D lock. 1:05 PM: Brissett. 1:25 PM: Mitchell. 5:20 PM: Lloyd, Golden, Ferguson. Mon 5:15 PM: McLaurin.",
-    "No kicker shows in the tracked roster. Add one before Sunday 10:00 AM if you have not.",
-    "Sleeper could not be reached this run, so the roster is from the Tuesday run. Confirm your starters in the app."
+    "Sleeper could not be reached this run, so the roster is from an earlier run. Confirm your starters in the app."
   ],
   "games": {
     "ARI": {
       "note": "At Rams Sunday 1:05 PM Pacific. Rams -12.5, total 51.5, Arizona about 19.5 implied. RB Jeremiyah Love is out."
     },
     "PHI": {
-      "note": "Vs. Carolina Sunday 10:00 AM Pacific. Hurts and Barkley are out. Panthers now -3, total 39.5."
+      "note": "Vs. Carolina Sunday 10:00 AM Pacific. Hurts went on IR Saturday, Tanner McKee starts. Barkley is out. Panthers -3, total 39.5."
     },
     "ATL": {
-      "note": "Vs. Chicago Sunday 10:00 AM Pacific. Bears -1.5, total 52.5, Falcons about 25.5 implied. Penix is off the report and will start."
+      "note": "Vs. Chicago Sunday 10:00 AM Pacific. Bears -1.5, total 52.5, Falcons about 25.5 implied. Penix starts, and the Bears reportedly plan to start Caleb Williams."
     },
     "LAC": {
       "note": "At Kansas City Sunday 1:25 PM Pacific. Chiefs -7.5, total 41.5, Chargers about 17 implied. Tre Harris, Joe Alt and Derwin James are out."
@@ -37,7 +37,7 @@
       "note": "At San Francisco Monday 5:15 PM Pacific. 49ers -7.5, total 52.5. McLaurin has no designation, Diggs is questionable, Croskey-Merritt is out."
     },
     "IND": {
-      "note": "Vs. Tennessee Sunday 10:00 AM Pacific. Colts -7, total 44.5, about 26 implied. Downs is off the report."
+      "note": "Vs. Tennessee Sunday 10:00 AM Pacific. Colts -7, total 44.5, about 26 implied. Downs is off the report, TE Tyler Warren is questionable."
     },
     "NYJ": {
       "note": "At New England Sunday 10:00 AM Pacific. Patriots -7.5, total 43.5. Hall is out."
@@ -49,7 +49,7 @@
       "note": "Bye week."
     },
     "JAX": {
-      "note": "Vs. Houston in London, Sunday 6:30 AM Pacific. Jaguars -2.5, total 42.5. No rostered players."
+      "note": "Vs. Houston in London, Sunday 6:30 AM Pacific. Jaguars -2.5, total 42.5. Inactives posted, Texans RB David Montgomery is out. No rostered players."
     }
   },
   "players": {
@@ -90,17 +90,18 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Ruled OUT for Sunday with a calf injury. He practiced fully Wednesday, then missed Thursday and Friday.",
-        "Barkley is also out. Do not start Hurts, Brissett is your QB."
+        "Placed on IR Saturday with a superficial blood clot in his calf. He will miss at least four games.",
+        "Move him to an IR slot if your league has one, and use the spot on a kicker. Brissett is your QB.",
+        "Tanner McKee starts for Philadelphia."
       ],
       "sources": [
         {
-          "title": "Eagles.com: Panthers vs. Eagles final injury report",
-          "url": "https://www.philadelphiaeagles.com/news/panthers-vs-eagles-injury-report-2026-nfl-week-6-saquon-barkley-devonta-smith"
+          "title": "NFL.com: Eagles place Hurts on IR with calf blood clot",
+          "url": "https://www.nfl.com/news/eagles-place-qb-jalen-hurts-on-injured-reserve-due-to-superficial-blood-clot-in-calf"
         },
         {
-          "title": "NFL.com: Week 6 injury report, all games",
-          "url": "https://www.nfl.com/news/nfl-week-6-injury-report-2026-season"
+          "title": "Eagles.com: Panthers vs. Eagles final injury report",
+          "url": "https://www.philadelphiaeagles.com/news/panthers-vs-eagles-injury-report-2026-nfl-week-6-saquon-barkley-devonta-smith"
         }
       ]
     },
@@ -140,7 +141,7 @@
         "Penix was removed from the injury report and will start, which removes the main risk here.",
         "Bears are now 1.5-point favorites, but the total climbed to 52.5, so Atlanta is about 25.5 implied.",
         "Still the backup to Bijan Robinson, so he needs goal-line work to pay off.",
-        "Bears RB Kyle Monangai is out and Caleb Williams is questionable. Kickoff Sunday 10:00 AM Pacific."
+        "The Bears reportedly plan to start Caleb Williams, who is listed questionable. Bears RB Kyle Monangai is out. Kickoff Sunday 10:00 AM Pacific."
       ],
       "sources": [
         {
@@ -154,6 +155,14 @@
         {
           "title": "NFL.com: Week 6 injury report, all games",
           "url": "https://www.nfl.com/news/nfl-week-6-injury-report-2026-season"
+        },
+        {
+          "title": "NFL.com: Caleb Williams questionable vs. Falcons",
+          "url": "https://www.nfl.com/news/bears-qb-caleb-williams-hamstring-questionable-to-play-falcons"
+        },
+        {
+          "title": "NFL.com: Week 6 inactives tracker",
+          "url": "https://www.nfl.com/news/nfl-week-6-inactives-players-ruled-out-sunday-2026-season"
         }
       ]
     },
@@ -310,7 +319,8 @@
         "Removed from the final injury report, so the hamstring is no longer a concern.",
         "Props: 46.5 receiving yards and 3.5 catches with the over heavily favored. About 10 points with a modest TD share.",
         "Colts are 7-point favorites over Tennessee, total 44.5, about 26 implied. WR Ashton Dulin is out and TE Tyler Warren is questionable.",
-        "Kickoff Sunday 10:00 AM Pacific."
+        "Kickoff Sunday 10:00 AM Pacific.",
+        "No overnight news. Colts TE Tyler Warren is questionable, which could add a target or two if he sits."
       ],
       "sources": [
         {
@@ -328,6 +338,10 @@
         {
           "title": "NFL.com: Week 6 injury report, all games",
           "url": "https://www.nfl.com/news/nfl-week-6-injury-report-2026-season"
+        },
+        {
+          "title": "Sportsnaut: Latest Week 6 injury updates",
+          "url": "https://sportsnaut.com/nfl/2026-week-6-nfl-injury-report-updates"
         }
       ],
       "prop_proj": 10.3
@@ -386,11 +400,11 @@
       "a": "3257",
       "b": "6904",
       "pick": "3257",
-      "why": "Hurts is ruled out with a calf injury. Brissett is the only option and has a good passing script.",
+      "why": "Hurts is on IR with a calf blood clot and will miss at least four games. Brissett is the only option and has a good passing script.",
       "sources": [
         {
-          "title": "Eagles.com: Panthers vs. Eagles final injury report",
-          "url": "https://www.philadelphiaeagles.com/news/panthers-vs-eagles-injury-report-2026-nfl-week-6-saquon-barkley-devonta-smith"
+          "title": "NFL.com: Eagles place Hurts on IR with calf blood clot",
+          "url": "https://www.nfl.com/news/eagles-place-qb-jalen-hurts-on-injured-reserve-due-to-superficial-blood-clot-in-calf"
         },
         {
           "title": "SportsBettingDime: Week 6 player prop over/unders",
@@ -492,7 +506,7 @@
       "id": "",
       "name": "Harrison Mevis",
       "pos": "K",
-      "why": "Rams are 12.5-point home favorites over Arizona in a 52.5 total. Fills your empty kicker slot.",
+      "why": "Rams are 12.5-point home favorites over Arizona with a 51.5 total. Fills your empty kicker slot, use the roster spot freed by moving Hurts to IR or drop Hockenson.",
       "sources": [
         {
           "title": "SI: Week 6 waiver wire targets",
