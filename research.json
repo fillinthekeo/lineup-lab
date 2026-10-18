@@ -1,16 +1,15 @@
 {
   "season": 2026,
   "week": 6,
-  "generated_at": "2026-10-18T13:05:00Z",
-  "run": "Sunday early check",
-  "headline": "No lineup changes overnight, Hurts is now on IR, so move him to an IR slot and use the open spot on a kicker before 10:00 AM.",
+  "generated_at": "2026-10-18T15:47:55Z",
+  "run": "Sunday inactives, 10 AM games",
+  "headline": "Inactives are posted for the 10 AM games. Robinson, Downs and the Jets D are all active, so no swaps. Still add a kicker before 10:00 AM.",
   "alerts": [
-    "Jalen Hurts was placed on IR Saturday (calf blood clot), out at least four games. If your league has an IR slot, move him there.",
+    "Sun 8:45 AM: Inactives are out for the 10 AM games. Brian Robinson, Josh Downs and the Jets D are all active. No swaps needed.",
     "No kicker shows on your tracked roster. Use the open spot (or drop Hockenson) to add one before Sun 10:00 AM. Harrison Mevis (Rams, 1:05 PM) is a good fit.",
-    "Start Brissett at QB. Breece Hall is out again.",
-    "No overnight news on Robinson, Downs, Mitchell, Lloyd, Golden, Ferguson or McLaurin. Lines are unchanged since Saturday.",
-    "NFL Network reports the Bears plan to start Caleb Williams vs. Atlanta. That keeps the 52.5 total in play for Brian Robinson.",
-    "Sun 6:30 AM: Texans at Jaguars in London. Inactives are posted, none of your players are in it.",
+    "Jalen Hurts is on IR (calf blood clot). Move him to an IR slot if your league has one. Start Brissett at QB.",
+    "Colts TE Tyler Warren is inactive, which should push a few more targets to Downs.",
+    "Patriots WR A.J. Brown is active against the Jets D, a small downgrade for the Jets.",
     "Sun 10:00 AM: Robinson, Downs and Jets D lock. 1:05 PM: Brissett. 1:25 PM: Mitchell. 5:20 PM: Lloyd, Golden, Ferguson. Mon 5:15 PM: McLaurin.",
     "Sleeper could not be reached this run, so the roster is from an earlier run. Confirm your starters in the app."
   ],
@@ -138,12 +137,21 @@
       "adj_pct": 0,
       "confidence": "low",
       "notes": [
+        "Active. Not on the Falcons inactive list, and Caleb Williams is active for Chicago.",
         "Penix was removed from the injury report and will start, which removes the main risk here.",
         "Bears are now 1.5-point favorites, but the total climbed to 52.5, so Atlanta is about 25.5 implied.",
         "Still the backup to Bijan Robinson, so he needs goal-line work to pay off.",
         "The Bears reportedly plan to start Caleb Williams, who is listed questionable. Bears RB Kyle Monangai is out. Kickoff Sunday 10:00 AM Pacific."
       ],
       "sources": [
+        {
+          "title": "Atlanta Falcons: Week 6 inactives vs. Chicago Bears",
+          "url": "https://www.atlantafalcons.com/news/atlanta-falcons-inactive-players-chicago-bears"
+        },
+        {
+          "title": "CBS Sports: NFL Week 6 inactives and injury tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-6-inactives-injury-tracker-updates/live/"
+        },
         {
           "title": "NBC Sports: Penix off injury report, will play",
           "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-16/penix-off-injury-report-will-play-vs-bears"
@@ -198,10 +206,15 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
+        "Officially inactive again for the Jets.",
         "Ruled OUT for Sunday with the quad injury, his third straight missed game.",
         "He has reached individual drills, so keep him stashed for Week 7. Braelon Allen leads the backfield."
       ],
       "sources": [
+        {
+          "title": "CBS Sports: NFL Week 6 inactives and injury tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-6-inactives-injury-tracker-updates/live/"
+        },
         {
           "title": "PrizePicks: Breece Hall ruled out vs. Patriots",
           "url": "https://www.prizepicks.com/playbook-article/breece-hall-injury-update-will-hall-play-vs-patriots-week-6"
@@ -313,9 +326,10 @@
     "9500": {
       "name": "Josh Downs",
       "verdict": "start",
-      "adj_pct": 0,
+      "adj_pct": 5,
       "confidence": "medium",
       "notes": [
+        "Active. TE Tyler Warren is inactive for the Colts, so Downs could see a few extra targets.",
         "Removed from the final injury report, so the hamstring is no longer a concern.",
         "Props: 46.5 receiving yards and 3.5 catches with the over heavily favored. About 10 points with a modest TD share.",
         "Colts are 7-point favorites over Tennessee, total 44.5, about 26 implied. WR Ashton Dulin is out and TE Tyler Warren is questionable.",
@@ -323,6 +337,10 @@
         "No overnight news. Colts TE Tyler Warren is questionable, which could add a target or two if he sits."
       ],
       "sources": [
+        {
+          "title": "CBS Sports: NFL Week 6 inactives and injury tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-6-inactives-injury-tracker-updates/live/"
+        },
         {
           "title": "NBC Sports: Downs cleared off Week 6 injury report",
           "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-16/downs-cleared-off-injury-report-for-week-6"
@@ -376,14 +394,19 @@
     "NYJ": {
       "name": "New York Jets",
       "verdict": "sit",
-      "adj_pct": -10,
+      "adj_pct": -12,
       "confidence": "medium",
       "notes": [
+        "Patriots WR A.J. Brown is active and CB Carlton Davis is out for New England. Brown being active is a small downgrade.",
         "At New England as 7.5-point underdogs, total 43.5, Patriots about 25.5 implied.",
         "A.J. Brown and TreVeyon Henderson are only questionable for New England.",
         "The Colts D at home vs. Tennessee is a better stream if still available. Kickoff 10:00 AM Pacific."
       ],
       "sources": [
+        {
+          "title": "CBS Sports: NFL Week 6 inactives and injury tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-6-inactives-injury-tracker-updates/live/"
+        },
         {
           "title": "VegasInsider: Week 6 odds",
           "url": "https://www.vegasinsider.com/nfl/nfl-week-6-odds-2026/"
