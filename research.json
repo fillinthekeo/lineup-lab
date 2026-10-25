@@ -1,16 +1,15 @@
 {
   "season": 2026,
   "week": 7,
-  "generated_at": "2026-10-25T12:58:00Z",
-  "run": "Sunday early check",
-  "headline": "Week 7: Breece Hall is unlikely to play, so bench him and start Kendre Miller before 6:30 AM Pacific if you added him, or MarShawn Lloyd if not.",
+  "generated_at": "2026-10-25T15:48:00Z",
+  "run": "Sunday inactives, 10 AM games",
+  "headline": "Week 7: Breece Hall is officially inactive. Bench him and start MarShawn Lloyd at RB2 before 10:00 AM Pacific, unless you already started Kendre Miller.",
   "alerts": [
-    "Breece Hall is unlikely to play per Ian Rapoport Sunday morning. Bench him. Jets inactives post about 8:30 AM Pacific.",
-    "Kendre Miller is active for the Saints in Paris and locks at 6:30 AM Pacific. If you added him, start him at RB2 now.",
-    "If you did not add Miller, start MarShawn Lloyd (GB, 1:25 PM Pacific) in Hall's spot.",
+    "Breece Hall is officially INACTIVE for the Jets (posted about 8:34 AM Pacific). Remove him from your lineup before 10:00 AM Pacific.",
+    "Start MarShawn Lloyd (GB, 1:25 PM Pacific) in Hall's RB spot. If you already started Kendre Miller in Paris, keep him there and leave Lloyd on the bench.",
     "Brian Robinson is OUT. Make sure he is not in your lineup.",
-    "You still need a kicker. Add Jake Bates or Chad Ryland before 10:00 AM Pacific, or the K slot scores zero.",
-    "Josh Jacobs is activated and will play, which caps Lloyd's role.",
+    "Jefferson, Hockenson and Downs had no game designation and no inactive report. Play them as planned.",
+    "You still need a kicker. Add Jake Bates or Chad Ryland before kickoff, or the K slot scores zero.",
     "Sleeper could not be reached again this run, so the roster is from an earlier run. Confirm your lineup in the app."
   ],
   "games": {
@@ -27,13 +26,13 @@
       "note": "Vs. San Francisco Sunday 10:00 AM Pacific. 49ers -2.5, total 49.5, line moved toward Atlanta. Brian Robinson out."
     },
     "MIN": {
-      "note": "Vs. Indianapolis Sunday 10:00 AM Pacific. Vikings -6.5, total 41.5. Jordan Mason returning."
+      "note": "Vs. Indianapolis Sunday 10:00 AM Pacific. Vikings -6.5, total 41.5. Jordan Mason (thumb) is active."
     },
     "IND": {
-      "note": "At Minnesota Sunday 10:00 AM Pacific. Warren, Gould and Gardner all out."
+      "note": "At Minnesota Sunday 10:00 AM Pacific. CB Sauce Gardner and TE Tyler Warren inactive, Gould also out."
     },
     "NYJ": {
-      "note": "Vs. Miami Sunday 10:00 AM Pacific. Jets -4.5, total 39.5. Breece Hall unlikely to play, Braelon Allen and Isaiah Davis to split."
+      "note": "Vs. Miami Sunday 10:00 AM Pacific. Jets -4.5, total 39.5. Breece Hall inactive for the third straight game. Dolphins LB Willie Gay inactive."
     },
     "DAL": {
       "note": "At Philadelphia Monday 5:15 PM Pacific. Cowboys -4 to -4.5, total 44.5. Pickens full Friday."
@@ -99,14 +98,18 @@
     },
     "11581": {
       "name": "MarShawn Lloyd",
-      "verdict": "flex",
+      "verdict": "start",
       "adj_pct": -30,
       "confidence": "low",
       "notes": [
-        "With Hall unlikely, Lloyd is your RB2 if you did not add Kendre Miller.",
+        "Hall is officially inactive, so Lloyd starts at RB2 unless you already started Kendre Miller.",
         "Jacobs is activated and will play, so Lloyd is a low-floor backup. At Detroit Sunday 1:25 PM Pacific, Lions -3, total 53.5."
       ],
       "sources": [
+        {
+          "title": "NBC Sports: Breece Hall (quad) inactive for Week 7 vs. Miami",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-25/breece-hall-quad-inactive-for-week-7-vs-miami"
+        },
         {
           "title": "4for4: Jacobs activated, will play vs. Lions",
           "url": "https://www.4for4.com/news/josh-jacobs-activated-will-play-week-7-vs-lions"
@@ -163,26 +166,25 @@
     },
     "8155": {
       "name": "Breece Hall",
-      "verdict": "avoid",
-      "adj_pct": -50,
-      "confidence": "medium",
+      "verdict": "out",
+      "adj_pct": -60,
+      "confidence": "high",
       "notes": [
-        "Ian Rapoport reported Sunday morning that Hall is unlikely to play. He has not had a full practice since the quad strain.",
-        "Bench him now. Inactives post about 8:30 AM Pacific for the 10:00 AM kickoff, but do not wait on it if your backup locks earlier.",
-        "Braelon Allen and Isaiah Davis are expected to handle the backfield."
+        "Officially inactive with the quad strain, his third straight missed game.",
+        "Remove him from your lineup. Start Lloyd in his spot, or Kendre Miller if you already started him."
       ],
       "sources": [
         {
-          "title": "Hot Takes: Hall unlikely to play Sunday, per Rapoport",
-          "url": "https://hottakes.com/articles/breece-hall-unlikely-to-play-sunday-as-jets-play-it-safe-with-star-runni-f2bf40f3-3c8b-43c1-a842-6634b3f57131"
+          "title": "NBC Sports: Breece Hall (quad) inactive for Week 7 vs. Miami",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-25/breece-hall-quad-inactive-for-week-7-vs-miami"
         },
         {
           "title": "CBS Sports: Week 7 inactives and injury tracker",
           "url": "https://www.cbssports.com/nfl/news/nfl-week-7-inactives-injury-tracker-latest-news-updates/live/"
         },
         {
-          "title": "NewYorkJets.com: Week 7 Friday injury report",
-          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-7-vs-dolphins-friday-10-23-2026"
+          "title": "Hot Takes: Hall unlikely to play Sunday, per Rapoport",
+          "url": "https://hottakes.com/articles/breece-hall-unlikely-to-play-sunday-as-jets-play-it-safe-with-star-runni-f2bf40f3-3c8b-43c1-a842-6634b3f57131"
         }
       ]
     },
@@ -219,7 +221,8 @@
       "notes": [
         "Ankle: full practice Thursday and Friday, no game designation.",
         "Colts CB Sauce Gardner (calf) is out. Vs. Indianapolis Sunday 10:00 AM Pacific, Vikings -6.5, total 41.5.",
-        "Through four games: 19 catches, 258 yards, 3 TDs and a quarter of the team's red-zone targets."
+        "Through four games: 19 catches, 258 yards, 3 TDs and a quarter of the team's red-zone targets.",
+        "No inactive report Sunday morning. He is expected to play."
       ],
       "sources": [
         {
@@ -233,6 +236,10 @@
         {
           "title": "RotoWire: Week 7 odds for all games",
           "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
+        },
+        {
+          "title": "CBS Sports: Week 7 inactives and injury tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-7-inactives-injury-tracker-latest-news-updates/live/"
         }
       ]
     },
@@ -243,7 +250,8 @@
       "confidence": "high",
       "notes": [
         "Full practice all week through the concussion protocol, no game designation. Cleared to play.",
-        "Colts TE Tyler Warren and CB Sauce Gardner are both out. Kickoff Sunday 10:00 AM Pacific."
+        "Colts TE Tyler Warren and CB Sauce Gardner are both out. Kickoff Sunday 10:00 AM Pacific.",
+        "No inactive report Sunday morning. He is expected to play."
       ],
       "sources": [
         {
@@ -253,6 +261,10 @@
         {
           "title": "4for4: Week 7 weekend update",
           "url": "https://www.4for4.com/2026/w7/2026-week-7-nfl-weekend-update-injuries-picks-dfs-prop-parlay-fantasy-rankings"
+        },
+        {
+          "title": "CBS Sports: Week 7 inactives and injury tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-7-inactives-injury-tracker-latest-news-updates/live/"
         }
       ]
     },
@@ -309,7 +321,8 @@
       "notes": [
         "TE Tyler Warren (groin) and WR Anthony Gould (concussion) are out, which frees up targets. Football Nation calls Downs the clearest target boost.",
         "At Minnesota Sunday 10:00 AM Pacific. Colts about 17.5 implied against a defense allowing 12.8 points per game.",
-        "Keenan Allen still competes for slot looks, so the ceiling is capped."
+        "Keenan Allen still competes for slot looks, so the ceiling is capped.",
+        "No inactive report Sunday morning. He is expected to play."
       ],
       "sources": [
         {
@@ -323,6 +336,10 @@
         {
           "title": "RotoWire: Week 7 odds for all games",
           "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
+        },
+        {
+          "title": "CBS Sports: Week 7 inactives and injury tracker",
+          "url": "https://www.cbssports.com/nfl/news/nfl-week-7-inactives-injury-tracker-latest-news-updates/live/"
         }
       ]
     },
@@ -404,8 +421,12 @@
       "a": "8155",
       "b": "11581",
       "pick": "11581",
-      "why": "Hall is unlikely to play per Rapoport, so start Lloyd over him. If you added Kendre Miller, start Miller over both before 6:30 AM Pacific.",
+      "why": "Hall is officially inactive, so start Lloyd. If Kendre Miller is already in your lineup from the Paris game, keep him.",
       "sources": [
+        {
+          "title": "NBC Sports: Breece Hall (quad) inactive for Week 7 vs. Miami",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-25/breece-hall-quad-inactive-for-week-7-vs-miami"
+        },
         {
           "title": "Hot Takes: Hall unlikely to play Sunday, per Rapoport",
           "url": "https://hottakes.com/articles/breece-hall-unlikely-to-play-sunday-as-jets-play-it-safe-with-star-runni-f2bf40f3-3c8b-43c1-a842-6634b3f57131"
