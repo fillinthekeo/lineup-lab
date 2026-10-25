@@ -1,23 +1,24 @@
 {
   "season": 2026,
   "week": 7,
-  "generated_at": "2026-10-25T15:48:00Z",
-  "run": "Sunday inactives, 10 AM games",
-  "headline": "Week 7: Breece Hall is officially inactive. Bench him and start MarShawn Lloyd at RB2 before 10:00 AM Pacific, unless you already started Kendre Miller.",
+  "generated_at": "2026-10-25T19:05:00Z",
+  "run": "Sunday inactives, late games",
+  "headline": "Week 7 late games: Brissett is active and starting, Golden has no designation and is expected to play. No new swaps. Confirm Packers inactives by 11:55 AM Pacific and add a kicker before 1:05 PM Pacific.",
   "alerts": [
-    "Breece Hall is officially INACTIVE for the Jets (posted about 8:34 AM Pacific). Remove him from your lineup before 10:00 AM Pacific.",
-    "Start MarShawn Lloyd (GB, 1:25 PM Pacific) in Hall's RB spot. If you already started Kendre Miller in Paris, keep him there and leave Lloyd on the bench.",
-    "Brian Robinson is OUT. Make sure he is not in your lineup.",
-    "Jefferson, Hockenson and Downs had no game designation and no inactive report. Play them as planned.",
-    "You still need a kicker. Add Jake Bates or Chad Ryland before kickoff, or the K slot scores zero.",
-    "Sleeper could not be reached again this run, so the roster is from an earlier run. Confirm your lineup in the app."
+    "Breece Hall was inactive at 10:00 AM Pacific. If he is still in your lineup it is locked now and scores zero, nothing more to do.",
+    "Jacoby Brissett is active and starting. Arizona's only backup QB Carson Beck is inactive. Kickoff 1:05 PM Pacific vs. Denver.",
+    "Broncos CB Pat Surtain II is inactive, a boost for Arizona's passing game.",
+    "Matthew Golden and MarShawn Lloyd: the official Packers inactives list was not posted yet at 12:05 PM Pacific. Golden had no game designation and was reported cleared to play. Check the app before 1:25 PM Pacific. If Golden is ruled inactive, slide MarShawn Lloyd into his FLEX spot if Golden is there, since Lloyd is your only bench player left in a late game.",
+    "You still need a kicker. Add Jake Bates (DET, 1:25 PM Pacific) or Chad Ryland (ARI, 1:05 PM Pacific) before kickoff, or the K slot scores zero.",
+    "Saquon Barkley is expected to play Monday per NFL Network, a small negative for the Cowboys defense matchup but no lineup change.",
+    "Sleeper could not be reached this run, so the roster is from an earlier run. Confirm your lineup in the app."
   ],
   "games": {
     "ARI": {
-      "note": "At Denver Sunday 1:05 PM Pacific. Broncos -4 to -4.5, total 43.5. RB Jeremiyah Love (ankle) out, QB2 Carson Beck questionable."
+      "note": "Hosts Denver Sunday 1:05 PM Pacific in Glendale. RB Jeremiyah Love and QB2 Carson Beck inactive. Broncos CB Pat Surtain II and S Talanoa Hufanga inactive."
     },
     "GB": {
-      "note": "At Detroit Sunday 1:25 PM Pacific. Lions -3, total 53.5. Jacobs activated and will play."
+      "note": "At Detroit Sunday 1:25 PM Pacific. Lions -3, total 53.5. Jacobs activated and expected to debut. LB Zaire Franklin out. Official inactives pending at last check."
     },
     "DET": {
       "note": "Vs. Green Bay Sunday 1:25 PM Pacific. About 28 implied. C Cade Mays and DB Brian Branch questionable."
@@ -35,10 +36,10 @@
       "note": "Vs. Miami Sunday 10:00 AM Pacific. Jets -4.5, total 39.5. Breece Hall inactive for the third straight game. Dolphins LB Willie Gay inactive."
     },
     "DAL": {
-      "note": "At Philadelphia Monday 5:15 PM Pacific. Cowboys -4 to -4.5, total 44.5. Pickens full Friday."
+      "note": "At Philadelphia Monday 5:15 PM Pacific. Cowboys -4 to -4.5, total 44.5. WR KaVontae Turpin and T Drew Shelton out. Pickens no game status."
     },
     "PHI": {
-      "note": "Vs. Dallas Monday 5:15 PM Pacific. DeVonta Smith out. Barkley still leaning toward playing."
+      "note": "Vs. Dallas Monday 5:15 PM Pacific. DeVonta Smith and Dontayvion Wicks out. Barkley (hamstring) questionable but reported as playing."
     },
     "NO": {
       "note": "Vs. Pittsburgh in Paris Sunday 6:30 AM Pacific, the earliest lock. Steelers -3.5, total 44.5. Saints inactives: G Cesar Ruiz, DL Nathan Shepherd, Kendre Miller active."
@@ -54,12 +55,12 @@
     "3257": {
       "name": "Jacoby Brissett",
       "verdict": "start",
-      "adj_pct": 0,
+      "adj_pct": 3,
       "confidence": "medium",
       "notes": [
-        "At Denver Sunday 1:05 PM Pacific. Broncos -4 to -4.5, total 43.5, Arizona about 19.5 implied.",
-        "RB Jeremiyah Love (ankle) is out again, so the offense leans on the pass. Backup QB Carson Beck (back) is questionable.",
-        "Only healthy QB on the roster with Hurts on IR, so he starts by default."
+        "Active and starting. Backup QB Carson Beck is inactive, so there is no threat to his snaps.",
+        "Hosts Denver Sunday 1:05 PM Pacific. Broncos CB Pat Surtain II is inactive, which helps the pass game.",
+        "RB Jeremiyah Love is inactive again, so Arizona should lean on the pass."
       ],
       "sources": [
         {
@@ -73,6 +74,14 @@
         {
           "title": "CBS Sports: Week 7 lines, spreads, totals",
           "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-lines-odds-spreads-totals/"
+        },
+        {
+          "title": "SI: Cardinals-Broncos inactives",
+          "url": "https://www.si.com/nfl/cardinals/onsi/arizona-cardinals-denver-broncos-inactives-budda-baker-pat-surtain-ii-final-status-revealed"
+        },
+        {
+          "title": "Denver Broncos: Surtain among Week 7 inactives",
+          "url": "https://denverbroncos.com/news/cb-pat-surtain-ii-among-broncos-inactive-players-for-week-7-game-vs-cardinals"
         }
       ]
     },
@@ -102,8 +111,8 @@
       "adj_pct": -30,
       "confidence": "low",
       "notes": [
-        "Hall is officially inactive, so Lloyd starts at RB2 unless you already started Kendre Miller.",
-        "Jacobs is activated and will play, so Lloyd is a low-floor backup. At Detroit Sunday 1:25 PM Pacific, Lions -3, total 53.5."
+        "Hall was inactive at 10:00 AM Pacific, so Lloyd only helps if he was moved into Hall's spot before lock.",
+        "Jacobs is active and expected to debut, so Lloyd is a low-floor backup. At Detroit Sunday 1:25 PM Pacific."
       ],
       "sources": [
         {
@@ -121,6 +130,10 @@
         {
           "title": "Football Nation: Packers at Lions Week 7 guide",
           "url": "https://www.footballnationusa.com/post/packers-at-lions-week-7-guide-2026"
+        },
+        {
+          "title": "Yahoo Sports: Packers vs. Lions, who's in, who's out",
+          "url": "https://sports.yahoo.com/articles/packers-vs-lions-whos-whos-161210606.html"
         }
       ]
     },
@@ -195,7 +208,8 @@
       "confidence": "high",
       "notes": [
         "Props: 7.5 receptions, about 78 receiving yards, anytime TD around -135. That converts to about 18.7 PPR points.",
-        "No injury designation. Vs. Green Bay Sunday 1:25 PM Pacific, Lions -3, total 53.5, the highest on the slate."
+        "No injury designation. Vs. Green Bay Sunday 1:25 PM Pacific, Lions -3, total 53.5, the highest on the slate.",
+        "No injury designation. Lions official inactives were not posted yet at last check."
       ],
       "sources": [
         {
@@ -294,9 +308,9 @@
       "adj_pct": -5,
       "confidence": "medium",
       "notes": [
-        "Shoulder: limited all three practices but no game designation, so the team expects him to play.",
+        "No game designation and reported cleared to play. Official Packers inactives were not posted yet at last check.",
         "Week 6: 6 catches, 104 yards and a TD on 13 targets. Jacobs returning may trim pass volume a bit, but 53.5 is the top total.",
-        "Anytime TD around 38% on Kalshi. At Detroit Sunday 1:25 PM Pacific."
+        "At Detroit Sunday 1:25 PM Pacific."
       ],
       "sources": [
         {
@@ -310,6 +324,14 @@
         {
           "title": "Football Nation: Packers at Lions Week 7 guide",
           "url": "https://www.footballnationusa.com/post/packers-at-lions-week-7-guide-2026"
+        },
+        {
+          "title": "NBC Sports: Watson, Golden cleared to play",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-23/christian-watson-matthew-golden-cleared-to-play"
+        },
+        {
+          "title": "Yahoo Sports: Packers vs. Lions, who's in, who's out",
+          "url": "https://sports.yahoo.com/articles/packers-vs-lions-whos-whos-161210606.html"
         }
       ]
     },
@@ -349,8 +371,8 @@
       "adj_pct": -5,
       "confidence": "high",
       "notes": [
-        "Hockenson is cleared, so Ferguson stays on the bench.",
-        "At Philadelphia Monday 5:15 PM Pacific. Cowboys -4 to -4.5, total 44.5."
+        "Hockenson played the 10:00 AM game, so Ferguson stays on the bench.",
+        "At Philadelphia Monday 5:15 PM Pacific. Eagles WRs DeVonta Smith and Dontayvion Wicks are out, and Barkley is expected to play."
       ],
       "sources": [
         {
@@ -360,6 +382,14 @@
         {
           "title": "CBS Sports: Week 7 lines, spreads, totals",
           "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-lines-odds-spreads-totals/"
+        },
+        {
+          "title": "Yahoo Sports: Cowboys-Eagles final injury update",
+          "url": "https://sports.yahoo.com/articles/cowboys-eagles-final-injury-7-122022258.html"
+        },
+        {
+          "title": "DraftSharks: Barkley set to play Week 7",
+          "url": "https://www.draftsharks.com/fantasy-football-news/83671/saquon-barkley-set-to-play-week-7"
         }
       ]
     },
@@ -416,54 +446,14 @@
           "url": "https://www.footballnationusa.com/post/colts-at-vikings-week-7-guide-2026"
         }
       ]
-    },
-    {
-      "a": "8155",
-      "b": "11581",
-      "pick": "11581",
-      "why": "Hall is officially inactive, so start Lloyd. If Kendre Miller is already in your lineup from the Paris game, keep him.",
-      "sources": [
-        {
-          "title": "NBC Sports: Breece Hall (quad) inactive for Week 7 vs. Miami",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-25/breece-hall-quad-inactive-for-week-7-vs-miami"
-        },
-        {
-          "title": "Hot Takes: Hall unlikely to play Sunday, per Rapoport",
-          "url": "https://hottakes.com/articles/breece-hall-unlikely-to-play-sunday-as-jets-play-it-safe-with-star-runni-f2bf40f3-3c8b-43c1-a842-6634b3f57131"
-        },
-        {
-          "title": "4for4: Jacobs activated, will play vs. Lions",
-          "url": "https://www.4for4.com/news/josh-jacobs-activated-will-play-week-7-vs-lions"
-        }
-      ]
     }
   ],
   "waivers": [
     {
       "id": "",
-      "name": "Kendre Miller",
-      "pos": "RB",
-      "why": "Active for the Saints in Paris, locks 6:30 AM Pacific. Expected to lead early-down work in a rotation with Kamara and Donaldson. Best fill-in with Hall unlikely and Robinson out.",
-      "sources": [
-        {
-          "title": "Athlon: Three expectations for Kendre Miller vs. Steelers",
-          "url": "https://athlonsports.com/nfl/new-orleans-saints/kendre-miller-steelers-week-7-expectations-saints-rb"
-        },
-        {
-          "title": "Yahoo Sports: Steelers vs. Saints live updates and inactives",
-          "url": "https://sports.yahoo.com/nfl/live/steelers-saints-score-live-updates-paris-game-inactives-highlights-stats-where-to-watch-120107581.html"
-        },
-        {
-          "title": "SportsBettingDime: Steelers vs. Saints props",
-          "url": "https://www.sportsbettingdime.com/news/nfl/steelers-vs-saints-picks-props-betting-splits-paris-oct-25/"
-        }
-      ]
-    },
-    {
-      "id": "",
       "name": "Dameon Pierce",
       "pos": "RB",
-      "why": "Handled the Eagles backfield in Week 6, but Barkley was limited Friday and is leaning toward playing, so the value is shrinking. Plays Monday 5:15 PM Pacific.",
+      "why": "Barkley is reported as playing Monday, so Pierce has little value this week.",
       "sources": [
         {
           "title": "NFL.com: Week 7 waiver wire, top 15 targets",
@@ -480,6 +470,10 @@
         {
           "title": "4for4: Week 7 weekend update",
           "url": "https://www.4for4.com/2026/w7/2026-week-7-nfl-weekend-update-injuries-picks-dfs-prop-parlay-fantasy-rankings"
+        },
+        {
+          "title": "DraftSharks: Barkley set to play Week 7",
+          "url": "https://www.draftsharks.com/fantasy-football-news/83671/saquon-barkley-set-to-play-week-7"
         }
       ]
     },
@@ -487,7 +481,7 @@
       "id": "",
       "name": "Chad Ryland",
       "pos": "K",
-      "why": "You have no kicker. Arizona is at Denver Sunday 1:05 PM Pacific and settles for field goals often. Jake Bates (DET, 53.5 total) is the better pick if free. Drop Hurts if you have no IR slot.",
+      "why": "You have no kicker. Arizona hosts Denver Sunday 1:05 PM Pacific and settles for field goals often. Jake Bates (DET, 1:25 PM Pacific, 53.5 total) is the better pick if free. Drop Hurts if you have no IR slot.",
       "sources": [
         {
           "title": "SI: Week 7 kicker streamers",
@@ -496,18 +490,6 @@
         {
           "title": "CBS Sports: Brissett beats Rams despite no TDs",
           "url": "https://www.cbssports.com/fantasy/football/news/cardinals-jacoby-brissett-beats-rams-despite-dearth-of-tds/"
-        }
-      ]
-    },
-    {
-      "id": "",
-      "name": "Jaleel McLaughlin",
-      "pos": "RB",
-      "why": "55 yards on 13 touches in Week 6 with Judkins and Sampson out. Browns are favored at Tennessee. Deeper RB option.",
-      "sources": [
-        {
-          "title": "NFL.com: Week 7 waiver wire, top 15 targets",
-          "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-7-rookie-wr-germie-bernard-headlines-top-15-targets"
         }
       ]
     },
