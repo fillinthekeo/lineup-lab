@@ -1,58 +1,54 @@
 {
-  "season": 2026,
+  "season": "2026",
   "week": 7,
-  "generated_at": "2026-10-22T23:00:34Z",
-  "run": "Thursday night check",
-  "headline": "Week 7: none of your players are in the Thursday game, Hockenson and Jefferson practiced fully, but you still need a kicker and an RB before Sunday 10:00 AM Pacific.",
+  "generated_at": "2026-10-25T03:01:49Z",
+  "run": "Saturday night review",
+  "headline": "Week 7: Robinson is out and Breece Hall is a game-time call, so add Kendre Miller before 6:30 AM Pacific and a kicker before 10:00 AM Pacific.",
   "alerts": [
-    "No one on your roster plays Thursday (Patriots at Bears, 5:15 PM Pacific). Bears RB Kyle Monangai is inactive, so Roschon Johnson gets work if you grabbed him.",
-    "You still have no kicker. Add Chad Ryland or Jake Bates before Sunday 10:00 AM Pacific, or the K slot scores zero.",
-    "Brian Robinson (hamstring) went from limited to no practice Thursday. Do not count on him at RB2. Add Kendre Miller (Sun 6:30 AM Pacific lock) or Dameon Pierce.",
-    "Hockenson (concussion) practiced fully Wednesday and Thursday and is on track to play Sunday 10:00 AM Pacific. Keep him over Ferguson.",
-    "Jefferson (ankle) upgraded to full practice Thursday. Start him.",
-    "Josh Jacobs is set to debut Sunday 1:25 PM Pacific, so Lloyd is a weak flex. Golden (shoulder) was limited but LaFleur says he will play.",
-    "Breece Hall (quad) returned as a limited participant Thursday. Still a stash until Friday status, Jets play Sunday 10:00 AM Pacific.",
-    "Sleeper could not be reached this run, so the roster is from an earlier run. Confirm your waiver claims and lineup in the app."
+    "Brian Robinson (hamstring) is OUT. Remove him from your lineup.",
+    "Kendre Miller (NO) locks at 6:30 AM Pacific in Paris. Add him now for RB2 if he is still free. Drop McLaurin or Keaton Mitchell.",
+    "You still have no kicker. Add Jake Bates or Chad Ryland before Sunday 10:00 AM Pacific, or the K slot scores zero.",
+    "Breece Hall is questionable (quad). Jets inactives post about 8:30 AM Pacific for the 10:00 AM kickoff. If he is out, swap in Miller or Lloyd.",
+    "Hockenson and Jefferson have no designation and will play. Colts TE Tyler Warren and CB Sauce Gardner are out, a boost for Downs and Jefferson.",
+    "Golden (shoulder) was limited all week but has no designation. Jacobs is on track to play, so Lloyd is only a fill-in.",
+    "Sleeper could not be reached again this run, so the roster is from an earlier run. Confirm your waiver claims and lineup in the app."
   ],
   "games": {
     "ARI": {
-      "note": "Vs. Denver Sunday 1:05 PM Pacific. Broncos -4.5, total 43.5, Arizona about 19.5 implied. RB Jeremiyah Love (ankle) may return."
+      "note": "At Denver Sunday 1:05 PM Pacific. Broncos -4 to -4.5, total 43.5. RB Jeremiyah Love (ankle) out, QB2 Carson Beck questionable."
     },
     "GB": {
-      "note": "At Detroit Sunday 1:25 PM Pacific. Lions -3, total 52.5, Packers about 24.75 implied. Jacobs expected to debut, Love full, Golden and Watson limited but will play."
+      "note": "At Detroit Sunday 1:25 PM Pacific. Lions -3 to -3.5, total 53.5. Jacobs on track to play, Golden and Watson limited all week but no designation, Love full Friday."
     },
     "DET": {
-      "note": "Vs. Green Bay Sunday 1:25 PM Pacific. Lions -3, total 52.5, about 27.75 implied. Back from bye."
+      "note": "Vs. Green Bay Sunday 1:25 PM Pacific. About 28 implied. C Cade Mays and DB Brian Branch questionable."
     },
     "ATL": {
-      "note": "Vs. San Francisco Sunday 10:00 AM Pacific. 49ers -4.5, total 50.5. Brian Robinson (hamstring) did not practice Thursday."
+      "note": "Vs. San Francisco Sunday 10:00 AM Pacific. 49ers -3.5 to -4, total 50.5 to 51. Brian Robinson out."
     },
     "MIN": {
-      "note": "Vs. Indianapolis Sunday 10:00 AM Pacific. Vikings -6.5, total 41.5. Hockenson, Jefferson, Addison and Mason all practiced fully Thursday. Colts TE Tyler Warren and CB Sauce Gardner did not practice."
+      "note": "Vs. Indianapolis Sunday 10:00 AM Pacific. Vikings -5 to -6.5, total 41.5. Jefferson, Hockenson, Addison no designation. Jordan Mason questionable but trending up."
     },
     "IND": {
-      "note": "At Minnesota Sunday 10:00 AM Pacific. Colts about 18 implied. Sauce Gardner doubtful, Tyler Warren questionable."
+      "note": "At Minnesota Sunday 10:00 AM Pacific. Warren, Gould and Gardner all out."
     },
     "NYJ": {
-      "note": "Vs. Miami Sunday 10:00 AM Pacific. Jets -4.5, total 38.5. Breece Hall limited Thursday. Dolphins QB Malik Willis (thumb) full."
+      "note": "Vs. Miami Sunday 10:00 AM Pacific. Jets -4.5, total 38.5 to 39.5. Breece Hall questionable, limited Thursday and Friday."
     },
     "DAL": {
-      "note": "At Philadelphia Monday 5:15 PM Pacific. Cowboys -5.5, total 44.5. Eagles without Hurts, Barkley still not cleared."
+      "note": "At Philadelphia Monday 5:15 PM Pacific. Cowboys -4 to -4.5, total 44.5. Pickens full Friday."
     },
     "PHI": {
-      "note": "Vs. Dallas Monday 5:15 PM Pacific. Hurts on IR, Barkley (hamstring) TBD, Dameon Pierce handled every RB carry in Week 6."
+      "note": "Vs. Dallas Monday 5:15 PM Pacific. Barkley (hamstring) limited Friday and leaning toward playing. DeVonta Smith and Goedert did not practice Friday."
+    },
+    "NO": {
+      "note": "Vs. Pittsburgh in Paris Sunday 6:30 AM Pacific, the earliest lock of the week. Steelers -2 to -3.5, total 44.5."
     },
     "LAC": {
       "note": "Bye week."
     },
     "WAS": {
-      "note": "Bye week. McLaurin feared to have a season-ending knee injury."
-    },
-    "CHI": {
-      "note": "Vs. New England Thursday 5:15 PM Pacific. Bears inactives include RB Kyle Monangai and QB Case Keenum."
-    },
-    "NE": {
-      "note": "At Chicago Thursday 5:15 PM Pacific. Patriots inactives include CB Carlton Davis and C Ben Brown."
+      "note": "Bye week."
     }
   },
   "players": {
@@ -62,26 +58,22 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Week 6: 24 of 35 for 218 yards, 0 TD, 1 INT in an 18-16 win at the Rams. Six field-goal drives, no TDs.",
-        "Vs. Denver Sunday 1:05 PM Pacific. Broncos -4.5, total 43.5, Arizona about 19.5 implied.",
-        "Only healthy QB on the roster with Hurts out, so he starts by default. RB Jeremiyah Love (ankle) may return."
+        "At Denver Sunday 1:05 PM Pacific. Broncos -4 to -4.5, total 43.5, Arizona about 19.5 implied.",
+        "RB Jeremiyah Love (ankle) is out again, so the offense leans on the pass. Backup QB Carson Beck (back) is questionable.",
+        "Only healthy QB on the roster with Hurts on IR, so he starts by default."
       ],
       "sources": [
         {
-          "title": "CBS Sports: Brissett beats Rams despite no TDs",
-          "url": "https://www.cbssports.com/fantasy/football/news/cardinals-jacoby-brissett-beats-rams-despite-dearth-of-tds/"
+          "title": "NFL.com: Friday Oct. 23 news roundup",
+          "url": "https://nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
         },
         {
-          "title": "SI: Week 7 opening odds for every game",
-          "url": "https://www.si.com/betting/nfl-week-7-opening-odds-for-every-game-bears-favored-vs-pats-seahawks-cowboys-favored-in-primetime-2026"
+          "title": "RotoWire: Week 7 odds for all games",
+          "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
         },
         {
-          "title": "VegasInsider: Week 7 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-7-odds-2026/"
-        },
-        {
-          "title": "DK Network: NFL injury report for Week 7",
-          "url": "https://dknetwork.draftkings.com/2026/10/20/nfl-injury-report-week-7/"
+          "title": "CBS Sports: Week 7 lines, spreads, totals",
+          "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-lines-odds-spreads-totals/"
         }
       ]
     },
@@ -107,50 +99,61 @@
     },
     "11581": {
       "name": "MarShawn Lloyd",
-      "verdict": "sit",
+      "verdict": "flex",
       "adj_pct": -30,
-      "confidence": "medium",
+      "confidence": "low",
       "notes": [
-        "Josh Jacobs returned to practice and is expected to debut Sunday with most of the work, about 15 to 20 touches.",
-        "Week 6: 8 carries for 10 yards. Now a handcuff more than a starter.",
-        "At Detroit Sunday 1:25 PM Pacific. Lions -3, total 52.5."
+        "LaFleur says Josh Jacobs is on track to play Sunday after six weeks on the exempt list, so Lloyd becomes the backup.",
+        "With Robinson out and Mitchell on bye, Lloyd may be your RB2 by default unless you add an RB. Treat him as a low-floor fill-in.",
+        "At Detroit Sunday 1:25 PM Pacific. Lions -3 to -3.5, total 53.5."
       ],
       "sources": [
         {
-          "title": "SI: Jacobs to return vs. Lions, Lloyd outlook",
-          "url": "https://www.si.com/onsi/fantasy/news/josh-jacobs-to-return-vs-lions-week-7-marshawn-lloyd-fantasy-outlook"
+          "title": "NFL.com: Friday Oct. 23 news roundup",
+          "url": "https://nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
         },
         {
-          "title": "Football Nation: Packers at Lions player props",
-          "url": "https://www.footballnationusa.com/post/packers-lions-player-props-week-7-2026"
+          "title": "4for4: Week 7 weekend update",
+          "url": "https://www.4for4.com/2026/w7/2026-week-7-nfl-weekend-update-injuries-picks-dfs-prop-parlay-fantasy-rankings"
+        },
+        {
+          "title": "Football Nation: Packers at Lions Week 7 guide",
+          "url": "https://www.footballnationusa.com/post/packers-at-lions-week-7-guide-2026"
+        },
+        {
+          "title": "RotoWire: Week 7 odds for all games",
+          "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
         }
       ]
     },
     "8154": {
       "name": "Brian Robinson",
-      "verdict": "avoid",
-      "adj_pct": -40,
-      "confidence": "medium",
+      "verdict": "out",
+      "adj_pct": -60,
+      "confidence": "high",
       "notes": [
-        "Hamstring: limited Wednesday, did not practice Thursday. Friday practice will decide his status.",
-        "Only 4 touches in Week 6 as Bijan's backup, so the ceiling is low even if he plays.",
-        "Vs. San Francisco Sunday 10:00 AM Pacific."
+        "Ruled out Friday with the hamstring injury. Do not start him.",
+        "Bench him or drop him for an RB who plays this week."
       ],
       "sources": [
         {
-          "title": "RotoWire: Brian Robinson no practice Thursday",
-          "url": "https://www.rotowire.com/football/headlines/brian-robinson-injury-no-practice-thursday-643803"
+          "title": "Falcons.com: Robinson, Deablo ruled out vs. 49ers",
+          "url": "https://www.atlantafalcons.com/news/falcons-injury-report-brian-robinson-divine-deablo-out-vs-49ers"
+        },
+        {
+          "title": "NFL.com: Friday Oct. 23 news roundup",
+          "url": "https://nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
         }
       ]
     },
     "9511": {
       "name": "Keaton Mitchell",
-      "verdict": "avoid",
+      "verdict": "out",
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
         "Chargers are on bye in Week 7.",
-        "Week 6: 27% of snaps, 2 carries for 4 yards and 1 target. Droppable for an RB who plays this week."
+        "Week 6: 27% of snaps. Droppable for an RB who plays this week."
       ],
       "sources": [
         {
@@ -165,22 +168,27 @@
     },
     "8155": {
       "name": "Breece Hall",
-      "verdict": "stash",
-      "adj_pct": -40,
+      "verdict": "flex",
+      "adj_pct": -25,
       "confidence": "low",
       "notes": [
-        "Quad: did not practice Wednesday, returned as limited Thursday. No game status yet.",
-        "Braelon Allen had 104 total yards on 19 touches in Week 6, so even if Hall plays, his workload may be capped.",
-        "Vs. Miami Sunday 10:00 AM Pacific. Keep stashed unless he is off the report Friday."
+        "Questionable (quad). Missed Wednesday, then limited Thursday and Friday. Out since Week 3.",
+        "Likely a game-time call. Inactives post about 8:30 AM Pacific for the 10:00 AM kickoff vs. Miami.",
+        "If active, expect a split with Braelon Allen. Miami allows the second-most fantasy points to RBs, so there is upside.",
+        "If he is ruled out you have no other 10:00 AM RB, so line up a backup before kickoff."
       ],
       "sources": [
         {
-          "title": "NY Jets: Thursday injury report vs. Dolphins",
-          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-7-vs-dolphins-thursday-10-22-2026"
+          "title": "NewYorkJets.com: Week 7 Friday injury report",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-7-vs-dolphins-friday-10-23-2026"
         },
         {
-          "title": "NBC Sports: Hall spotted at practice",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-22/breece-hall-quad-spotted-at-practice"
+          "title": "SI: Hall questionable, Braelon Allen risky",
+          "url": "https://www.si.com/onsi/fantasy/injuries/fantasy-football-impact-breece-hall-is-questionable-for-week-7-making-braelon-allen-a-risky-option"
+        },
+        {
+          "title": "NFL.com: Friday Oct. 23 news roundup",
+          "url": "https://nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
         }
       ]
     },
@@ -190,19 +198,24 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Not on the Packers-Lions injury notes. Anytime TD priced at -140, among the shortest on the slate.",
-        "Vs. Green Bay Sunday 1:25 PM Pacific. Lions -3, total 52.5, Detroit about 27.75 implied."
+        "Props: 7.5 receptions, about 78 receiving yards, anytime TD around -135. That converts to about 18.7 PPR points.",
+        "No injury designation. Vs. Green Bay Sunday 1:25 PM Pacific, Lions -3 to -3.5, total 53.5, the highest on the slate."
       ],
       "sources": [
         {
-          "title": "Sportsbook Review: NFL player props Week 7",
-          "url": "https://www.sportsbookreview.com/picks/nfl/player-props-week-7-2026/"
+          "title": "ScoresAndOdds: Amon-Ra St. Brown props",
+          "url": "https://www.scoresandodds.com/prop-bets/2861659/amon-ra-st--brown"
         },
         {
-          "title": "Football Nation: Packers at Lions player props",
-          "url": "https://www.footballnationusa.com/post/packers-lions-player-props-week-7-2026"
+          "title": "Covers: Week 7 anytime TD picks",
+          "url": "https://www.covers.com/nfl/anytime-td-scorer-predictions-grades-nfl-week-7"
+        },
+        {
+          "title": "RotoWire: Week 7 odds for all games",
+          "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
         }
-      ]
+      ],
+      "prop_proj": 18.7
     },
     "6794": {
       "name": "Justin Jefferson",
@@ -210,22 +223,22 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Ankle: limited Wednesday, full Thursday. No concern for Sunday.",
-        "Anytime TD priced at +145. Colts CB Sauce Gardner (calf) missed practice again.",
-        "Vs. Indianapolis Sunday 10:00 AM Pacific. Vikings -6.5, total 41.5, Minnesota about 24 implied."
+        "Ankle: full practice Thursday and Friday, no game designation.",
+        "Colts CB Sauce Gardner (calf) is out. Vs. Indianapolis Sunday 10:00 AM Pacific, Vikings -5 to -6.5, total 41.5.",
+        "Through four games: 19 catches, 258 yards, 3 TDs and a quarter of the team's red-zone targets."
       ],
       "sources": [
         {
-          "title": "Vikings.com: Vikings vs. Colts injury report Week 7",
+          "title": "Vikings.com: Final Vikings vs. Colts injury report Week 7",
           "url": "https://www.vikings.com/news/colts-injury-report-week-7-2026-nfl-season"
         },
         {
-          "title": "Football Nation: Colts at Vikings player props",
-          "url": "https://www.footballnationusa.com/post/colts-vikings-player-props-week-7-2026"
+          "title": "KFAN: Justin Jefferson Week 7 preview",
+          "url": "https://kfan.iheart.com/content/2026-10-23-justin-jefferson-week-7-preview-vs-the-colts/"
         },
         {
-          "title": "The Big Lead: Week 7 injury updates",
-          "url": "https://www.thebiglead.com/justin-jefferson-brock-bowers-fantasy-football-injury-updates-week-7-2026/"
+          "title": "RotoWire: Week 7 odds for all games",
+          "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
         }
       ]
     },
@@ -233,20 +246,19 @@
       "name": "T.J. Hockenson",
       "verdict": "start",
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "high",
       "notes": [
-        "Full practice Wednesday and Thursday while working through the concussion protocol. On track to play.",
-        "Scored 24.9 points in Week 4. Colts TE Tyler Warren and CB Sauce Gardner did not practice Thursday.",
-        "Vs. Indianapolis Sunday 10:00 AM Pacific. Vikings -6.5, total 41.5."
+        "Full practice all week through the concussion protocol, no game designation. Cleared to play.",
+        "Colts TE Tyler Warren and CB Sauce Gardner are both out. Kickoff Sunday 10:00 AM Pacific."
       ],
       "sources": [
         {
-          "title": "Vikings.com: Vikings vs. Colts injury report Week 7",
+          "title": "Vikings.com: Final Vikings vs. Colts injury report Week 7",
           "url": "https://www.vikings.com/news/colts-injury-report-week-7-2026-nfl-season"
         },
         {
-          "title": "NBC Sports: Hockenson practicing fully",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-22/t-j-hockenson-concussion-practicing-fully"
+          "title": "4for4: Week 7 weekend update",
+          "url": "https://www.4for4.com/2026/w7/2026-week-7-nfl-weekend-update-injuries-picks-dfs-prop-parlay-fantasy-rankings"
         }
       ]
     },
@@ -256,8 +268,8 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Carted off with a left knee injury Monday night. Washington fears it is season-ending, MRI Tuesday.",
-        "Commanders are also on bye in Week 7. Top drop candidate unless the MRI is good news."
+        "Knee injury Monday night, feared season-ending. Commanders are on bye in Week 7.",
+        "Top drop candidate for an RB or kicker."
       ],
       "sources": [
         {
@@ -273,55 +285,50 @@
     "12501": {
       "name": "Matthew Golden",
       "verdict": "start",
-      "adj_pct": 0,
+      "adj_pct": -5,
       "confidence": "medium",
       "notes": [
-        "Shoulder: limited Wednesday and Thursday, but LaFleur says he will play.",
-        "Week 6: 6 catches for 104 yards and a TD on 13 targets. Jacobs returning may lower pass volume a bit.",
-        "At Detroit Sunday 1:25 PM Pacific. Total 52.5, Packers about 24.75 implied."
+        "Shoulder: limited all three practices but no game designation, so the team expects him to play.",
+        "Week 6: 6 catches, 104 yards and a TD on 13 targets. Jacobs returning may trim pass volume a bit, but 53.5 is the top total.",
+        "Anytime TD around 38% on Kalshi. At Detroit Sunday 1:25 PM Pacific."
       ],
       "sources": [
         {
-          "title": "SI: Packers-Lions Thursday injury report",
-          "url": "https://www.si.com/nfl/packers/onsi/packers-lions-thursday-injury-report-three-huge-updates-for-green-bay"
+          "title": "Packers.com: Franklin out, four questionable vs. Lions",
+          "url": "https://www.packers.com/news/packers-rule-out-zaire-franklin-list-four-questionable-vs-lions-week-7-injury-report"
         },
         {
-          "title": "NBC Sports: Golden limited by shoulder Thursday",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-22/golden-remains-limited-by-shoulder-on-thursday"
+          "title": "Covers: Week 7 anytime TD picks",
+          "url": "https://www.covers.com/nfl/anytime-td-scorer-predictions-grades-nfl-week-7"
         },
         {
-          "title": "Football Nation: Packers at Lions player props",
-          "url": "https://www.footballnationusa.com/post/packers-lions-player-props-week-7-2026"
+          "title": "Football Nation: Packers at Lions Week 7 guide",
+          "url": "https://www.footballnationusa.com/post/packers-at-lions-week-7-guide-2026"
         }
       ]
     },
     "9500": {
       "name": "Josh Downs",
-      "verdict": "flex",
-      "adj_pct": -5,
+      "verdict": "start",
+      "adj_pct": 5,
       "confidence": "medium",
       "notes": [
-        "Week 6: 4 catches on 8 targets for 40 yards and a 7-yard run in a loss to Tennessee.",
-        "Keenan Allen has 9 or more targets in three straight games and is cutting into the slot work.",
-        "At Minnesota Sunday 10:00 AM Pacific. Vikings -6, total 41.5, Colts about 18 implied.",
-        "Not on Thursday's Colts injury report. Colts TE Tyler Warren missed practice, which could push a few more targets his way."
+        "TE Tyler Warren (groin) and WR Anthony Gould (concussion) are out, which frees up targets. Football Nation calls Downs the clearest target boost.",
+        "At Minnesota Sunday 10:00 AM Pacific. Colts about 17.5 implied against a defense allowing 12.8 points per game.",
+        "Keenan Allen still competes for slot looks, so the ceiling is capped."
       ],
       "sources": [
         {
-          "title": "NBC Sports: Downs has shaky outing",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-18/downs-has-shaky-outing-as-colts-blow-13-0-lead"
+          "title": "NFL.com: Friday Oct. 23 news roundup",
+          "url": "https://nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
         },
         {
-          "title": "NFL.com: Week 7 waiver wire, top 15 targets",
-          "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-7-rookie-wr-germie-bernard-headlines-top-15-targets"
+          "title": "Football Nation: Colts at Vikings Week 7 guide",
+          "url": "https://www.footballnationusa.com/post/colts-at-vikings-week-7-guide-2026"
         },
         {
-          "title": "SI: Colts vs. Vikings Week 7 odds and injuries",
-          "url": "https://www.si.com/betting/colts-vs-vikings-prediction-odds-spread-injuries-trends-for-nfl-week-7-01m5b8s1x8y7"
-        },
-        {
-          "title": "Vikings.com: Vikings vs. Colts injury report Week 7",
-          "url": "https://www.vikings.com/news/colts-injury-report-week-7-2026-nfl-season"
+          "title": "RotoWire: Week 7 odds for all games",
+          "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
         }
       ]
     },
@@ -329,27 +336,19 @@
       "name": "Jake Ferguson",
       "verdict": "sit",
       "adj_pct": -5,
-      "confidence": "low",
+      "confidence": "high",
       "notes": [
-        "Week 6: 2 catches for 13 yards. Hockenson is healthy, so Ferguson goes to the bench.",
-        "At Philadelphia Monday 5:15 PM Pacific. Cowboys -5.5, total 44.5."
+        "Hockenson is cleared, so Ferguson stays on the bench.",
+        "At Philadelphia Monday 5:15 PM Pacific. Cowboys -4 to -4.5, total 44.5."
       ],
       "sources": [
         {
-          "title": "NBC Sports: Ferguson goes 2-13",
-          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-10-19/where-has-jake-ferguson-gone-veteran-te-goes-2-13"
+          "title": "RotoWire: Week 7 odds for all games",
+          "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
         },
         {
-          "title": "Fantasy Six Pack: Week 6 recap and injury fallout",
-          "url": "https://fantasysixpack.net/2026-fantasy-football-week-6-recap/"
-        },
-        {
-          "title": "SI: Week 7 opening odds for every game",
-          "url": "https://www.si.com/betting/nfl-week-7-opening-odds-for-every-game-bears-favored-vs-pats-seahawks-cowboys-favored-in-primetime-2026"
-        },
-        {
-          "title": "CBS Sports: Week 7 early lines",
-          "url": "https://www.cbssports.com/nfl/news/nfl-week-7-odds-2026-early-lines-chiefs-seahawks-packers-lions-browns/"
+          "title": "CBS Sports: Week 7 lines, spreads, totals",
+          "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-lines-odds-spreads-totals/"
         }
       ]
     },
@@ -359,26 +358,21 @@
       "adj_pct": 5,
       "confidence": "medium",
       "notes": [
-        "Vs. Miami Sunday 10:00 AM Pacific. Jets -4.5, total 38.5, Miami about 17 implied.",
-        "NFL.com lists the Jets defense as a Week 7 streamer.",
-        "Dolphins QB Malik Willis (thumb) practiced fully Thursday. Miami RB Jaylen Wright (foot) limited."
+        "Vs. Miami Sunday 10:00 AM Pacific. Jets -4.5, total 38.5 to 39.5, Miami about 17 implied.",
+        "Dolphins pass rusher Rob Beal is doubtful and CB Reese Taylor is out, a sign of a thin Miami roster."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 7 waiver wire, top 15 targets",
-          "url": "https://www.nfl.com/news/2026-nfl-fantasy-football-waiver-wire-week-7-rookie-wr-germie-bernard-headlines-top-15-targets"
+          "title": "RotoWire: Week 7 odds for all games",
+          "url": "https://www.rotowire.com/betting/nfl/odds/week-7"
         },
         {
-          "title": "SI: Week 7 opening odds for every game",
-          "url": "https://www.si.com/betting/nfl-week-7-opening-odds-for-every-game-bears-favored-vs-pats-seahawks-cowboys-favored-in-primetime-2026"
+          "title": "CBS Sports: Week 7 lines, spreads, totals",
+          "url": "https://www.cbssports.com/betting/news/week-7-nfl-betting-lines-odds-spreads-totals/"
         },
         {
-          "title": "VegasInsider: Week 7 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-7-odds-2026/"
-        },
-        {
-          "title": "NY Jets: Thursday injury report vs. Dolphins",
-          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-7-vs-dolphins-thursday-10-22-2026"
+          "title": "NewYorkJets.com: Week 7 Friday injury report",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-7-vs-dolphins-friday-10-23-2026"
         }
       ]
     }
@@ -388,10 +382,10 @@
       "a": "5844",
       "b": "8110",
       "pick": "5844",
-      "why": "Hockenson practiced fully all week and draws a Colts defense missing Gardner. Ferguson had 2 catches last week.",
+      "why": "Hockenson is fully cleared and the Colts are without Warren and Gardner. Ferguson plays Monday and had 2 catches last week.",
       "sources": [
         {
-          "title": "Vikings.com: Vikings vs. Colts injury report Week 7",
+          "title": "Vikings.com: Final Vikings vs. Colts injury report Week 7",
           "url": "https://www.vikings.com/news/colts-injury-report-week-7-2026-nfl-season"
         }
       ]
@@ -400,15 +394,35 @@
       "a": "9500",
       "b": "11581",
       "pick": "9500",
-      "why": "With Jacobs back, Lloyd loses most of his work. Downs is the safer FLEX unless you add Miller or Pierce.",
+      "why": "Downs gains targets with Warren and Gould out. Lloyd loses most work to Jacobs, so Downs is the better FLEX.",
       "sources": [
         {
-          "title": "SI: Jacobs to return vs. Lions, Lloyd outlook",
-          "url": "https://www.si.com/onsi/fantasy/news/josh-jacobs-to-return-vs-lions-week-7-marshawn-lloyd-fantasy-outlook"
+          "title": "NFL.com: Friday Oct. 23 news roundup",
+          "url": "https://nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
         },
         {
-          "title": "Vikings.com: Vikings vs. Colts injury report Week 7",
-          "url": "https://www.vikings.com/news/colts-injury-report-week-7-2026-nfl-season"
+          "title": "Football Nation: Colts at Vikings Week 7 guide",
+          "url": "https://www.footballnationusa.com/post/colts-at-vikings-week-7-guide-2026"
+        }
+      ]
+    },
+    {
+      "a": "8155",
+      "b": "11581",
+      "pick": "8155",
+      "why": "If Hall is active, he has a better role and matchup than Lloyd. If Hall is inactive at 8:30 AM Pacific, start Lloyd or Kendre Miller instead.",
+      "sources": [
+        {
+          "title": "NewYorkJets.com: Week 7 Friday injury report",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-7-vs-dolphins-friday-10-23-2026"
+        },
+        {
+          "title": "SI: Hall questionable, Braelon Allen risky",
+          "url": "https://www.si.com/onsi/fantasy/injuries/fantasy-football-impact-breece-hall-is-questionable-for-week-7-making-braelon-allen-a-risky-option"
+        },
+        {
+          "title": "NFL.com: Friday Oct. 23 news roundup",
+          "url": "https://nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
         }
       ]
     }
@@ -418,7 +432,7 @@
       "id": "",
       "name": "Kendre Miller",
       "pos": "RB",
-      "why": "20 carries for 70 yards in Week 6 with Etienne hurt. Volume RB2 vs. Pittsburgh in Paris, Sunday 6:30 AM Pacific. Drop McLaurin.",
+      "why": "Volume RB with Etienne hurt, about a 35% TD chance per Kalshi. Vs. Pittsburgh in Paris, locks Sunday 6:30 AM Pacific. Best fix for your RB hole with Robinson out. Drop McLaurin.",
       "sources": [
         {
           "title": "NFL.com: Week 7 waiver wire, top 15 targets",
@@ -427,6 +441,10 @@
         {
           "title": "Yahoo Sports: Waiver wire, Week 7 edition",
           "url": "https://sports.yahoo.com/articles/fantasy-football-2026-waiver-wire-221847111.html"
+        },
+        {
+          "title": "Covers: Week 7 anytime TD picks",
+          "url": "https://www.covers.com/nfl/anytime-td-scorer-predictions-grades-nfl-week-7"
         }
       ]
     },
@@ -434,7 +452,7 @@
       "id": "",
       "name": "Dameon Pierce",
       "pos": "RB",
-      "why": "Handled all 12 Eagles RB carries with a TD and 4 catches in Week 6. Barkley is still not cleared. Plays Monday 5:15 PM Pacific. Drop Keaton Mitchell.",
+      "why": "Handled the Eagles backfield in Week 6, but Barkley was limited Friday and is leaning toward playing, so the value is shrinking. Plays Monday 5:15 PM Pacific.",
       "sources": [
         {
           "title": "NFL.com: Week 7 waiver wire, top 15 targets",
@@ -443,6 +461,14 @@
         {
           "title": "DK Network: NFL injury report for Week 7",
           "url": "https://dknetwork.draftkings.com/2026/10/20/nfl-injury-report-week-7/"
+        },
+        {
+          "title": "NFL.com: Friday Oct. 23 news roundup",
+          "url": "https://nfl.com/news/nfl-news-roundup-latest-league-updates-from-friday-oct-23"
+        },
+        {
+          "title": "4for4: Week 7 weekend update",
+          "url": "https://www.4for4.com/2026/w7/2026-week-7-nfl-weekend-update-injuries-picks-dfs-prop-parlay-fantasy-rankings"
         }
       ]
     },
@@ -450,7 +476,7 @@
       "id": "",
       "name": "Chad Ryland",
       "pos": "K",
-      "why": "You have no kicker. Arizona just kicked six field goals, and he is home vs. Denver Sunday 1:05 PM Pacific. Jake Bates (DET, 52.5 total) is the better pick if free. Drop Hurts if you have no IR slot.",
+      "why": "You have no kicker. Arizona is at Denver Sunday 1:05 PM Pacific and settles for field goals often. Jake Bates (DET, 53.5 total) is the better pick if free. Drop Hurts if you have no IR slot.",
       "sources": [
         {
           "title": "SI: Week 7 kicker streamers",
@@ -478,7 +504,7 @@
       "id": "",
       "name": "Roschon Johnson",
       "pos": "RB",
-      "why": "Bears RB Kyle Monangai is inactive Thursday, so Johnson should see steady work behind Swift vs. New England tonight, 5:15 PM Pacific. Only useful if already on your roster.",
+      "why": "His Thursday game is over. Only a bench hold if you already added him.",
       "sources": [
         {
           "title": "Yahoo Sports: Waiver wire, Week 7 edition",
