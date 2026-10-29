@@ -1,32 +1,32 @@
 {
   "season": 2026,
   "week": 8,
-  "generated_at": "2026-10-27T16:20:00Z",
-  "run": "Tuesday waivers",
-  "headline": "Week 8: add a kicker and an RB, start Brissett at Dallas, and set Golden before Thursday 5:15 PM Pacific.",
+  "generated_at": "2026-10-29T23:10:00Z",
+  "run": "Thursday night check",
+  "headline": "Week 8: start Golden tonight if active, check inactives at 3:45 PM Pacific, and Hall still has not practiced fully.",
   "alerts": [
-    "Sleeper could not be reached this run, so the roster is from Sunday and waiver targets could not be checked against league rosters. Confirm in the app.",
-    "You have no kicker. Add Chad Ryland (ARI) or Jake Bates (DET) before Sunday 10:00 AM Pacific.",
-    "Packers play Thursday 5:15 PM Pacific. Golden and Lloyd lock then.",
-    "Terry McLaurin is out for the season and Jake Ferguson had 0 catches Monday. Both are drop candidates.",
-    "Breece Hall missed a third straight game. Watch Wednesday and Thursday practice reports.",
+    "Sleeper could not be reached again this run, so the roster is from Sunday. Confirm your lineup and any waiver adds in the app.",
+    "Packers-Panthers kicks off tonight 5:15 PM Pacific. Golden (shoulder, foot) is questionable but trending toward playing. Inactives post about 3:45 PM Pacific.",
+    "If Golden is inactive, swap him out before 5:15 PM Pacific. Do not start Lloyd, his prop projects under 3 points.",
+    "Breece Hall was limited Wednesday and Thursday. Wait for Friday's report. Start Keaton Mitchell otherwise.",
+    "If you still have no kicker, add Chad Ryland or Jake Bates before Sunday 10:00 AM Pacific.",
     "Daylight saving time ends Sunday Nov. 1. Early games still kick off at 10:00 AM Pacific."
   ],
   "games": {
     "ARI": {
-      "note": "At Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -6.5, total 53.5. RB Jeremiyah Love (ankle) missed two straight games."
+      "note": "At Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -6.5, total 53.5. RB Jeremiyah Love (ankle) missed two straight games. Love should have a shot to play Sunday, per Yahoo."
     },
     "DAL": {
       "note": "Hosts Arizona Sunday 10:00 AM Pacific. Cowboys about 30 implied. Javonte Williams ran for over 150 yards Monday."
     },
     "GB": {
-      "note": "Hosts Carolina Thursday 5:15 PM Pacific on a short week. Packers -3.5, total 47.5. Centers Sean Rhyan and Jacob Monk not expected to play."
+      "note": "Hosts Carolina tonight 5:15 PM Pacific. Packers -3.5, total 47.5. Clear, about 56 degrees, light wind. Out: LB Zaire Franklin, G/T Travis Glover, C/G Sean Rhyan. Golden questionable."
     },
     "DET": {
       "note": "Hosts Minnesota Sunday 10:00 AM Pacific, indoors. Lions -3.5, total 45.5. CB Ennis Rakestraw hurt his ankle."
     },
     "MIN": {
-      "note": "At Detroit Sunday 10:00 AM Pacific. RB Aaron Jones aggravated his knee and is day to day."
+      "note": "At Detroit Sunday 10:00 AM Pacific. RB Aaron Jones avoided a serious knee injury but is uncertain. Jordan Mason would lead the backfield."
     },
     "IND": {
       "note": "At Jacksonville Sunday 10:00 AM Pacific. Jaguars -7.5, total 46.5. Colts are 2-5 and may trade Jonathan Taylor."
@@ -35,13 +35,16 @@
       "note": "At the Rams Sunday 1:05 PM Pacific, coming off the bye. Rams -7.5, total 43.5."
     },
     "NYJ": {
-      "note": "Hosts Las Vegas Sunday 10:00 AM Pacific. Jets -1.5, total 44.5."
+      "note": "Hosts Las Vegas Sunday 10:00 AM Pacific. Jets -1.5, total 44.5. Breece Hall limited Wed and Thu. Edges David Bailey and Joseph Ossai and DL T'Vondre Sweat missed both practices, which weakens the Jets defense."
     },
     "ATL": {
       "note": "At Tampa Bay Sunday 10:00 AM Pacific. Bucs -2.5, total 44.5."
     },
     "WAS": {
       "note": "Hosts Philadelphia Sunday 5:20 PM Pacific. Terry McLaurin is out for the season."
+    },
+    "CAR": {
+      "note": "At Green Bay tonight 5:15 PM Pacific. Edge Jaelan Phillips is out."
     }
   },
   "players": {
@@ -108,6 +111,10 @@
         {
           "title": "Covers: Week 8 opening odds",
           "url": "https://www.covers.com/nfl/week-8-odds-opening-lines-2026"
+        },
+        {
+          "title": "Yahoo: Week 8 NFL injury report",
+          "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-8-latest-news-updates-on-lamar-jackson-breece-hall-more-players-for-fantasy-football-170704038.html"
         }
       ]
     },
@@ -142,36 +149,26 @@
     },
     "11581": {
       "name": "MarShawn Lloyd",
-      "verdict": "flex",
+      "verdict": "sit",
       "adj_pct": -10,
-      "confidence": "low",
+      "confidence": "high",
       "notes": [
-        "Josh Jacobs returned in Week 7 and led the backfield with 11 carries and 7 targets.",
-        "Lloyd had 6 carries for 20 yards and 2 catches for 15 yards, a backup role now.",
-        "Hosts Carolina Thursday 5:15 PM Pacific. Packers -3.5, total 47.5. Two Packers centers are hurt on a short week."
+        "Not on the injury report. Josh Jacobs is back as the lead back.",
+        "Props: 17.5 rushing yards on 5.5 carries, 0.5 catches and 5.5 receiving yards, about 2.8 PPR points.",
+        "Jacobs props are 14.5 carries and 58.5 rushing yards, so Lloyd is a low-volume backup.",
+        "Hosts Carolina tonight 5:15 PM Pacific. Keep him on the bench."
       ],
       "sources": [
         {
-          "title": "CBS Sports: Packers at Lions recap",
-          "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261025_GB@DET/"
+          "title": "Packers.com: Week 8 injury report",
+          "url": "https://www.packers.com/news/packers-list-four-questionable-rule-out-three-vs-panthers-week-8-injury-report"
         },
         {
-          "title": "ESPN: Lions 20, Packers 17 recap",
-          "url": "https://www.espn.com/nfl/recap?gameId=401873020"
-        },
-        {
-          "title": "Field Level Media: Week 7 injury roundup",
-          "url": "https://fieldlevelmedia.com/nfl/week-7-injury-roundup-vikings-aaron-jones-aggravates-knee-injury/"
-        },
-        {
-          "title": "Covers: Week 8 opening odds",
-          "url": "https://www.covers.com/nfl/week-8-odds-opening-lines-2026"
-        },
-        {
-          "title": "NFL-Schedule.com: Week 8 schedule and times",
-          "url": "https://www.nfl-schedule.com/weeks/week-8"
+          "title": "DK Network: Panthers vs. Packers prop splits",
+          "url": "https://dknetwork.draftkings.com/2026/10/29/panthers-vs-packers-player-prop-bet-splits/"
         }
-      ]
+      ],
+      "prop_proj": 2.8
     },
     "7547": {
       "name": "Amon-Ra St. Brown",
@@ -272,26 +269,42 @@
     "12501": {
       "name": "Matthew Golden",
       "verdict": "start",
-      "adj_pct": 0,
+      "adj_pct": -5,
       "confidence": "medium",
       "notes": [
-        "Led Green Bay with 12 targets in Week 7, catching 6 for 39 yards.",
-        "Hosts Carolina Thursday 5:15 PM Pacific, so set him before Thursday night. Packers about 25.5 implied."
+        "Questionable with shoulder and foot injuries. Missed practice Monday and Tuesday, then was limited Wednesday.",
+        "Ian Rapoport reported Thursday that he is trending toward playing. Inactives post about 3:45 PM Pacific.",
+        "Props: 4.5 catches and 59.5 receiving yards, about 10.5 PPR points before TDs. No TD price was posted yet.",
+        "Hosts Carolina tonight 5:15 PM Pacific. Packers -3.5, total 47.5, Green Bay about 25.5 implied. Clear, mid 50s, light wind.",
+        "Small cut for the injury and a possible snap limit. If he is inactive, bench him before 5:15 PM Pacific."
       ],
       "sources": [
         {
-          "title": "CBS Sports: Packers at Lions recap",
-          "url": "https://www.cbssports.com/nfl/gametracker/recap/NFL_20261025_GB@DET/"
+          "title": "Packers.com: Week 8 injury report",
+          "url": "https://www.packers.com/news/packers-list-four-questionable-rule-out-three-vs-panthers-week-8-injury-report"
         },
         {
-          "title": "Covers: Week 8 opening odds",
-          "url": "https://www.covers.com/nfl/week-8-odds-opening-lines-2026"
+          "title": "4for4: Golden trending toward playing",
+          "url": "https://www.4for4.com/news/matthew-golden-trending-toward-playing-thursday-night"
         },
         {
-          "title": "NFL-Schedule.com: Week 8 schedule and times",
-          "url": "https://www.nfl-schedule.com/weeks/week-8"
+          "title": "The Big Lead: Is Matthew Golden playing tonight",
+          "url": "https://www.thebiglead.com/matthew-golden-playing-tonight-injury-update-fantasy-advice-week-8/"
+        },
+        {
+          "title": "CBS Sports: Golden questionable for Thursday",
+          "url": "https://www.cbssports.com/fantasy/football/news/packers-matthew-golden-questionable-for-thursday/"
+        },
+        {
+          "title": "DK Network: Panthers vs. Packers prop splits",
+          "url": "https://dknetwork.draftkings.com/2026/10/29/panthers-vs-packers-player-prop-bet-splits/"
+        },
+        {
+          "title": "Covers: Panthers vs. Packers picks",
+          "url": "https://www.covers.com/nfl/panthers-vs-packers-prediction-picks-oct-29-2026"
         }
-      ]
+      ],
+      "prop_proj": 10.5
     },
     "9500": {
       "name": "Josh Downs",
@@ -346,11 +359,12 @@
     "NYJ": {
       "name": "New York Jets",
       "verdict": "start",
-      "adj_pct": 0,
+      "adj_pct": -5,
       "confidence": "medium",
       "notes": [
         "Hosts Las Vegas Sunday 10:00 AM Pacific. Jets -1.5, total 44.5, Raiders about 21.5 implied.",
-        "A playable matchup, not a smash spot."
+        "A playable matchup, not a smash spot.",
+        "Three Jets pass rushers missed practice Wednesday and Thursday. Lower the ceiling a bit."
       ],
       "sources": [
         {
@@ -360,31 +374,36 @@
         {
           "title": "NFL-Schedule.com: Week 8 schedule and times",
           "url": "https://www.nfl-schedule.com/weeks/week-8"
+        },
+        {
+          "title": "Jets.com: Thursday injury report vs. Raiders",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-8-vs-raiders-thursday-10-29-2026"
         }
       ]
     },
     "8155": {
       "name": "Breece Hall",
       "verdict": "sit",
-      "adj_pct": -40,
-      "confidence": "low",
+      "adj_pct": -25,
+      "confidence": "medium",
       "notes": [
-        "Inactive in Week 7, his third straight missed game with the quad strain. Not on IR, no return date.",
-        "Braelon Allen has led the Jets backfield while he is out.",
-        "Hosts Las Vegas Sunday 10:00 AM Pacific. Watch Wednesday and Thursday practice. If he gets in full sessions, he moves back into your lineup over Mitchell or Lloyd."
+        "Limited in practice Wednesday and Thursday with the quad strain. No full session yet.",
+        "Braelon Allen moved to a full practice Thursday, so the Jets backfield stays crowded.",
+        "Missed the last three games. Friday practice and the game status decide it.",
+        "Hosts Las Vegas Sunday 10:00 AM Pacific. Start him only if he is a full participant Friday with no game status."
       ],
       "sources": [
         {
-          "title": "Fantasy Injury News: Breece Hall tracker",
-          "url": "https://fantasy-injury-news.com/players/breece-hall/"
+          "title": "Jets.com: Thursday injury report vs. Raiders",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-8-vs-raiders-thursday-10-29-2026"
         },
         {
-          "title": "SI: Week 7 RB usage report",
-          "url": "https://www.si.com/onsi/fantasy/nfl/week-7-rb-usage-report-backfield-shifts-fantasy-football-impact-for-kendre-miller-treveyon-henderson-and-more"
+          "title": "JetNation: Hall limited, Allen full Thursday",
+          "url": "https://www.jetnation.com/2026/10/29/jets-injury-report-hall-limited-allen-full-thursday/"
         },
         {
-          "title": "Covers: Week 8 opening odds",
-          "url": "https://www.covers.com/nfl/week-8-odds-opening-lines-2026"
+          "title": "Yahoo: Week 8 NFL injury report",
+          "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-report-week-8-latest-news-updates-on-lamar-jackson-breece-hall-more-players-for-fantasy-football-170704038.html"
         }
       ]
     }
@@ -394,8 +413,16 @@
       "a": "9511",
       "b": "8155",
       "pick": "9511",
-      "why": "Hall has missed three straight games and has no return date. Start Mitchell in the RB2 slot unless Hall is a full practice participant by Friday.",
+      "why": "Hall was limited Wednesday and Thursday and has not had a full practice. Start Mitchell unless Hall is full Friday with no game status.",
       "sources": [
+        {
+          "title": "Jets.com: Thursday injury report vs. Raiders",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-8-vs-raiders-thursday-10-29-2026"
+        },
+        {
+          "title": "JetNation: Hall limited, Allen full Thursday",
+          "url": "https://www.jetnation.com/2026/10/29/jets-injury-report-hall-limited-allen-full-thursday/"
+        },
         {
           "title": "Fantasy Injury News: Breece Hall tracker",
           "url": "https://fantasy-injury-news.com/players/breece-hall/"
@@ -439,6 +466,22 @@
         {
           "title": "PFF: Cowboys-Eagles fantasy takeaways",
           "url": "https://www.pff.com/news/fantasy-football-takeaways-cowboys-eagles-week-7"
+        }
+      ]
+    },
+    {
+      "a": "12501",
+      "b": "11581",
+      "pick": "12501",
+      "why": "Both play tonight. Golden is questionable but trending toward playing with a 59.5 yard prop. Lloyd projects under 3 points behind Jacobs. Start Golden if active.",
+      "sources": [
+        {
+          "title": "4for4: Golden trending toward playing",
+          "url": "https://www.4for4.com/news/matthew-golden-trending-toward-playing-thursday-night"
+        },
+        {
+          "title": "DK Network: Panthers vs. Packers prop splits",
+          "url": "https://dknetwork.draftkings.com/2026/10/29/panthers-vs-packers-player-prop-bet-splits/"
         }
       ]
     }
