@@ -1,220 +1,277 @@
 {
   "season": 2026,
-  "week": 8,
-  "generated_at": "2026-11-01T03:04:43Z",
-  "run": "Saturday night full review",
-  "headline": "Week 8: start Breece Hall if active at about 8:30 AM Pacific, otherwise use Keaton Mitchell, and make sure a kicker is in by 10:00 AM Pacific.",
+  "week": 9,
+  "generated_at": "2026-11-04T15:16:18Z",
+  "run": "Tuesday waivers and week preview",
+  "headline": "Week 9: swap the injured A.J. Brown out of your FLEX for Adonai Mitchell, keep Willis at QB, and grab Caleb Douglas or Antonio Williams off waivers.",
   "alerts": [
-    "Sleeper could not be reached again this run, so the roster is from the last successful pull. Check your lineup in the app.",
-    "Breece Hall (quad) is questionable after limited practices all week. Inactives post about 8:30 AM Pacific. Kickoff 10:00 AM Pacific.",
-    "Brian Robinson is OUT. Take him out of any lineup slot before 10:00 AM Pacific.",
-    "If you still have no kicker, add Chad Ryland (ARI at DAL, indoors, 54.5 total) before 10:00 AM Pacific.",
-    "Golden and Lloyd already played Thursday. Green Bay won 27-19.",
-    "Colts at Jaguars and Falcons at Bucs have rain and wind in the forecast. Downs is a lower-floor flex.",
-    "Daylight saving time ends tonight. Early games are 10:00 AM Pacific, Chargers-Rams 1:05 PM Pacific."
+    "A.J. Brown is listed out (knee, ankle) and is in your FLEX. Replace him with Adonai Mitchell before Sunday 10:00 AM Pacific.",
+    "Germie Bernard is on bye. Keep him on the bench.",
+    "Amon-Ra St. Brown is listed questionable (ankle, head knock in Week 8). Watch Thursday and Friday practice.",
+    "Breece Hall is expected back at KC Sunday 10:00 AM Pacific. Singletary vs Hall depends on Cam Skattebo's hamstring.",
+    "Seattle plays at 1:25 PM Pacific Sunday. Vikings host Buffalo Monday 5:15 PM Pacific, with Kyler Murray uncertain.",
+    "Trade deadline is Tuesday Nov 10. A Jonathan Taylor trade would boost Seth McGowan."
   ],
   "games": {
-    "ARI": {
-      "note": "At Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -7, total 54.5. RB Jeremiyah Love returns from his ankle injury. OL Jon Gaines and DL Walter Nolen are out."
-    },
-    "DAL": {
-      "note": "Hosts Arizona Sunday 10:00 AM Pacific. Cowboys about 31 implied. WR George Pickens is questionable. WR KaVontae Turpin is out."
-    },
-    "GB": {
-      "note": "Beat Carolina 27-19 Thursday. Jordan Love threw 3 TDs. Golden played."
+    "MIA": {
+      "note": "Hosts Detroit Sunday 10:00 AM Pacific. Lions -7, total 50.5, Miami about 21.75 implied. De'Von Achane is on IR."
     },
     "DET": {
-      "note": "Hosts Minnesota Sunday 10:00 AM Pacific, indoors. Lions -3.5, total about 46. S Kerby Joseph is out."
+      "note": "At Miami Sunday 10:00 AM Pacific. Detroit about 28.75 implied. LB Jack Campbell doubtful, S Kerby Joseph out, Branch and Wonnum in concussion protocol."
     },
-    "MIN": {
-      "note": "At Detroit Sunday 10:00 AM Pacific. Only S Jay Ward is on the Vikings injury report."
+    "SEA": {
+      "note": "Hosts Arizona Sunday 1:25 PM Pacific on a short week after Monday night. Seahawks -10.5, total 41.5, about 26 implied."
     },
-    "IND": {
-      "note": "At Jacksonville Sunday 10:00 AM Pacific. Jaguars -10, total 46.5. Rain and gusty wind expected. WR Anthony Gould is out."
-    },
-    "LAC": {
-      "note": "At the Rams Sunday 1:05 PM Pacific. Rams -6.5, total 45.5. S Derwin James and WR Brenen Thompson are out."
-    },
-    "NYJ": {
-      "note": "Hosts Las Vegas Sunday 10:00 AM Pacific. Jets -1.5, total 45.5, mostly sunny. Hall questionable. Sweat and Ossai out, Bailey doubtful."
-    },
-    "ATL": {
-      "note": "At Tampa Bay Sunday 10:00 AM Pacific. Bucs -2.5, total 43.5, storms in the forecast. Brian Robinson is out."
-    },
-    "WAS": {
-      "note": "Hosts Philadelphia Sunday 5:20 PM Pacific. Terry McLaurin is out for the season."
+    "NYG": {
+      "note": "At Philadelphia Sunday 10:00 AM Pacific, off a bye. Giants -3.5, total 39.5. Skattebo day-to-day (hamstring), Tracy on IR."
     },
     "PHI": {
-      "note": "At Washington Sunday 5:20 PM Pacific. Hurts is on IR."
+      "note": "Hosts the Giants. Hurts on IR, Tanner McKee starts. Eagles about 18 implied, Barkley banged up."
+    },
+    "IND": {
+      "note": "Hosts Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -6, total 51.5. Jonathan Taylor is in trade rumors before the Nov 10 deadline."
+    },
+    "NYJ": {
+      "note": "At Kansas City Sunday 10:00 AM Pacific. Chiefs -9.5, total 46.5, Jets about 18.5 implied. Forecast 60F with light wind. Breece Hall expected back."
+    },
+    "MIN": {
+      "note": "Hosts Buffalo Monday 5:15 PM Pacific, indoors. Bills -3.5, total about 45.5. Kyler Murray (hamstring) is uncertain, Carson Wentz would start."
+    },
+    "GB": {
+      "note": "At New England Sunday 1:25 PM Pacific. Patriots -3, total 46.5."
+    },
+    "NE": {
+      "note": "Hosts Green Bay Sunday 1:25 PM Pacific. A.J. Brown, Hunter Henry and TreVeyon Henderson are all uncertain."
+    },
+    "PIT": {
+      "note": "Bye in Week 9."
     }
   },
   "players": {
-    "3257": {
-      "name": "Jacoby Brissett",
+    "8161": {
+      "name": "Malik Willis",
+      "verdict": "start",
+      "prop_proj": 18.1,
+      "adj_pct": 0,
+      "confidence": "medium",
+      "notes": [
+        "Healthy and the clear Dolphins starter. Hosts Detroit Sunday 10:00 AM Pacific.",
+        "Lions -7, total 50.5, Miami about 21.75 implied. Detroit allows the most fantasy points to QBs and its LB and secondary group is banged up.",
+        "Props: 206.5 pass yards, 1.5 pass TDs (under favored), 0.5 INTs, 32.5 rush yards, anytime TD +190. That works out to about 18.1 points.",
+        "Rushing floor gives him the edge over Darnold. Sacked often behind a weak line."
+      ],
+      "sources": [
+        {
+          "title": "Scores and Odds: Malik Willis props",
+          "url": "https://www.scoresandodds.com/prop-bets/3491780/malik-willis"
+        },
+        {
+          "title": "The Big Lead: Week 9 QB start-sit",
+          "url": "https://www.thebiglead.com/week-9-fantasy-football-qb-start-sit-malik-willis-tyler-shough-sam-darnold-c-j-stroud/"
+        },
+        {
+          "title": "Yahoo: Lions scouting report on the Dolphins",
+          "url": "https://sports.yahoo.com/articles/lions-scouting-report-dolphins-strengths-130000767.html"
+        },
+        {
+          "title": "ESPN: Week 9 schedule, odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
+        }
+      ]
+    },
+    "4943": {
+      "name": "Sam Darnold",
+      "verdict": "sit",
+      "prop_proj": 17.0,
+      "adj_pct": 0,
+      "confidence": "medium",
+      "notes": [
+        "No injury designation. Starting for Seattle, who hosts Arizona Sunday 1:25 PM Pacific on a short week after Monday night.",
+        "Seahawks -10.5, total 41.5 and falling, Seattle about 26 implied. A big home favorite may lean on the run.",
+        "Props: 226.5 pass yards, 1.5 pass TDs (over favored), 0.5 INTs (under favored), 6.5 rush yards. About 17.0 points.",
+        "Close call with Willis, but Willis has the rushing floor and the better game total. Keep Darnold as the QB2."
+      ],
+      "sources": [
+        {
+          "title": "Scores and Odds: Sam Darnold props",
+          "url": "https://www.scoresandodds.com/prop-bets/328423/sam-darnold"
+        },
+        {
+          "title": "NBC Sports: Darnold struggles through pressure in loss",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-03/sam-darnold-struggles-through-pressure-in-loss"
+        },
+        {
+          "title": "The Big Lead: Week 9 QB start-sit",
+          "url": "https://www.thebiglead.com/week-9-fantasy-football-qb-start-sit-malik-willis-tyler-shough-sam-darnold-c-j-stroud/"
+        },
+        {
+          "title": "DK Network: NFL injury report Week 9",
+          "url": "https://dknetwork.draftkings.com/2026/11/03/nfl-injury-report-week-9/"
+        }
+      ]
+    },
+    "13286": {
+      "name": "Jadarian Price",
       "verdict": "start",
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "No injury designation. Covers says Arizona is sticking with him for at least one more game, though Carson Beck is healthy as the backup.",
-        "At Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -7, total 54.5, Arizona about 24 implied, the highest total on your slate.",
-        "Props: 256.5 passing yards and 9.5 rushing yards. TD and INT lines were not found, so no prop projection is set.",
-        "Jeremiyah Love returns from his ankle injury, which may trim some pass volume."
+        "Healthy after returning from IR (chest) in Week 8. Led Seattle in carries with 10 for 29 yards plus 2 catches, on 48% of snaps.",
+        "Hosts Arizona Sunday 1:25 PM Pacific. Seahawks -10.5, a strong rushing script.",
+        "Props: 45.5 rush yards and anytime TD +155. No receptions line, so no prop projection is set.",
+        "Zach Charbonnet shares the work and gets goal line looks, which caps TD upside."
       ],
       "sources": [
         {
-          "title": "Arizona Sports: Cardinals-Cowboys Week 8 injury report",
-          "url": "https://arizonasports.com/arizona-cardinals-injury-report/cardinals-cowboys-week-8-injury-report-jeremiyah-will-play"
+          "title": "Scores and Odds: Jadarian Price props",
+          "url": "https://www.scoresandodds.com/prop-bets/12275024/jadarian-price"
         },
         {
-          "title": "Covers: Cardinals vs Cowboys picks and odds",
-          "url": "https://www.covers.com/nfl/cardinals-vs-cowboys-prediction-picks-nov-1-2026"
+          "title": "BettingPros: Price rushing yards prop",
+          "url": "https://www.bettingpros.com/nfl/props/jadarian-price/rushing-yards/"
         },
         {
-          "title": "VegasInsider: NFL Week 8 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-8-odds-2026/"
+          "title": "Athlon: Are Price and Charbonnet playing in Week 9",
+          "url": "https://athlonsports.com/nfl/seattle-seahawks/are-jadarian-price-zach-charbonnet-playing-in-week-9-what-we-know-about-seattles-running-backs"
         },
         {
-          "title": "BettingPros: Jacoby Brissett passing yards prop",
-          "url": "https://www.bettingpros.com/nfl/props/jacoby-brissett/passing-yards/"
-        },
-        {
-          "title": "WagerTalk: Week 8 player props",
-          "url": "https://www.wagertalk.com/news/nfl/best-nfl-player-props-week-8-top-picks-td-bets/"
+          "title": "DK Network: NFL injury report Week 9",
+          "url": "https://dknetwork.draftkings.com/2026/11/03/nfl-injury-report-week-9/"
         }
       ]
     },
-    "6904": {
-      "name": "Jalen Hurts",
-      "verdict": "out",
-      "adj_pct": -60,
-      "confidence": "high",
-      "notes": [
-        "On IR. Tanner McKee is expected to start for Philadelphia at least through Week 8.",
-        "Keep him in an IR slot if you have one, otherwise he is a drop candidate."
-      ],
-      "sources": [
-        {
-          "title": "The Big Lead: Week 8 waiver FAAB",
-          "url": "https://www.thebiglead.com/fantasy-football-week-8-waiver-wire-faab-omar-cooper-jr-jonah-coleman-top-adds/"
-        }
-      ]
-    },
-    "8154": {
-      "name": "Brian Robinson",
-      "verdict": "out",
-      "adj_pct": -60,
-      "confidence": "high",
-      "notes": [
-        "Ruled out for Sunday with a hamstring injury, his second straight missed game.",
-        "Even healthy he is Bijan Robinson's backup. Top drop candidate."
-      ],
-      "sources": [
-        {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
-        }
-      ]
-    },
-    "9511": {
-      "name": "Keaton Mitchell",
+    "6130": {
+      "name": "Devin Singletary",
       "verdict": "flex",
-      "adj_pct": -5,
+      "adj_pct": 5,
       "confidence": "low",
       "notes": [
-        "No injury designation. Still in a three-way committee with Omarion Hampton and Kimani Vidal.",
-        "At the Rams Sunday 1:05 PM Pacific. Rams -6.5, total 45.5, Chargers only about 19.5 implied. Weather is fine.",
-        "No player props were posted for him. He is your fallback RB if Breece Hall is inactive."
+        "Healthy, coming off the Giants bye. At Philadelphia Sunday 10:00 AM Pacific. Giants -3.5, total 39.5, about 21.5 implied.",
+        "Cam Skattebo is day-to-day with a hamstring and Tyrone Tracy is on IR. If Skattebo sits, Singletary leads the backfield.",
+        "Anytime TD moved to +210 from +650 in Week 7, so the market expects a bigger role. No yardage props yet, so no prop projection.",
+        "Watch Skattebo's Friday practice status before locking him in."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "Scores and Odds: Devin Singletary props",
+          "url": "https://www.scoresandodds.com/prop-bets/982203/devin-singletary"
         },
         {
-          "title": "Covers: Chargers vs Rams picks and odds",
-          "url": "https://www.covers.com/nfl/chargers-vs-rams-prediction-picks-nov-1-2026"
+          "title": "Giants.com: Week 9 tracker",
+          "url": "https://www.giants.com/news/week-9-tracker-latest-news-notes-roster-moves-philadelphia-eagles-nfc-east"
         },
         {
-          "title": "VegasInsider: NFL Week 8 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-8-odds-2026/"
-        },
-        {
-          "title": "DK Network: Week 8 weather forecast",
-          "url": "https://dknetwork.draftkings.com/2026/10/30/nfl-week-8-weather-forecast/"
+          "title": "Football Nation: Giants backfield after Tracy IR",
+          "url": "https://www.footballnationusa.com/post/giants-backfield-reset-skattebo-singletary-roles-after-tracy-goes-on-ir"
         }
       ]
     },
-    "11581": {
-      "name": "MarShawn Lloyd",
-      "verdict": "sit",
-      "adj_pct": -10,
-      "confidence": "high",
+    "13424": {
+      "name": "Seth McGowan",
+      "verdict": "stash",
+      "adj_pct": 0,
+      "confidence": "medium",
       "notes": [
-        "Game is over. Green Bay beat Carolina 27-19 Thursday. Lloyd was not mentioned in the recap, and Josh Jacobs had 21 carries.",
-        "If he was in your lineup Thursday, his points are locked."
+        "Backup to Jonathan Taylor. Had 5 carries for 29 yards on 15 snaps in the Week 8 blowout at Jacksonville.",
+        "Hosts Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -6, total 51.5.",
+        "Only startable if the Colts trade Taylor before the November 10 deadline. No props found."
       ],
       "sources": [
         {
-          "title": "Packers.com: 5 takeaways from win over Panthers",
-          "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-panthers-week-8-2026"
+          "title": "NBC Sports: McGowan turns five carries into 29 yards",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-01/seth-mcgowan-turns-five-carries-into-29-yards"
+        },
+        {
+          "title": "Heavy: Colts using McGowan differently amid Taylor trade rumors",
+          "url": "https://heavy.com/sports/nfl/indianapolis-colts/why-colts-using-seth-mcgowan-differently-jonathan-taylor-trade-rumors/"
+        }
+      ]
+    },
+    "8155": {
+      "name": "Breece Hall",
+      "verdict": "flex",
+      "adj_pct": -15,
+      "confidence": "low",
+      "notes": [
+        "Missed five straight games with a quad injury, including Week 8, but is expected to play at Kansas City Sunday 10:00 AM Pacific.",
+        "Coach Aaron Glenn says Hall is the starter, but Braelon Allen will still get touches after back-to-back 100-yard games.",
+        "Chiefs -9.5, total 46.5, Jets only about 18.5 implied. First game back plus a shared load lowers the floor.",
+        "Only an anytime TD line (+105) is posted so far, so no prop projection is set."
+      ],
+      "sources": [
+        {
+          "title": "ESPN: Glenn says Hall is the starter",
+          "url": "https://www.espn.com/nfl/story/_/id/50360481/jets-breece-hall-starter-braelon-allen"
+        },
+        {
+          "title": "NBC Sports: Hall should play in Week 9",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-02/breece-hall-should-play-in-week-9-vs-chiefs"
+        },
+        {
+          "title": "Scores and Odds: Breece Hall props",
+          "url": "https://www.scoresandodds.com/prop-bets/3491661/breece-hall"
+        },
+        {
+          "title": "SI: Jets Week 9 injury report",
+          "url": "https://www.si.com/nfl/jets/onsi/breaking-down-jets-injury-report-heading-into-week-9-who-s-hurt-who-could-return-vs-chiefs-01m6hap7qssp"
         }
       ]
     },
     "7547": {
       "name": "Amon-Ra St. Brown",
       "verdict": "start",
+      "prop_proj": 17.3,
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "No injury designation.",
-        "Hosts Minnesota Sunday 10:00 AM Pacific, indoors. Lions -3.5, total about 46, Detroit about 25 implied.",
-        "Anytime TD priced around +141. Yardage props were not found, so no prop projection is set."
+        "Sleeper lists him questionable. He has an ankle issue and hit his head in Week 8 but returned and played 72% of snaps.",
+        "At Miami Sunday 10:00 AM Pacific. Lions -7, total 50.5, Detroit about 28.75 implied.",
+        "Props: 6.5 receptions, 75.5 yards, anytime TD -115. About 17.3 points.",
+        "Check the Lions Wednesday and Thursday practice reports."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "Covers: Amon-Ra St. Brown props",
+          "url": "https://www.covers.com/sport/football/nfl/players/53755/amon-ra-st.-brown"
         },
         {
-          "title": "VegasInsider: NFL Week 8 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-8-odds-2026/"
+          "title": "The Big Lead: St. Brown injury update",
+          "url": "https://www.thebiglead.com/amon-ra-st-brown-injury-update-news-lions-status-week-8/"
         },
         {
-          "title": "Covers: Vikings vs Lions picks and odds",
-          "url": "https://www.covers.com/nfl/vikings-vs-lions-prediction-picks-nov-1-2026"
+          "title": "SI: Lions vs Dolphins odds and injuries",
+          "url": "https://www.si.com/betting/lions-vs-dolphins-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026"
         },
         {
-          "title": "OddsShopper: Vikings at Lions anytime TD picks",
-          "url": "https://www.oddsshopper.com/articles/expert-picks/minnesota-vikings-vs-detroit-lions-anytime-td-picks-2026-11-01"
+          "title": "DK Network: NFL injury report Week 9",
+          "url": "https://dknetwork.draftkings.com/2026/11/03/nfl-injury-report-week-9/"
         }
       ]
     },
     "6794": {
       "name": "Justin Jefferson",
       "verdict": "start",
+      "prop_proj": 15.0,
       "adj_pct": 0,
-      "confidence": "high",
+      "confidence": "medium",
       "notes": [
-        "No injury designation.",
-        "At Detroit Sunday 10:00 AM Pacific, indoors. Vikings +3.5, Minnesota about 21 implied.",
-        "Anytime TD priced around +190. Lions S Kerby Joseph is out, which helps the Vikings passing game."
+        "No injury designation. Hosts Buffalo Monday 5:15 PM Pacific, indoors.",
+        "Bills -3.5, total about 45.5, Minnesota about 21 implied.",
+        "Props: 5.5 receptions, about 68.5 yards, anytime TD +165. About 15.0 points.",
+        "Kyler Murray has a sore hamstring. If Carson Wentz starts, it is a small downgrade."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "Covers: Justin Jefferson props",
+          "url": "https://www.covers.com/sport/football/nfl/players/38174/justin-jefferson"
         },
         {
-          "title": "VegasInsider: NFL Week 8 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-8-odds-2026/"
+          "title": "SI: Kyler Murray injury update moves Vikings odds",
+          "url": "https://www.si.com/betting/kyler-murray-injury-update-causes-minor-shift-to-vikings-odds-vs-bills-in-nfl-week-9"
         },
         {
-          "title": "Covers: Vikings vs Lions picks and odds",
-          "url": "https://www.covers.com/nfl/vikings-vs-lions-prediction-picks-nov-1-2026"
-        },
-        {
-          "title": "OddsShopper: Vikings at Lions anytime TD picks",
-          "url": "https://www.oddsshopper.com/articles/expert-picks/minnesota-vikings-vs-detroit-lions-anytime-td-picks-2026-11-01"
+          "title": "StatSniper: Bills at Vikings",
+          "url": "https://statsniper.com/leagues/nfl/game/2026/week-9/buf-vs-min/"
         }
       ]
     },
@@ -224,353 +281,298 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "No injury designation. Not on the Vikings injury report at all.",
-        "Receiving yards prop 39.5, anytime TD around +275 to +300. No receptions line found, so no prop projection is set.",
-        "At Detroit Sunday 10:00 AM Pacific, indoors."
+        "No injury designation. Hosts Buffalo Monday 5:15 PM Pacific, indoors.",
+        "About 5 targets a game lately with a TD in each of the last two games.",
+        "Week 9 props are not posted yet, so no prop projection is set. Same QB risk as Jefferson if Murray sits."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "FantasyPros: T.J. Hockenson news",
+          "url": "https://www.fantasypros.com/nfl/news/tj-hockenson.php"
         },
         {
-          "title": "BettingNews: Week 8 player props",
-          "url": "https://www.bettingnews.com/articles/nfl/cant-miss-player-props-for-week-8-nfl-expert-picks-predictions-11-1/"
-        },
-        {
-          "title": "OddsShopper: Vikings at Lions anytime TD picks",
-          "url": "https://www.oddsshopper.com/articles/expert-picks/minnesota-vikings-vs-detroit-lions-anytime-td-picks-2026-11-01"
+          "title": "SI: Kyler Murray injury update moves Vikings odds",
+          "url": "https://www.si.com/betting/kyler-murray-injury-update-causes-minor-shift-to-vikings-odds-vs-bills-in-nfl-week-9"
         }
       ]
     },
-    "5927": {
-      "name": "Terry McLaurin",
+    "5859": {
+      "name": "A.J. Brown",
       "verdict": "out",
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Out for the season with the knee injury. Drop him for a kicker or a waiver RB."
+        "Sleeper lists him out with knee and ankle injuries. He missed Week 8 and did not travel.",
+        "Mike Vrabel said only that they will see about practice this week. No IR move or long timeline reported.",
+        "Patriots host Green Bay Sunday 1:25 PM Pacific. He is in your FLEX right now, so replace him.",
+        "Hold him on the bench since the injury does not look long term."
       ],
       "sources": [
         {
-          "title": "Yahoo: Week 8 waiver wire",
-          "url": "https://sports.yahoo.com/fantasy/article/week-8-fantasy-football-waiver-wire-jonah-coleman-omar-cooper-jr-among-top-pickups-174541107.html"
+          "title": "ESPN: A.J. Brown listed questionable",
+          "url": "https://www.espn.com/nfl/story/_/id/50329240/patriots-wr-aj-brown-ankle-knee-listed-questionable"
         },
         {
-          "title": "The Big Lead: Week 8 waiver FAAB",
-          "url": "https://www.thebiglead.com/fantasy-football-week-8-waiver-wire-faab-omar-cooper-jr-jonah-coleman-top-adds/"
+          "title": "Boston.com: Vrabel on A.J. Brown",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/02/mike-vrabel-on-a-j-brown-rhamondre-stevenson-and-the-nfl-trade-deadline/"
+        },
+        {
+          "title": "RotoWire: Brown practice participation TBD",
+          "url": "https://rotowire.com/football/headlines/aj-brown-injury-practice-participation-this-week-tbd-645586"
         }
       ]
     },
     "12501": {
       "name": "Matthew Golden",
       "verdict": "start",
+      "prop_proj": 14.1,
       "adj_pct": 0,
-      "confidence": "high",
+      "confidence": "medium",
       "notes": [
-        "Game is over. He played through his shoulder and foot injuries in the 27-19 win over Carolina.",
-        "Packers.com says he was one of four Packers with at least six catches. His points are locked if he was in your lineup."
+        "No designation this week after playing through shoulder and foot issues in Week 8.",
+        "Elite volume: 13, 12 and 13 targets in his last three games, with a team-high target share.",
+        "At New England Sunday 1:25 PM Pacific. Patriots -3, total 46.5.",
+        "Props: 5.5 receptions (under favored), about 66.5 yards, anytime TD +155. About 14.1 points."
       ],
       "sources": [
         {
-          "title": "Packers.com: 5 takeaways from win over Panthers",
-          "url": "https://www.packers.com/news/game-recap-5-takeaways-from-packers-victory-over-panthers-week-8-2026"
+          "title": "Covers: Matthew Golden props",
+          "url": "https://www.covers.com/sport/football/nfl/players/366580/matthew-golden"
         },
         {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "DraftSharks: Golden 13 targets fuel a career day",
+          "url": "https://www.draftsharks.com/fantasy-football-news/83558/goldens-13-targets-fuel-a-career-day-and-a-wr1-case"
+        },
+        {
+          "title": "StatSniper: Packers at Patriots",
+          "url": "https://statsniper.com/leagues/nfl/game/2026/week-9/gb-vs-ne/"
         }
       ]
     },
-    "9500": {
-      "name": "Josh Downs",
+    "11625": {
+      "name": "Adonai Mitchell",
       "verdict": "flex",
-      "adj_pct": -5,
-      "confidence": "medium",
-      "notes": [
-        "No injury designation. Colts WR Anthony Gould is out, so the target share stays concentrated.",
-        "Props: 3.5 receptions (under favored) and 32.5 receiving yards, about 6.5 PPR points before TDs. No TD line found, so no prop projection is set.",
-        "At Jacksonville Sunday 10:00 AM Pacific. Jaguars -10, total 46.5. Forecast calls for rain and wind of 16 mph with gusts near 25, which can hurt passing."
-      ],
-      "sources": [
-        {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
-        },
-        {
-          "title": "SportsBettingDime: Colts vs Jaguars props",
-          "url": "https://sportsbettingdime.com/news/nfl/colts-vs-jaguars-touchdown-picks-prop-predictions-nov-1"
-        },
-        {
-          "title": "Covers: Colts vs Jaguars picks and odds",
-          "url": "https://www.covers.com/nfl/colts-vs-jaguars-prediction-picks-nov-1-2026"
-        },
-        {
-          "title": "VegasInsider: NFL Week 8 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-8-odds-2026/"
-        },
-        {
-          "title": "DK Network: Week 8 weather forecast",
-          "url": "https://dknetwork.draftkings.com/2026/10/30/nfl-week-8-weather-forecast/"
-        }
-      ]
-    },
-    "8110": {
-      "name": "Jake Ferguson",
-      "verdict": "avoid",
-      "adj_pct": -40,
-      "confidence": "medium",
-      "notes": [
-        "No injury designation, but he was shut out last week and is losing snaps.",
-        "Hosts Arizona Sunday 10:00 AM Pacific. Good game environment with a 54.5 total, but his role is the problem. No props found."
-      ],
-      "sources": [
-        {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
-        },
-        {
-          "title": "VegasInsider: NFL Week 8 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-8-odds-2026/"
-        }
-      ]
-    },
-    "NYJ": {
-      "name": "New York Jets",
-      "verdict": "start",
-      "adj_pct": -5,
+      "adj_pct": 10,
       "confidence": "low",
       "notes": [
-        "Host Las Vegas Sunday 10:00 AM Pacific. Jets -1.5, total 45.5, Raiders about 22 implied. Mostly sunny, light wind.",
-        "Defense is thin. DL T'Vondre Sweat and LB Joseph Ossai are out and LB David Bailey is doubtful."
+        "Career game in Week 8: 7 catches, 142 yards and a TD on 9 targets, with his snap share rising to 61%.",
+        "Back from a finger injury since Week 7. Still third among Jets WRs in snaps.",
+        "At Kansas City Sunday 10:00 AM Pacific. Chiefs -9.5, so the Jets should be throwing a lot.",
+        "Best bench option to replace A.J. Brown in the FLEX. Week 9 props are not posted yet."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "Jets.com: Mitchell posts career game",
+          "url": "https://www.newyorkjets.com/news/adonai-mitchell-posts-career-game-in-loss-to-the-raiders-11-01-2026"
         },
         {
-          "title": "Covers: Raiders vs Jets picks and odds",
-          "url": "https://www.covers.com/nfl/raiders-vs-jets-prediction-picks-nov-1-2026"
+          "title": "Jets.com: Film breakdown on Mitchell",
+          "url": "https://www.newyorkjets.com/news/film-breakdown-adonai-mitchell-sets-career-highs-against-raiders-11-03-2026"
         },
         {
-          "title": "VegasInsider: NFL Week 8 odds",
-          "url": "https://www.vegasinsider.com/nfl/nfl-week-8-odds-2026/"
-        },
-        {
-          "title": "DK Network: Week 8 weather forecast",
-          "url": "https://dknetwork.draftkings.com/2026/10/30/nfl-week-8-weather-forecast/"
+          "title": "Action Network: Jets at Chiefs odds",
+          "url": "https://www.actionnetwork.com/nfl-game/jets-chiefs-score-odds-november-8-2026/290961"
         }
       ]
     },
-    "8155": {
-      "name": "Breece Hall",
+    "13274": {
+      "name": "Germie Bernard",
+      "verdict": "out",
+      "adj_pct": -60,
+      "confidence": "high",
+      "notes": [
+        "Pittsburgh is on bye in Week 9. Do not start him.",
+        "He has a starting role since Roman Wilson went on IR, including an 11-catch game in Week 6. Worth holding unless you need the spot for a waiver add."
+      ],
+      "sources": [
+        {
+          "title": "DraftSharks: Bernard flashes star potential",
+          "url": "https://www.draftsharks.com/fantasy-football-news/83536/germie-bernard-flashes-star-potential-with-steelers-wrs-thinning"
+        },
+        {
+          "title": "Covers: Week 9 opening lines",
+          "url": "https://www.covers.com/nfl/week-9-odds-opening-lines-2026"
+        }
+      ]
+    },
+    "12185": {
+      "name": "Spencer Shrader",
       "verdict": "start",
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Questionable with a quad injury. He was limited all week, including Friday. He would play for the first time since Week 3.",
-        "Books expect him to play: 49.5 rushing yards, 2.5 catches, 14.5 receiving yards, anytime TD +100. That is about 12 PPR points.",
-        "Braelon Allen played well while Hall was out, so the split is uncertain.",
-        "Hosts Las Vegas Sunday 10:00 AM Pacific. Check inactives at about 8:30 AM Pacific. Start him if active."
+        "Active Colts kicker, 19 of 21 on field goals this season.",
+        "Hosts Dallas Sunday 10:00 AM Pacific in a dome. Total 51.5, Colts about 22.75 implied."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "RotoWire: Shrader makes sole kick in blowout loss",
+          "url": "https://www.rotowire.com/football/headlines/spencer-shrader-news-makes-sole-kick-in-blowout-loss-645737"
         },
         {
-          "title": "RotoWire: Breece Hall listed questionable",
-          "url": "https://www.rotowire.com/football/headlines/breece-hall-injury-listed-questionable-for-sunday-645059"
-        },
-        {
-          "title": "Covers: Raiders vs Jets prop bets",
-          "url": "https://www.covers.com/sport/football/nfl/matchup/380032/picks"
-        },
-        {
-          "title": "OddsShopper: Raiders at Jets anytime TD picks",
-          "url": "https://www.oddsshopper.com/articles/expert-picks/las-vegas-raiders-vs-new-york-jets-anytime-td-picks-2026-11-01"
-        },
-        {
-          "title": "Covers: Raiders vs Jets picks and odds",
-          "url": "https://www.covers.com/nfl/raiders-vs-jets-prediction-picks-nov-1-2026"
+          "title": "ESPN: Week 9 schedule, odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50358691/2026-nfl-week-9-schedule-odds-point-spreads-totals"
         }
+      ]
+    },
+    "NYG": {
+      "name": "New York Giants",
+      "verdict": "start",
+      "adj_pct": 0,
+      "confidence": "medium",
+      "notes": [
+        "At Philadelphia Sunday 10:00 AM Pacific, rested off the bye. Giants -3.5, total 39.5, Eagles only about 18 implied.",
+        "Tanner McKee starts for a 2-6 Eagles team with Jalen Hurts on IR. Saquon Barkley is limited by hamstring and back issues.",
+        "FantasyPros lists the Giants as a Week 9 streaming defense."
       ],
-      "prop_proj": 11.9
+      "sources": [
+        {
+          "title": "Giants.com: Week 9 tracker",
+          "url": "https://www.giants.com/news/week-9-tracker-latest-news-notes-roster-moves-philadelphia-eagles-nfc-east"
+        },
+        {
+          "title": "VegasInsider: NFL Week 9 odds",
+          "url": "https://www.vegasinsider.com/nfl/nfl-week-9-odds-2026/"
+        },
+        {
+          "title": "FantasyPros: Week 9 defense pickups",
+          "url": "https://www.fantasypros.com/2026/11/top-4-fantasy-football-waiver-wire-pickups-defenses-week-9-2026/"
+        }
+      ]
     }
   },
   "comparisons": [
     {
-      "a": "8155",
-      "b": "9500",
-      "pick": "8155",
-      "why": "If Hall is active, his props project about 12 points against roughly 6.5 for Downs before TDs, and Downs plays in rain and wind. Start Hall at RB or FLEX and bench Downs if you need the spot.",
+      "a": "11625",
+      "b": "5859",
+      "pick": "11625",
+      "why": "A.J. Brown is listed out and did not practice fully last week. Mitchell had 9 targets and 142 yards in Week 8 and the Jets should be passing from behind at Kansas City. Move Mitchell into the FLEX.",
       "sources": [
         {
-          "title": "Covers: Raiders vs Jets prop bets",
-          "url": "https://www.covers.com/sport/football/nfl/matchup/380032/picks"
+          "title": "ESPN: A.J. Brown listed questionable",
+          "url": "https://www.espn.com/nfl/story/_/id/50329240/patriots-wr-aj-brown-ankle-knee-listed-questionable"
         },
         {
-          "title": "SportsBettingDime: Colts vs Jaguars props",
-          "url": "https://sportsbettingdime.com/news/nfl/colts-vs-jaguars-touchdown-picks-prop-predictions-nov-1"
-        },
-        {
-          "title": "DK Network: Week 8 weather forecast",
-          "url": "https://dknetwork.draftkings.com/2026/10/30/nfl-week-8-weather-forecast/"
-        },
-        {
-          "title": "RotoWire: Breece Hall listed questionable",
-          "url": "https://www.rotowire.com/football/headlines/breece-hall-injury-listed-questionable-for-sunday-645059"
+          "title": "Jets.com: Mitchell posts career game",
+          "url": "https://www.newyorkjets.com/news/adonai-mitchell-posts-career-game-in-loss-to-the-raiders-11-01-2026"
         }
       ]
     },
     {
-      "a": "8155",
-      "b": "9511",
-      "pick": "8155",
-      "why": "Start both if you can. If only one RB spot is open, Hall has the better prop line and team total. If Hall is inactive at about 8:30 AM Pacific, put Mitchell in before 10:00 AM Pacific.",
+      "a": "8161",
+      "b": "4943",
+      "pick": "8161",
+      "why": "Props are close, about 18.1 for Willis against 17.0 for Darnold. Willis has the rushing floor, a 50.5 total and faces the defense that allows the most QB points. Darnold's team is a double-digit favorite that may run a lot.",
       "sources": [
         {
-          "title": "Covers: Raiders vs Jets prop bets",
-          "url": "https://www.covers.com/sport/football/nfl/matchup/380032/picks"
+          "title": "Scores and Odds: Malik Willis props",
+          "url": "https://www.scoresandodds.com/prop-bets/3491780/malik-willis"
         },
         {
-          "title": "RotoWire: Breece Hall listed questionable",
-          "url": "https://www.rotowire.com/football/headlines/breece-hall-injury-listed-questionable-for-sunday-645059"
+          "title": "Scores and Odds: Sam Darnold props",
+          "url": "https://www.scoresandodds.com/prop-bets/328423/sam-darnold"
         },
         {
-          "title": "Covers: Chargers vs Rams picks and odds",
-          "url": "https://www.covers.com/nfl/chargers-vs-rams-prediction-picks-nov-1-2026"
+          "title": "The Big Lead: Week 9 QB start-sit",
+          "url": "https://www.thebiglead.com/week-9-fantasy-football-qb-start-sit-malik-willis-tyler-shough-sam-darnold-c-j-stroud/"
         }
       ]
     },
     {
-      "a": "5844",
-      "b": "8110",
-      "pick": "5844",
-      "why": "Hockenson has no injury tag and a 39.5 yard prop. Ferguson is losing snaps.",
+      "a": "6130",
+      "b": "8155",
+      "pick": "6130",
+      "why": "Lean Singletary for now, since Hall is coming off a five-game absence into a split with Braelon Allen as a 9.5-point underdog. If Skattebo is cleared to play by Friday, flip to Hall. Both kick off 10:00 AM Pacific.",
       "sources": [
         {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "Giants.com: Week 9 tracker",
+          "url": "https://www.giants.com/news/week-9-tracker-latest-news-notes-roster-moves-philadelphia-eagles-nfc-east"
         },
         {
-          "title": "BettingNews: Week 8 player props",
-          "url": "https://www.bettingnews.com/articles/nfl/cant-miss-player-props-for-week-8-nfl-expert-picks-predictions-11-1/"
-        }
-      ]
-    },
-    {
-      "a": "9511",
-      "b": "8154",
-      "pick": "9511",
-      "why": "Brian Robinson is ruled out. Never start him this week.",
-      "sources": [
-        {
-          "title": "NFL.com: Week 8 injury report, all 14 games",
-          "url": "https://www.nfl.com/news/nfl-week-8-injury-report-2026-season"
+          "title": "ESPN: Glenn says Hall is the starter",
+          "url": "https://www.espn.com/nfl/story/_/id/50360481/jets-breece-hall-starter-braelon-allen"
         }
       ]
     }
   ],
   "waivers": [
     {
-      "id": "",
-      "name": "Jonah Coleman",
-      "pos": "RB",
-      "why": "Led Denver in carries in Week 7 and looks like the lead back, a clear upgrade over your RB2 options. Drop Brian Robinson. Hosts KC Sunday 1:25 PM Pacific.",
-      "sources": [
-        {
-          "title": "Footballguys: Top waiver pickups Week 8",
-          "url": "https://www.footballguys.com/article/2026-email-feature-top-waiver-wire-pickups-week08"
-        },
-        {
-          "title": "Yahoo: Week 8 waiver wire",
-          "url": "https://sports.yahoo.com/fantasy/article/week-8-fantasy-football-waiver-wire-jonah-coleman-omar-cooper-jr-among-top-pickups-174541107.html"
-        },
-        {
-          "title": "The Big Lead: Week 8 waiver FAAB",
-          "url": "https://www.thebiglead.com/fantasy-football-week-8-waiver-wire-faab-omar-cooper-jr-jonah-coleman-top-adds/"
-        }
-      ]
-    },
-    {
-      "id": "",
-      "name": "Chad Ryland",
-      "pos": "K",
-      "why": "You have no kicker. Arizona at Dallas is indoors with a 53.5 total, and it pairs with Brissett. Jake Bates (DET) is the backup choice. Drop Terry McLaurin, who is out for the season.",
-      "sources": [
-        {
-          "title": "Yahoo: Week 8 kicker streamers",
-          "url": "https://sports.yahoo.com/articles/fantasy-football-week-8-k-120006469.html"
-        },
-        {
-          "title": "Covers: Week 8 opening odds",
-          "url": "https://www.covers.com/nfl/week-8-odds-opening-lines-2026"
-        }
-      ]
-    },
-    {
-      "id": "",
-      "name": "Omar Cooper Jr.",
+      "id": "13296",
+      "name": "Caleb Douglas",
       "pos": "WR",
-      "why": "Over 100 yards and a TD in each of his last two games. Bench upgrade with flex upside. Drop Jake Ferguson.",
+      "why": "Looks like Miami's top receiver, with 13 catches, 226 yards and 2 TDs over four games, and he stacks with Willis against Detroit Sunday 10:00 AM Pacific. Your earlier claim failed for roster size, so drop Seth McGowan or Germie Bernard to make room.",
       "sources": [
         {
-          "title": "Footballguys: Top waiver pickups Week 8",
-          "url": "https://www.footballguys.com/article/2026-email-feature-top-waiver-wire-pickups-week08"
-        },
-        {
-          "title": "The Big Lead: Week 8 waiver FAAB",
-          "url": "https://www.thebiglead.com/fantasy-football-week-8-waiver-wire-faab-omar-cooper-jr-jonah-coleman-top-adds/"
-        },
-        {
-          "title": "Yahoo: Week 8 waiver wire",
-          "url": "https://sports.yahoo.com/fantasy/article/week-8-fantasy-football-waiver-wire-jonah-coleman-omar-cooper-jr-among-top-pickups-174541107.html"
+          "title": "FantasyPros: Week 9 waiver wire advice",
+          "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-9-2026/"
         }
       ]
     },
     {
-      "id": "",
-      "name": "Bam Knight",
+      "id": "13301",
+      "name": "Antonio Williams",
+      "pos": "WR",
+      "why": "Led Washington receivers in snaps, routes and targets with Terry McLaurin out for the season, with 50-plus yards in two straight games. Hosts the Rams Sunday 10:00 AM Pacific. Drop Germie Bernard (bye).",
+      "sources": [
+        {
+          "title": "FantasyPros: Week 9 waiver wire advice",
+          "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-9-2026/"
+        },
+        {
+          "title": "Yahoo: Week 9 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-9-mike-washington-jr-among-slew-of-good-rb-pickups-to-consider-155157280.html"
+        },
+        {
+          "title": "Sharp Football Analysis: Week 9 waiver pickups",
+          "url": "https://www.sharpfootballanalysis.com/fantasy/nfl-waiver-wire-pickups-week-9-2026/"
+        }
+      ]
+    },
+    {
+      "id": "7567",
+      "name": "Kenny Gainwell",
       "pos": "RB",
-      "why": "Spot starter if Jeremiyah Love misses a third game, in a 53.5-total game at Dallas. Only add if Love is out.",
+      "why": "Productive Tampa Bay backup in Weeks 7 and 8 with RB1 upside if Bucky Irving misses time. At Chicago Sunday 5:20 PM Pacific. Drop Seth McGowan.",
       "sources": [
         {
-          "title": "Yahoo: Week 8 waiver wire",
-          "url": "https://sports.yahoo.com/fantasy/article/week-8-fantasy-football-waiver-wire-jonah-coleman-omar-cooper-jr-among-top-pickups-174541107.html"
+          "title": "Yahoo: Week 9 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-9-mike-washington-jr-among-slew-of-good-rb-pickups-to-consider-155157280.html"
         },
         {
-          "title": "The Big Lead: Week 8 waiver FAAB",
-          "url": "https://www.thebiglead.com/fantasy-football-week-8-waiver-wire-faab-omar-cooper-jr-jonah-coleman-top-adds/"
+          "title": "FantasyPros: Week 9 waiver wire advice",
+          "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-9-2026/"
         }
       ]
     },
     {
-      "id": "",
-      "name": "Mason Taylor",
-      "pos": "TE",
-      "why": "15 catches over three games and 2 TDs in Week 7. Better TE2 than Ferguson if you want TE depth.",
-      "sources": [
-        {
-          "title": "The Big Lead: Week 8 waiver FAAB",
-          "url": "https://www.thebiglead.com/fantasy-football-week-8-waiver-wire-faab-omar-cooper-jr-jonah-coleman-top-adds/"
-        }
-      ]
-    },
-    {
-      "id": "",
-      "name": "Kaelon Black",
+      "id": "9757",
+      "name": "Kendre Miller",
       "pos": "RB",
-      "why": "Stash only. 49ers are on bye in Week 8 and he is the McCaffrey handcuff.",
+      "why": "Leading the Saints early-down work with Travis Etienne on IR and Alvin Kamara banged up. Hosts Cleveland Sunday 10:00 AM Pacific, a tough matchup. Skip him if Etienne returns. Drop McGowan.",
       "sources": [
         {
-          "title": "Footballguys: Top waiver pickups Week 8",
-          "url": "https://www.footballguys.com/article/2026-email-feature-top-waiver-wire-pickups-week08"
+          "title": "FantasyPros: Week 9 waiver wire advice",
+          "url": "https://www.fantasypros.com/2026/11/fantasy-football-waiver-wire-advice-players-to-add-stash-drop-week-9-2026/"
         },
         {
-          "title": "The Big Lead: Week 8 waiver FAAB",
-          "url": "https://www.thebiglead.com/fantasy-football-week-8-waiver-wire-faab-omar-cooper-jr-jonah-coleman-top-adds/"
+          "title": "DraftSharks: Kendre Miller leads Saints backfield",
+          "url": "https://www.draftsharks.com/fantasy-football-news/83544/kendre-miller-leads-saints-back-but-alvin-kamara-gets-the-td"
+        }
+      ]
+    },
+    {
+      "id": "8135",
+      "name": "Treylon Burks",
+      "pos": "WR",
+      "why": "Deeper Washington option who ran a route on most dropbacks in Week 8 and has 8-plus points in four of five games. Drop Bernard if you did not already for Williams.",
+      "sources": [
+        {
+          "title": "Sharp Football Analysis: Week 9 waiver pickups",
+          "url": "https://www.sharpfootballanalysis.com/fantasy/nfl-waiver-wire-pickups-week-9-2026/"
+        },
+        {
+          "title": "Yahoo: Week 9 waiver wire",
+          "url": "https://sports.yahoo.com/fantasy/article/fantasy-football-waiver-wire-week-9-mike-washington-jr-among-slew-of-good-rb-pickups-to-consider-155157280.html"
         }
       ]
     }

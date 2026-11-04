@@ -68,5 +68,85 @@
     "name": "Breece Hall",
     "position": "RB",
     "team": "NYJ"
+  },
+  "8161": {
+    "name": "Malik Willis",
+    "position": "QB",
+    "team": "MIA"
+  },
+  "4943": {
+    "name": "Sam Darnold",
+    "position": "QB",
+    "team": "SEA"
+  },
+  "13286": {
+    "name": "Jadarian Price",
+    "position": "RB",
+    "team": "SEA"
+  },
+  "6130": {
+    "name": "Devin Singletary",
+    "position": "RB",
+    "team": "NYG"
+  },
+  "13424": {
+    "name": "Seth McGowan",
+    "position": "RB",
+    "team": "IND"
+  },
+  "5859": {
+    "name": "A.J. Brown",
+    "position": "WR",
+    "team": "NE"
+  },
+  "11625": {
+    "name": "Adonai Mitchell",
+    "position": "WR",
+    "team": "NYJ"
+  },
+  "13274": {
+    "name": "Germie Bernard",
+    "position": "WR",
+    "team": "PIT"
+  },
+  "12185": {
+    "name": "Spencer Shrader",
+    "position": "K",
+    "team": "IND"
+  },
+  "NYG": {
+    "name": "New York Giants",
+    "position": "DEF",
+    "team": "NYG"
+  },
+  "11786": {
+    "name": "Cam Little",
+    "position": "K",
+    "team": "JAX"
+  },
+  "13296": {
+    "name": "Caleb Douglas",
+    "position": "WR",
+    "team": "MIA"
+  },
+  "13301": {
+    "name": "Antonio Williams",
+    "position": "WR",
+    "team": "WAS"
+  },
+  "7567": {
+    "name": "Kenny Gainwell",
+    "position": "RB",
+    "team": "TB"
+  },
+  "9757": {
+    "name": "Kendre Miller",
+    "position": "RB",
+    "team": "NO"
+  },
+  "8135": {
+    "name": "Treylon Burks",
+    "position": "WR",
+    "team": "WAS"
   }
 }
