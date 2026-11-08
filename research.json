@@ -1,55 +1,53 @@
 {
   "season": 2026,
   "week": 9,
-  "generated_at": "2026-11-08T04:40:00Z",
-  "run": "Saturday review",
-  "headline": "Week 9: start Singletary with Skattebo doubtful, play Mitchell and Golden in the FLEX spots with A.J. Brown and Garrett Wilson out, and keep St. Brown in unless he is a surprise inactive.",
+  "generated_at": "2026-11-08T13:55:00Z",
+  "run": "Sunday early check",
+  "headline": "Week 9 Sunday early check: no lineup changes. St. Brown is expected to play, Singletary leads the Giants with Skattebo doubtful, and Mitchell and Golden stay in the FLEX spots.",
   "alerts": [
-    "A.J. Brown is OUT. Keep him out of your lineup before Sunday 1:25 PM Pacific.",
-    "Cam Skattebo is doubtful. Start Devin Singletary at RB before Sunday 10:00 AM Pacific.",
-    "Garrett Wilson is OUT. Start Adonai Mitchell in a FLEX before Sunday 10:00 AM Pacific.",
-    "Amon-Ra St. Brown is questionable (rib) but expected to play. Check inactives around 8:30 AM Pacific Sunday. If he sits, put Breece Hall in.",
-    "Sam Darnold is OUT. He is on your bench behind Willis, no action needed.",
-    "Kyler Murray is out. Carson Wentz starts Monday 5:15 PM Pacific, a small downgrade for Jefferson and Hockenson.",
-    "The early game is Bengals vs. Falcons in Madrid at 6:30 AM Pacific Sunday. You have no players in it.",
-    "Sleeper and the prop sites could not be reached this run. Roster moves since Tuesday are not reflected, and prop numbers are from Thursday."
+    "No lineup changes from the Saturday review. Your 10:00 AM Pacific starters lock at kickoff.",
+    "Amon-Ra St. Brown (rib) is expected to play per NFL Network. Confirm on the inactive list around 8:30 AM Pacific. If he sits, start Breece Hall.",
+    "Cam Skattebo is still doubtful. Keep Devin Singletary in at RB before 10:00 AM Pacific.",
+    "A.J. Brown and Garrett Wilson are OUT. Keep Mitchell and Golden in the FLEX spots. Golden locks at 1:25 PM Pacific.",
+    "Bengals vs. Falcons in Madrid kicks off 6:30 AM Pacific. Inactives are posted and none of your players are in it.",
+    "Sleeper could not be reached again this run, so roster moves since Tuesday are not reflected. Prop numbers are still from Thursday."
   ],
   "games": {
     "MIA": {
-      "note": "Hosts Detroit Sunday 10:00 AM Pacific. Lions -7, total 50.5, Miami about 21.75 implied. De'Von Achane is on IR."
+      "note": "Hosts Detroit Sunday 10:00 AM Pacific. Lions -6.5 to -7, total 49.5 to 50.5, Miami about 21.5 implied. RB Jaylen Wright is not expected to play, and Ollie Gordon leads the backfield."
     },
     "DET": {
-      "note": "At Miami Sunday 10:00 AM Pacific. St. Brown questionable (rib). Kerby Joseph, Jack Campbell, DJ Reed and DJ Wonnum are out, which helps Willis."
+      "note": "At Miami Sunday 10:00 AM Pacific. St. Brown (rib) is expected to play per NFL Network. Lions about 28.5 implied. Kerby Joseph, Jack Campbell, DJ Reed and DJ Wonnum are out."
     },
     "SEA": {
-      "note": "Hosts Arizona Sunday 1:25 PM Pacific on a short week. Sam Darnold is out (quad, ribs), and LT Charles Cross and G Quenton Nelson are also out. Thursday line was Seahawks -10.5, total 41.5."
+      "note": "Hosts Arizona Sunday 1:25 PM Pacific. Darnold is out and Drew Lock starts. The line fell from Seahawks -11.5 to -8.5 and the total from 44.5 to 39.5, Seattle about 24 implied."
     },
     "NYG": {
-      "note": "At Philadelphia Sunday 10:00 AM Pacific, off a bye. Skattebo doubtful (hamstring), so Singletary leads. Thursday line was Giants -3.5, total 39.5."
+      "note": "At Philadelphia Sunday 10:00 AM Pacific, off a bye. Giants -3 to -3.5, total about 38.5, Giants about 21 implied. Skattebo doubtful, Singletary expected to be the main back."
     },
     "PHI": {
-      "note": "Hosts the Giants. Hurts on IR, Tanner McKee starts. Eagles about 18 implied, Barkley banged up."
+      "note": "Hosts the Giants. Joe Milton makes his first NFL start, with Tanner McKee (ribs) active as the backup. Eagles about 17.5 implied."
     },
     "IND": {
       "note": "Hosts Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -6, total 51.5. Jonathan Taylor is in trade rumors before the Nov 10 deadline."
     },
     "NYJ": {
-      "note": "At Kansas City Sunday 10:00 AM Pacific. Garrett Wilson out (concussion). Breece Hall off the report and returning. Thursday line was Chiefs -9.5, total 46.5."
+      "note": "At Kansas City Sunday 10:00 AM Pacific. Chiefs -9.5 to -10, total 47.5 to 48.5, Jets about 19 implied. Garrett Wilson out, Breece Hall back."
     },
     "MIN": {
-      "note": "Hosts Buffalo Monday 5:15 PM Pacific, indoors. Kyler Murray out, Carson Wentz starts."
+      "note": "Hosts Buffalo Monday 5:15 PM Pacific, indoors. Kyler Murray out, Carson Wentz starts. Bills -3 to -3.5, total about 43.5 to 45."
     },
     "GB": {
-      "note": "At New England Sunday 1:25 PM Pacific. Micah Parsons is out. Thursday line was Patriots -3, total 46.5."
+      "note": "At New England Sunday 1:25 PM Pacific. Packers about 20.5 implied. Micah Parsons is out."
     },
     "NE": {
-      "note": "Hosts Green Bay Sunday 1:25 PM Pacific. A.J. Brown and TreVeyon Henderson are out, Hunter Henry questionable."
+      "note": "Hosts Green Bay Sunday 1:25 PM Pacific. Patriots -3 to -3.5, total 44.5 to 45.5. A.J. Brown and TreVeyon Henderson are out."
     },
     "PIT": {
       "note": "Bye in Week 9."
     },
     "CIN": {
-      "note": "Plays Atlanta in Madrid Sunday 6:30 AM Pacific. None of your players."
+      "note": "Plays Atlanta in Madrid Sunday 6:30 AM Pacific. Inactives are posted, none of your players."
     }
   },
   "players": {
@@ -60,12 +58,21 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "Sunday morning: line moved slightly toward Miami, Lions -6.5 to -7, total 49.5 to 50.5. Jaylen Wright is not expected to play.",
         "No injury designation. Starts at QB, and Darnold is out anyway. Hosts Detroit Sunday 10:00 AM Pacific.",
         "Prop projection is from Thursday's lines, prop pages could not be re-read tonight.",
         "Healthy and the clear Dolphins starter. Hosts Detroit Sunday 10:00 AM Pacific.",
         "Lions -7, total 50.5, Miami about 21.75 implied. Detroit allows the most fantasy points to QBs and its LB and secondary group is banged up."
       ],
       "sources": [
+        {
+          "title": "RotoWire: Jaylen Wright not slated to play",
+          "url": "https://www.rotowire.com/football/headlines/jaylen-wright-injury-not-slated-to-play-sunday-646499"
+        },
+        {
+          "title": "VegasInsider: Week 9 odds",
+          "url": "https://www.vegasinsider.com/nfl/nfl-week-9-odds-2026/"
+        },
         {
           "title": "NFL.com: Week 9 injury report",
           "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
@@ -125,12 +132,21 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "Sunday morning: the Seahawks line dropped to -8.5 with Drew Lock at QB and the total fell to 39.5. Still a run-leaning script.",
         "No injury designation. Coach Macdonald said his restrictions will be significantly lighter this week.",
         "Hosts Arizona Sunday 1:25 PM Pacific. Seattle is a big home favorite and Darnold is out, which should lean the offense toward the run.",
         "Healthy after returning from IR (chest) in Week 8. Led Seattle in carries with 10 for 29 yards plus 2 catches, on 48% of snaps.",
         "Hosts Arizona Sunday 1:25 PM Pacific. Seahawks -10.5, a strong rushing script."
       ],
       "sources": [
+        {
+          "title": "VegasInsider: Week 9 odds",
+          "url": "https://www.vegasinsider.com/nfl/nfl-week-9-odds-2026/"
+        },
+        {
+          "title": "Sports Betting Dime: Week 9 line movement",
+          "url": "https://www.sportsbettingdime.com/news/nfl/tracking-biggest-nfl-odds-movement-week-9-spread-total-shifts/"
+        },
         {
           "title": "NFL.com: Week 9 injury report",
           "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
@@ -159,12 +175,22 @@
       "adj_pct": 10,
       "confidence": "medium",
       "notes": [
+        "Sunday morning: no change. Skattebo is doubtful and did not practice all week. ESPN expects Singletary to be the primary back, with Greg Desrosiers Jr. and Phil Mafah behind him.",
         "Cam Skattebo is doubtful (hamstring), so Singletary should lead the Giants backfield at Philadelphia Sunday 10:00 AM Pacific.",
         "Greg Desrosiers Jr. is the next back up. Singletary has no designation.",
         "Healthy, coming off the Giants bye. At Philadelphia Sunday 10:00 AM Pacific. Giants -3.5, total 39.5, about 21.5 implied.",
-        "Cam Skattebo is day-to-day with a hamstring and Tyrone Tracy is on IR. If Skattebo sits, Singletary leads the backfield."
+        "Cam Skattebo is day-to-day with a hamstring and Tyrone Tracy is on IR. If Skattebo sits, Singletary leads the backfield.",
+        "Eagles start Joe Milton at QB, which could mean a shorter, run-heavy game. Total is about 38.5."
       ],
       "sources": [
+        {
+          "title": "VegasInsider: Week 9 odds",
+          "url": "https://www.vegasinsider.com/nfl/nfl-week-9-odds-2026/"
+        },
+        {
+          "title": "ESPN: Skattebo doubtful vs. Eagles",
+          "url": "https://www.espn.com/nfl/story/_/id/50402162/giants-cam-skattebo-doubtful-vs-eagles-nabers-full-go"
+        },
         {
           "title": "NFL.com: Week 9 injury report",
           "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
@@ -222,12 +248,17 @@
       "adj_pct": -10,
       "confidence": "medium",
       "notes": [
+        "Sunday morning: no new news. Bench backup for St. Brown, who is expected to play.",
         "Off the injury report after full practices Thursday and Friday. Returns from a five-game absence at Kansas City Sunday 10:00 AM Pacific.",
         "Likely shares work with Braelon Allen in his first game back, and the Jets are about 18.5 implied. First man off the bench if St. Brown is inactive.",
         "Missed five straight games with a quad injury, including Week 8, but is expected to play at Kansas City Sunday 10:00 AM Pacific.",
         "Coach Aaron Glenn says Hall is the starter, but Braelon Allen will still get touches after back-to-back 100-yard games."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injuries to monitor Sunday",
+          "url": "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season"
+        },
         {
           "title": "Jets.com: Friday injury report vs. Chiefs",
           "url": "https://www.newyorkjets.com/news/jets-injury-report-week-9-vs-chiefs-friday-11-6-2026"
@@ -255,14 +286,19 @@
       "verdict": "start",
       "prop_proj": 17.3,
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "high",
       "notes": [
+        "Sunday morning: NFL Network reports he is expected to play through the rib injury. Confirm on the inactive list around 8:30 AM Pacific.",
         "Questionable (rib) but expected to play after practicing all week. Check inactives about 8:30 AM Pacific before the 10:00 AM kickoff at Miami.",
         "If he is surprisingly inactive, move Breece Hall into the open spot.",
         "Sleeper lists him questionable. He has an ankle issue and hit his head in Week 8 but returned and played 72% of snaps.",
         "At Miami Sunday 10:00 AM Pacific. Lions -7, total 50.5, Detroit about 28.75 implied."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injuries to monitor Sunday",
+          "url": "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season"
+        },
         {
           "title": "NFL.com: Week 9 injury report",
           "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
@@ -387,11 +423,20 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "Sunday morning: no new news. Patriots -3 to -3.5, total down to about 44.5 to 45.5.",
         "No injury designation. At New England Sunday 1:25 PM Pacific. Prop projection is from Thursday's lines.",
         "No designation this week after playing through shoulder and foot issues in Week 8.",
         "Elite volume: 13, 12 and 13 targets in his last three games, with a team-high target share."
       ],
       "sources": [
+        {
+          "title": "Sports Betting Dime: Week 9 line movement",
+          "url": "https://www.sportsbettingdime.com/news/nfl/tracking-biggest-nfl-odds-movement-week-9-spread-total-shifts/"
+        },
+        {
+          "title": "VegasInsider: Week 9 odds",
+          "url": "https://www.vegasinsider.com/nfl/nfl-week-9-odds-2026/"
+        },
         {
           "title": "NFL.com: Week 9 injury report",
           "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
@@ -416,12 +461,17 @@
       "adj_pct": 10,
       "confidence": "medium",
       "notes": [
+        "Sunday morning: no new news. Chiefs -9.5 to -10, so the Jets may be throwing late, which helps his volume.",
         "Garrett Wilson is ruled out (concussion), so Mitchell should be the Jets' top target at Kansas City Sunday 10:00 AM Pacific.",
         "Start him in a FLEX.",
         "Career game in Week 8: 7 catches, 142 yards and a TD on 9 targets, with his snap share rising to 61%.",
         "Back from a finger injury since Week 7. Still third among Jets WRs in snaps."
       ],
       "sources": [
+        {
+          "title": "VegasInsider: Week 9 odds",
+          "url": "https://www.vegasinsider.com/nfl/nfl-week-9-odds-2026/"
+        },
         {
           "title": "Jets.com: Friday injury report vs. Chiefs",
           "url": "https://www.newyorkjets.com/news/jets-injury-report-week-9-vs-chiefs-friday-11-6-2026"
@@ -543,8 +593,12 @@
       "a": "6130",
       "b": "8155",
       "pick": "6130",
-      "why": "Skattebo is doubtful, so Singletary should handle lead back work. Hall is healthy but likely splits with Braelon Allen in his first game back at Kansas City. Both lock Sunday 10:00 AM Pacific.",
+      "why": "Skattebo is doubtful and ESPN expects Singletary to be the primary back. Hall likely splits with Braelon Allen at Kansas City. Both lock Sunday 10:00 AM Pacific.",
       "sources": [
+        {
+          "title": "ESPN: Skattebo doubtful vs. Eagles",
+          "url": "https://www.espn.com/nfl/story/_/id/50402162/giants-cam-skattebo-doubtful-vs-eagles-nabers-full-go"
+        },
         {
           "title": "Yahoo: Week 9 injury tracker",
           "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-9-latest-news-fantasy-implications-as-49ers-mike-evans-deebo-samuel-out-giants-cam-skattebo-doubtful-135640202.html"
