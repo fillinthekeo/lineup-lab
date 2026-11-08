@@ -1,23 +1,22 @@
 {
   "season": 2026,
   "week": 9,
-  "generated_at": "2026-11-08T13:55:00Z",
-  "run": "Sunday early check",
-  "headline": "Week 9 Sunday early check: no lineup changes. St. Brown is expected to play, Singletary leads the Giants with Skattebo doubtful, and Mitchell and Golden stay in the FLEX spots.",
+  "generated_at": "2026-11-08T16:50:24Z",
+  "run": "Sunday inactives, 10 AM games",
+  "headline": "Week 9 inactives: no lineup changes. St. Brown (ribs) is active at Miami, so your 10:00 AM Pacific lineup is set.",
   "alerts": [
-    "No lineup changes from the Saturday review. Your 10:00 AM Pacific starters lock at kickoff.",
-    "Amon-Ra St. Brown (rib) is expected to play per NFL Network. Confirm on the inactive list around 8:30 AM Pacific. If he sits, start Breece Hall.",
-    "Cam Skattebo is still doubtful. Keep Devin Singletary in at RB before 10:00 AM Pacific.",
+    "Lineup is set. No swaps needed before 10:00 AM Pacific.",
+    "Amon-Ra St. Brown (ribs) is active vs. Miami per NBC Sports. Keep him in. Breece Hall stays on the bench.",
+    "Cam Skattebo was doubtful all week. Keep Devin Singletary at RB.",
     "A.J. Brown and Garrett Wilson are OUT. Keep Mitchell and Golden in the FLEX spots. Golden locks at 1:25 PM Pacific.",
-    "Bengals vs. Falcons in Madrid kicks off 6:30 AM Pacific. Inactives are posted and none of your players are in it.",
-    "Sleeper could not be reached again this run, so roster moves since Tuesday are not reflected. Prop numbers are still from Thursday."
+    "Sleeper could not be reached this run, so roster moves since Tuesday are not reflected. Prop numbers are still from Thursday."
   ],
   "games": {
     "MIA": {
       "note": "Hosts Detroit Sunday 10:00 AM Pacific. Lions -6.5 to -7, total 49.5 to 50.5, Miami about 21.5 implied. RB Jaylen Wright is not expected to play, and Ollie Gordon leads the backfield."
     },
     "DET": {
-      "note": "At Miami Sunday 10:00 AM Pacific. St. Brown (rib) is expected to play per NFL Network. Lions about 28.5 implied. Kerby Joseph, Jack Campbell, DJ Reed and DJ Wonnum are out."
+      "note": "At Miami Sunday 10:00 AM Pacific. St. Brown (ribs) is active. Lions about 28.5 implied. Kerby Joseph, Jack Campbell, DJ Reed and DJ Wonnum are out."
     },
     "SEA": {
       "note": "Hosts Arizona Sunday 1:25 PM Pacific. Darnold is out and Drew Lock starts. The line fell from Seahawks -11.5 to -8.5 and the total from 44.5 to 39.5, Seattle about 24 implied."
@@ -248,7 +247,7 @@
       "adj_pct": -10,
       "confidence": "medium",
       "notes": [
-        "Sunday morning: no new news. Bench backup for St. Brown, who is expected to play.",
+        "Sunday inactives: St. Brown is active, so Hall stays on the bench.",
         "Off the injury report after full practices Thursday and Friday. Returns from a five-game absence at Kansas City Sunday 10:00 AM Pacific.",
         "Likely shares work with Braelon Allen in his first game back, and the Jets are about 18.5 implied. First man off the bench if St. Brown is inactive.",
         "Missed five straight games with a quad injury, including Week 8, but is expected to play at Kansas City Sunday 10:00 AM Pacific.",
@@ -288,13 +287,14 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Sunday morning: NFL Network reports he is expected to play through the rib injury. Confirm on the inactive list around 8:30 AM Pacific.",
-        "Questionable (rib) but expected to play after practicing all week. Check inactives about 8:30 AM Pacific before the 10:00 AM kickoff at Miami.",
-        "If he is surprisingly inactive, move Breece Hall into the open spot.",
-        "Sleeper lists him questionable. He has an ankle issue and hit his head in Week 8 but returned and played 72% of snaps.",
-        "At Miami Sunday 10:00 AM Pacific. Lions -7, total 50.5, Detroit about 28.75 implied."
+        "Sunday inactives: NBC Sports reports he is active for Week 9 at Miami. Start him at 10:00 AM Pacific.",
+        "Sunday morning: NFL Network reports he is expected to play through the rib injury. Confirm on the inactive list around 8:30 AM Pacific."
       ],
       "sources": [
+        {
+          "title": "NBC Sports: St. Brown (ribs) active for Week 9 vs. Dolphins",
+          "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-08/st-brown-ribs-active-for-week-9-vs-dolphins"
+        },
         {
           "title": "NFL.com: Week 9 injuries to monitor Sunday",
           "url": "https://www.nfl.com/news/week-9-injuries-sunday-pregame-2026-nfl-season"
