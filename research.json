@@ -1,15 +1,15 @@
 {
   "season": 2026,
   "week": 9,
-  "generated_at": "2026-11-08T16:50:24Z",
-  "run": "Sunday inactives, 10 AM games",
-  "headline": "Week 9 inactives: no lineup changes. St. Brown (ribs) is active at Miami, so your 10:00 AM Pacific lineup is set.",
+  "generated_at": "2026-11-08T19:52:06Z",
+  "run": "Sunday inactives, late games",
+  "headline": "Week 9 late games: no lineup changes. Price and Golden carried no injury designation, so keep them in. Inactive lists could not be read this run.",
   "alerts": [
-    "Lineup is set. No swaps needed before 10:00 AM Pacific.",
-    "Amon-Ra St. Brown (ribs) is active vs. Miami per NBC Sports. Keep him in. Breece Hall stays on the bench.",
-    "Cam Skattebo was doubtful all week. Keep Devin Singletary at RB.",
-    "A.J. Brown and Garrett Wilson are OUT. Keep Mitchell and Golden in the FLEX spots. Golden locks at 1:25 PM Pacific.",
-    "Sleeper could not be reached this run, so roster moves since Tuesday are not reflected. Prop numbers are still from Thursday."
+    "Lineup is set. No swaps planned before 1:25 PM Pacific.",
+    "Jadarian Price (SEA vs. ARI) and Matthew Golden (GB at NE) both lock at 1:25 PM Pacific. Neither had an injury designation. Inactive lists post about 11:55 AM Pacific, so give them a quick look in Sleeper.",
+    "If Golden is a surprise inactive, there is no healthy bench WR with a later game. If Price is inactive, Breece Hall already played, so leave the spot or check waivers for a late-game RB.",
+    "Jefferson and Hockenson play Monday 5:15 PM Pacific with Carson Wentz at QB. No new injury news found. Keep both in.",
+    "Source pages and Sleeper could not be opened this run, so roster moves and inactive lists are not confirmed here."
   ],
   "games": {
     "MIA": {
@@ -131,6 +131,7 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "Sunday late check: no injury designation, expected active vs. Arizona at 1:25 PM Pacific. The inactive list could not be read this run, so confirm in Sleeper.",
         "Sunday morning: the Seahawks line dropped to -8.5 with Drew Lock at QB and the total fell to 39.5. Still a run-leaning script.",
         "No injury designation. Coach Macdonald said his restrictions will be significantly lighter this week.",
         "Hosts Arizona Sunday 1:25 PM Pacific. Seattle is a big home favorite and Darnold is out, which should lean the offense toward the run.",
@@ -328,6 +329,7 @@
       "adj_pct": -5,
       "confidence": "medium",
       "notes": [
+        "Sunday late check: no new news for Monday night. Start him.",
         "Kyler Murray is out (hamstring). Carson Wentz starts Monday 5:15 PM Pacific against Buffalo.",
         "Wentz threw for 276 yards in a Week 8 start at Chicago, so Jefferson keeps a solid floor.",
         "No injury designation. Hosts Buffalo Monday 5:15 PM Pacific, indoors.",
@@ -362,6 +364,7 @@
       "adj_pct": -5,
       "confidence": "medium",
       "notes": [
+        "Sunday late check: no new news for Monday night. Start him.",
         "Murray is out and Wentz starts Monday 5:15 PM Pacific. Small downgrade, still your only TE.",
         "No injury designation. Hosts Buffalo Monday 5:15 PM Pacific, indoors.",
         "About 5 targets a game lately with a TD in each of the last two games."
@@ -423,6 +426,7 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "Sunday late check: no injury designation, expected active at New England at 1:25 PM Pacific. The inactive list could not be read this run, so confirm in Sleeper.",
         "Sunday morning: no new news. Patriots -3 to -3.5, total down to about 44.5 to 45.5.",
         "No injury designation. At New England Sunday 1:25 PM Pacific. Prop projection is from Thursday's lines.",
         "No designation this week after playing through shoulder and foot issues in Week 8.",
