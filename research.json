@@ -1,31 +1,31 @@
 {
   "season": 2026,
   "week": 9,
-  "generated_at": "2026-11-06T00:00:17Z",
-  "run": "Thursday night check",
-  "headline": "Week 9: none of your players are in tonight's Jaguars-Ravens game, so keep Mitchell in for the out A.J. Brown and stay with Singletary since Skattebo is still not practicing.",
+  "generated_at": "2026-11-08T04:40:00Z",
+  "run": "Saturday review",
+  "headline": "Week 9: start Singletary with Skattebo doubtful, play Mitchell and Golden in the FLEX spots with A.J. Brown and Garrett Wilson out, and keep St. Brown in unless he is a surprise inactive.",
   "alerts": [
-    "Thursday night is Jaguars at Ravens, 5:15 PM Pacific. You have no players in this game. Lamar Jackson and Tyler Huntley are out, rookie Joe Fagnano starts.",
-    "A.J. Brown did not practice Wednesday. Keep Adonai Mitchell in your FLEX before Sunday 10:00 AM Pacific.",
-    "Garrett Wilson did not practice Wednesday. If he sits, Mitchell's target share should grow.",
-    "Cam Skattebo did not practice Wednesday. Keep Singletary over Breece Hall (limited) unless Skattebo is cleared by Friday. Both lock Sunday 10:00 AM Pacific.",
-    "Amon-Ra St. Brown was limited Wednesday. Watch Friday's report for a game status before Sunday 10:00 AM Pacific.",
-    "Sam Darnold did not practice Wednesday. He is on your bench, so no action unless Willis gets hurt.",
-    "Kyler Murray did not practice Wednesday. Carson Wentz may start Monday 5:15 PM Pacific, a small downgrade for Jefferson and Hockenson.",
-    "Sleeper could not be reached this run, so roster moves since Tuesday are not reflected. Check your roster in the app."
+    "A.J. Brown is OUT. Keep him out of your lineup before Sunday 1:25 PM Pacific.",
+    "Cam Skattebo is doubtful. Start Devin Singletary at RB before Sunday 10:00 AM Pacific.",
+    "Garrett Wilson is OUT. Start Adonai Mitchell in a FLEX before Sunday 10:00 AM Pacific.",
+    "Amon-Ra St. Brown is questionable (rib) but expected to play. Check inactives around 8:30 AM Pacific Sunday. If he sits, put Breece Hall in.",
+    "Sam Darnold is OUT. He is on your bench behind Willis, no action needed.",
+    "Kyler Murray is out. Carson Wentz starts Monday 5:15 PM Pacific, a small downgrade for Jefferson and Hockenson.",
+    "The early game is Bengals vs. Falcons in Madrid at 6:30 AM Pacific Sunday. You have no players in it.",
+    "Sleeper and the prop sites could not be reached this run. Roster moves since Tuesday are not reflected, and prop numbers are from Thursday."
   ],
   "games": {
     "MIA": {
       "note": "Hosts Detroit Sunday 10:00 AM Pacific. Lions -7, total 50.5, Miami about 21.75 implied. De'Von Achane is on IR."
     },
     "DET": {
-      "note": "At Miami Sunday 10:00 AM Pacific. Detroit about 28.75 implied. LB Jack Campbell doubtful, S Kerby Joseph out, Branch and Wonnum in concussion protocol."
+      "note": "At Miami Sunday 10:00 AM Pacific. St. Brown questionable (rib). Kerby Joseph, Jack Campbell, DJ Reed and DJ Wonnum are out, which helps Willis."
     },
     "SEA": {
-      "note": "Hosts Arizona Sunday 1:25 PM Pacific on a short week after Monday night. Seahawks -10.5, total 41.5, about 26 implied. Darnold did not practice Wednesday."
+      "note": "Hosts Arizona Sunday 1:25 PM Pacific on a short week. Sam Darnold is out (quad, ribs), and LT Charles Cross and G Quenton Nelson are also out. Thursday line was Seahawks -10.5, total 41.5."
     },
     "NYG": {
-      "note": "At Philadelphia Sunday 10:00 AM Pacific, off a bye. Giants -3.5, total 39.5. Skattebo day-to-day (hamstring), Tracy on IR. Skattebo did not practice Wednesday."
+      "note": "At Philadelphia Sunday 10:00 AM Pacific, off a bye. Skattebo doubtful (hamstring), so Singletary leads. Thursday line was Giants -3.5, total 39.5."
     },
     "PHI": {
       "note": "Hosts the Giants. Hurts on IR, Tanner McKee starts. Eagles about 18 implied, Barkley banged up."
@@ -34,25 +34,22 @@
       "note": "Hosts Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -6, total 51.5. Jonathan Taylor is in trade rumors before the Nov 10 deadline."
     },
     "NYJ": {
-      "note": "At Kansas City Sunday 10:00 AM Pacific. Chiefs -9.5, total 46.5, Jets about 18.5 implied. Forecast 60F with light wind. Breece Hall expected back. Garrett Wilson did not practice Wednesday, Hall was limited."
+      "note": "At Kansas City Sunday 10:00 AM Pacific. Garrett Wilson out (concussion). Breece Hall off the report and returning. Thursday line was Chiefs -9.5, total 46.5."
     },
     "MIN": {
-      "note": "Hosts Buffalo Monday 5:15 PM Pacific, indoors. Bills -3.5, total about 45.5. Kyler Murray (hamstring) is uncertain, Carson Wentz would start. Murray did not practice Wednesday."
+      "note": "Hosts Buffalo Monday 5:15 PM Pacific, indoors. Kyler Murray out, Carson Wentz starts."
     },
     "GB": {
-      "note": "At New England Sunday 1:25 PM Pacific. Patriots -3, total 46.5."
+      "note": "At New England Sunday 1:25 PM Pacific. Micah Parsons is out. Thursday line was Patriots -3, total 46.5."
     },
     "NE": {
-      "note": "Hosts Green Bay Sunday 1:25 PM Pacific. A.J. Brown, Hunter Henry and TreVeyon Henderson are all uncertain."
+      "note": "Hosts Green Bay Sunday 1:25 PM Pacific. A.J. Brown and TreVeyon Henderson are out, Hunter Henry questionable."
     },
     "PIT": {
       "note": "Bye in Week 9."
     },
-    "JAX": {
-      "note": "At Baltimore Thursday 5:15 PM Pacific on Prime Video. RB Bhayshul Tuten questionable (ankle, foot). None of your players."
-    },
-    "BAL": {
-      "note": "Hosts Jacksonville Thursday 5:15 PM Pacific. Lamar Jackson (thumb) and Tyler Huntley (toe) out, Joe Fagnano makes his first start."
+    "CIN": {
+      "note": "Plays Atlanta in Madrid Sunday 6:30 AM Pacific. None of your players."
     }
   },
   "players": {
@@ -63,12 +60,16 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "No injury designation. Starts at QB, and Darnold is out anyway. Hosts Detroit Sunday 10:00 AM Pacific.",
+        "Prop projection is from Thursday's lines, prop pages could not be re-read tonight.",
         "Healthy and the clear Dolphins starter. Hosts Detroit Sunday 10:00 AM Pacific.",
-        "Lions -7, total 50.5, Miami about 21.75 implied. Detroit allows the most fantasy points to QBs and its LB and secondary group is banged up.",
-        "Props: 206.5 pass yards, 1.5 pass TDs (under favored), 0.5 INTs, 32.5 rush yards, anytime TD +190. That works out to about 18.1 points.",
-        "Rushing floor gives him the edge over Darnold. Sacked often behind a weak line."
+        "Lions -7, total 50.5, Miami about 21.75 implied. Detroit allows the most fantasy points to QBs and its LB and secondary group is banged up."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
         {
           "title": "Scores and Odds: Malik Willis props",
           "url": "https://www.scoresandodds.com/prop-bets/3491780/malik-willis"
@@ -89,18 +90,21 @@
     },
     "4943": {
       "name": "Sam Darnold",
-      "verdict": "sit",
-      "prop_proj": 17.0,
-      "adj_pct": 0,
-      "confidence": "medium",
+      "verdict": "out",
+      "adj_pct": -60,
+      "confidence": "high",
       "notes": [
-        "Did not practice Wednesday. Stays on the bench behind Willis.",
-        "No injury designation. Starting for Seattle, who hosts Arizona Sunday 1:25 PM Pacific on a short week after Monday night.",
-        "Seahawks -10.5, total 41.5 and falling, Seattle about 26 implied. A big home favorite may lean on the run.",
-        "Props: 226.5 pass yards, 1.5 pass TDs (over favored), 0.5 INTs (under favored), 6.5 rush yards. About 17.0 points.",
-        "Close call with Willis, but Willis has the rushing floor and the better game total. Keep Darnold as the QB2."
+        "Ruled out (quad, ribs). Keep him on the bench."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
+        {
+          "title": "Yahoo: Week 9 injury tracker",
+          "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-9-latest-news-fantasy-implications-as-49ers-mike-evans-deebo-samuel-out-giants-cam-skattebo-doubtful-135640202.html"
+        },
         {
           "title": "Scores and Odds: Sam Darnold props",
           "url": "https://www.scoresandodds.com/prop-bets/328423/sam-darnold"
@@ -112,14 +116,6 @@
         {
           "title": "The Big Lead: Week 9 QB start-sit",
           "url": "https://www.thebiglead.com/week-9-fantasy-football-qb-start-sit-malik-willis-tyler-shough-sam-darnold-c-j-stroud/"
-        },
-        {
-          "title": "DK Network: NFL injury report Week 9",
-          "url": "https://dknetwork.draftkings.com/2026/11/03/nfl-injury-report-week-9/"
-        },
-        {
-          "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
         }
       ]
     },
@@ -129,12 +125,20 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "No injury designation. Coach Macdonald said his restrictions will be significantly lighter this week.",
+        "Hosts Arizona Sunday 1:25 PM Pacific. Seattle is a big home favorite and Darnold is out, which should lean the offense toward the run.",
         "Healthy after returning from IR (chest) in Week 8. Led Seattle in carries with 10 for 29 yards plus 2 catches, on 48% of snaps.",
-        "Hosts Arizona Sunday 1:25 PM Pacific. Seahawks -10.5, a strong rushing script.",
-        "Props: 45.5 rush yards and anytime TD +155. No receptions line, so no prop projection is set.",
-        "Zach Charbonnet shares the work and gets goal line looks, which caps TD upside."
+        "Hosts Arizona Sunday 1:25 PM Pacific. Seahawks -10.5, a strong rushing script."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
+        {
+          "title": "RotoBaller: Price to have significantly fewer restrictions",
+          "url": "https://www.rotoballer.com/player-news/jadarian-price-has-significantly-fewer-restrictions-in-week-9/1983918"
+        },
         {
           "title": "Scores and Odds: Jadarian Price props",
           "url": "https://www.scoresandodds.com/prop-bets/12275024/jadarian-price"
@@ -146,26 +150,33 @@
         {
           "title": "Athlon: Are Price and Charbonnet playing in Week 9",
           "url": "https://athlonsports.com/nfl/seattle-seahawks/are-jadarian-price-zach-charbonnet-playing-in-week-9-what-we-know-about-seattles-running-backs"
-        },
-        {
-          "title": "DK Network: NFL injury report Week 9",
-          "url": "https://dknetwork.draftkings.com/2026/11/03/nfl-injury-report-week-9/"
         }
       ]
     },
     "6130": {
       "name": "Devin Singletary",
-      "verdict": "flex",
-      "adj_pct": 5,
-      "confidence": "low",
+      "verdict": "start",
+      "adj_pct": 10,
+      "confidence": "medium",
       "notes": [
-        "Skattebo did not practice Wednesday, so Singletary looks set for lead work at Philadelphia.",
+        "Cam Skattebo is doubtful (hamstring), so Singletary should lead the Giants backfield at Philadelphia Sunday 10:00 AM Pacific.",
+        "Greg Desrosiers Jr. is the next back up. Singletary has no designation.",
         "Healthy, coming off the Giants bye. At Philadelphia Sunday 10:00 AM Pacific. Giants -3.5, total 39.5, about 21.5 implied.",
-        "Cam Skattebo is day-to-day with a hamstring and Tyrone Tracy is on IR. If Skattebo sits, Singletary leads the backfield.",
-        "Anytime TD moved to +210 from +650 in Week 7, so the market expects a bigger role. No yardage props yet, so no prop projection.",
-        "Watch Skattebo's Friday practice status before locking him in."
+        "Cam Skattebo is day-to-day with a hamstring and Tyrone Tracy is on IR. If Skattebo sits, Singletary leads the backfield."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
+        {
+          "title": "Yahoo: Week 9 injury tracker",
+          "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-9-latest-news-fantasy-implications-as-49ers-mike-evans-deebo-samuel-out-giants-cam-skattebo-doubtful-135640202.html"
+        },
+        {
+          "title": "Fantasy Six Pack: Week 9 final injury report",
+          "url": "https://fantasysixpack.net/2026-fantasy-football-week-9-final-injury-report"
+        },
         {
           "title": "Scores and Odds: Devin Singletary props",
           "url": "https://www.scoresandodds.com/prop-bets/982203/devin-singletary"
@@ -173,14 +184,6 @@
         {
           "title": "Giants.com: Week 9 tracker",
           "url": "https://www.giants.com/news/week-9-tracker-latest-news-notes-roster-moves-philadelphia-eagles-nfc-east"
-        },
-        {
-          "title": "Football Nation: Giants backfield after Tracy IR",
-          "url": "https://www.footballnationusa.com/post/giants-backfield-reset-skattebo-singletary-roles-after-tracy-goes-on-ir"
-        },
-        {
-          "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
         }
       ]
     },
@@ -188,14 +191,17 @@
       "name": "Seth McGowan",
       "verdict": "stash",
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "high",
       "notes": [
-        "Jonathan Taylor was a full participant Wednesday, so McGowan stays a stash.",
+        "Jonathan Taylor has no designation, so McGowan stays a stash.",
         "Backup to Jonathan Taylor. Had 5 carries for 29 yards on 15 snaps in the Week 8 blowout at Jacksonville.",
-        "Hosts Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -6, total 51.5.",
-        "Only startable if the Colts trade Taylor before the November 10 deadline. No props found."
+        "Hosts Dallas Sunday 10:00 AM Pacific, indoors. Cowboys -6, total 51.5."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
         {
           "title": "NBC Sports: McGowan turns five carries into 29 yards",
           "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-01/seth-mcgowan-turns-five-carries-into-29-yards"
@@ -212,17 +218,28 @@
     },
     "8155": {
       "name": "Breece Hall",
-      "verdict": "flex",
-      "adj_pct": -15,
-      "confidence": "low",
+      "verdict": "sit",
+      "adj_pct": -10,
+      "confidence": "medium",
       "notes": [
-        "Limited in practice Wednesday as he works back from the quad injury. Expect a split with Braelon Allen.",
+        "Off the injury report after full practices Thursday and Friday. Returns from a five-game absence at Kansas City Sunday 10:00 AM Pacific.",
+        "Likely shares work with Braelon Allen in his first game back, and the Jets are about 18.5 implied. First man off the bench if St. Brown is inactive.",
         "Missed five straight games with a quad injury, including Week 8, but is expected to play at Kansas City Sunday 10:00 AM Pacific.",
-        "Coach Aaron Glenn says Hall is the starter, but Braelon Allen will still get touches after back-to-back 100-yard games.",
-        "Chiefs -9.5, total 46.5, Jets only about 18.5 implied. First game back plus a shared load lowers the floor.",
-        "Only an anytime TD line (+105) is posted so far, so no prop projection is set."
+        "Coach Aaron Glenn says Hall is the starter, but Braelon Allen will still get touches after back-to-back 100-yard games."
       ],
       "sources": [
+        {
+          "title": "Jets.com: Friday injury report vs. Chiefs",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-9-vs-chiefs-friday-11-6-2026"
+        },
+        {
+          "title": "Fantasy Six Pack: Week 9 final injury report",
+          "url": "https://fantasysixpack.net/2026-fantasy-football-week-9-final-injury-report"
+        },
+        {
+          "title": "Yahoo: Week 9 injury tracker",
+          "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-9-latest-news-fantasy-implications-as-49ers-mike-evans-deebo-samuel-out-giants-cam-skattebo-doubtful-135640202.html"
+        },
         {
           "title": "ESPN: Glenn says Hall is the starter",
           "url": "https://www.espn.com/nfl/story/_/id/50360481/jets-breece-hall-starter-braelon-allen"
@@ -230,18 +247,6 @@
         {
           "title": "NBC Sports: Hall should play in Week 9",
           "url": "https://www.nbcsports.com/fantasy/football/player-news/2026-11-02/breece-hall-should-play-in-week-9-vs-chiefs"
-        },
-        {
-          "title": "Scores and Odds: Breece Hall props",
-          "url": "https://www.scoresandodds.com/prop-bets/3491661/breece-hall"
-        },
-        {
-          "title": "SI: Jets Week 9 injury report",
-          "url": "https://www.si.com/nfl/jets/onsi/breaking-down-jets-injury-report-heading-into-week-9-who-s-hurt-who-could-return-vs-chiefs-01m6hap7qssp"
-        },
-        {
-          "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
         }
       ]
     },
@@ -250,15 +255,22 @@
       "verdict": "start",
       "prop_proj": 17.3,
       "adj_pct": 0,
-      "confidence": "high",
+      "confidence": "medium",
       "notes": [
-        "Limited in practice Wednesday. No game status yet, check Friday's report.",
+        "Questionable (rib) but expected to play after practicing all week. Check inactives about 8:30 AM Pacific before the 10:00 AM kickoff at Miami.",
+        "If he is surprisingly inactive, move Breece Hall into the open spot.",
         "Sleeper lists him questionable. He has an ankle issue and hit his head in Week 8 but returned and played 72% of snaps.",
-        "At Miami Sunday 10:00 AM Pacific. Lions -7, total 50.5, Detroit about 28.75 implied.",
-        "Props: 6.5 receptions, 75.5 yards, anytime TD -115. About 17.3 points.",
-        "Check the Lions Wednesday and Thursday practice reports."
+        "At Miami Sunday 10:00 AM Pacific. Lions -7, total 50.5, Detroit about 28.75 implied."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
+        {
+          "title": "Fantasy Six Pack: Week 9 final injury report",
+          "url": "https://fantasysixpack.net/2026-fantasy-football-week-9-final-injury-report"
+        },
         {
           "title": "Covers: Amon-Ra St. Brown props",
           "url": "https://www.covers.com/sport/football/nfl/players/53755/amon-ra-st.-brown"
@@ -270,14 +282,6 @@
         {
           "title": "SI: Lions vs Dolphins odds and injuries",
           "url": "https://www.si.com/betting/lions-vs-dolphins-prediction-odds-spread-injuries-trends-for-nfl-week-9-2026"
-        },
-        {
-          "title": "DK Network: NFL injury report Week 9",
-          "url": "https://dknetwork.draftkings.com/2026/11/03/nfl-injury-report-week-9/"
-        },
-        {
-          "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
         }
       ]
     },
@@ -288,13 +292,20 @@
       "adj_pct": -5,
       "confidence": "medium",
       "notes": [
-        "Kyler Murray did not practice Wednesday. Carson Wentz may start Monday.",
+        "Kyler Murray is out (hamstring). Carson Wentz starts Monday 5:15 PM Pacific against Buffalo.",
+        "Wentz threw for 276 yards in a Week 8 start at Chicago, so Jefferson keeps a solid floor.",
         "No injury designation. Hosts Buffalo Monday 5:15 PM Pacific, indoors.",
-        "Bills -3.5, total about 45.5, Minnesota about 21 implied.",
-        "Props: 5.5 receptions, about 68.5 yards, anytime TD +165. About 15.0 points.",
-        "Kyler Murray has a sore hamstring. If Carson Wentz starts, it is a small downgrade."
+        "Bills -3.5, total about 45.5, Minnesota about 21 implied."
       ],
       "sources": [
+        {
+          "title": "AP via WLOX: Vikings sit Murray, Wentz starts",
+          "url": "https://www.wlox.com/2026/11/05/vikings-sit-murray-with-hamstring-strain-will-start-wentz-qb-against-bills-monday-night/"
+        },
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
         {
           "title": "Covers: Justin Jefferson props",
           "url": "https://www.covers.com/sport/football/nfl/players/38174/justin-jefferson"
@@ -306,10 +317,6 @@
         {
           "title": "StatSniper: Bills at Vikings",
           "url": "https://statsniper.com/leagues/nfl/game/2026/week-9/buf-vs-min/"
-        },
-        {
-          "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
         }
       ]
     },
@@ -319,12 +326,15 @@
       "adj_pct": -5,
       "confidence": "medium",
       "notes": [
-        "Kyler Murray did not practice Wednesday. Carson Wentz may start Monday.",
+        "Murray is out and Wentz starts Monday 5:15 PM Pacific. Small downgrade, still your only TE.",
         "No injury designation. Hosts Buffalo Monday 5:15 PM Pacific, indoors.",
-        "About 5 targets a game lately with a TD in each of the last two games.",
-        "Week 9 props are not posted yet, so no prop projection is set. Same QB risk as Jefferson if Murray sits."
+        "About 5 targets a game lately with a TD in each of the last two games."
       ],
       "sources": [
+        {
+          "title": "AP via WLOX: Vikings sit Murray, Wentz starts",
+          "url": "https://www.wlox.com/2026/11/05/vikings-sit-murray-with-hamstring-strain-will-start-wentz-qb-against-bills-monday-night/"
+        },
         {
           "title": "FantasyPros: T.J. Hockenson news",
           "url": "https://www.fantasypros.com/nfl/news/tj-hockenson.php"
@@ -345,13 +355,17 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Did not practice Wednesday. Expect him to be ruled out.",
-        "Sleeper lists him out with knee and ankle injuries. He missed Week 8 and did not travel.",
-        "Mike Vrabel said only that they will see about practice this week. No IR move or long timeline reported.",
-        "Patriots host Green Bay Sunday 1:25 PM Pacific. He is in your FLEX right now, so replace him.",
-        "Hold him on the bench since the injury does not look long term."
+        "Ruled out (knee, ankle). Bench him."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
+        {
+          "title": "Yahoo: Week 9 injury tracker",
+          "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-9-latest-news-fantasy-implications-as-49ers-mike-evans-deebo-samuel-out-giants-cam-skattebo-doubtful-135640202.html"
+        },
         {
           "title": "ESPN: A.J. Brown listed questionable",
           "url": "https://www.espn.com/nfl/story/_/id/50329240/patriots-wr-aj-brown-ankle-knee-listed-questionable"
@@ -363,10 +377,6 @@
         {
           "title": "RotoWire: Brown practice participation TBD",
           "url": "https://rotowire.com/football/headlines/aj-brown-injury-practice-participation-this-week-tbd-645586"
-        },
-        {
-          "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
         }
       ]
     },
@@ -377,12 +387,15 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "No injury designation. At New England Sunday 1:25 PM Pacific. Prop projection is from Thursday's lines.",
         "No designation this week after playing through shoulder and foot issues in Week 8.",
-        "Elite volume: 13, 12 and 13 targets in his last three games, with a team-high target share.",
-        "At New England Sunday 1:25 PM Pacific. Patriots -3, total 46.5.",
-        "Props: 5.5 receptions (under favored), about 66.5 yards, anytime TD +155. About 14.1 points."
+        "Elite volume: 13, 12 and 13 targets in his last three games, with a team-high target share."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
         {
           "title": "Covers: Matthew Golden props",
           "url": "https://www.covers.com/sport/football/nfl/players/366580/matthew-golden"
@@ -399,17 +412,24 @@
     },
     "11625": {
       "name": "Adonai Mitchell",
-      "verdict": "flex",
+      "verdict": "start",
       "adj_pct": 10,
-      "confidence": "low",
+      "confidence": "medium",
       "notes": [
-        "Garrett Wilson did not practice Wednesday, which could push more targets to Mitchell at Kansas City.",
+        "Garrett Wilson is ruled out (concussion), so Mitchell should be the Jets' top target at Kansas City Sunday 10:00 AM Pacific.",
+        "Start him in a FLEX.",
         "Career game in Week 8: 7 catches, 142 yards and a TD on 9 targets, with his snap share rising to 61%.",
-        "Back from a finger injury since Week 7. Still third among Jets WRs in snaps.",
-        "At Kansas City Sunday 10:00 AM Pacific. Chiefs -9.5, so the Jets should be throwing a lot.",
-        "Best bench option to replace A.J. Brown in the FLEX. Week 9 props are not posted yet."
+        "Back from a finger injury since Week 7. Still third among Jets WRs in snaps."
       ],
       "sources": [
+        {
+          "title": "Jets.com: Friday injury report vs. Chiefs",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-9-vs-chiefs-friday-11-6-2026"
+        },
+        {
+          "title": "Yahoo: Week 9 injury tracker",
+          "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-9-latest-news-fantasy-implications-as-49ers-mike-evans-deebo-samuel-out-giants-cam-skattebo-doubtful-135640202.html"
+        },
         {
           "title": "Jets.com: Mitchell posts career game",
           "url": "https://www.newyorkjets.com/news/adonai-mitchell-posts-career-game-in-loss-to-the-raiders-11-01-2026"
@@ -421,10 +441,6 @@
         {
           "title": "Action Network: Jets at Chiefs odds",
           "url": "https://www.actionnetwork.com/nfl-game/jets-chiefs-score-odds-november-8-2026/290961"
-        },
-        {
-          "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
         }
       ]
     },
@@ -434,8 +450,7 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Pittsburgh is on bye in Week 9. Do not start him.",
-        "He has a starting role since Roman Wilson went on IR, including an 11-catch game in Week 6. Worth holding unless you need the spot for a waiver add."
+        "Pittsburgh is on bye. Do not start him."
       ],
       "sources": [
         {
@@ -454,11 +469,15 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "Colts host Dallas indoors Sunday 10:00 AM Pacific. No injury news.",
         "Colts host Dallas indoors with a 51.5 total. No change.",
-        "Active Colts kicker, 19 of 21 on field goals this season.",
-        "Hosts Dallas Sunday 10:00 AM Pacific in a dome. Total 51.5, Colts about 22.75 implied."
+        "Active Colts kicker, 19 of 21 on field goals this season."
       ],
       "sources": [
+        {
+          "title": "NFL.com: Week 9 injury report",
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
         {
           "title": "RotoWire: Shrader makes sole kick in blowout loss",
           "url": "https://www.rotowire.com/football/headlines/spencer-shrader-news-makes-sole-kick-in-blowout-loss-645737"
@@ -479,11 +498,15 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "At Philadelphia Sunday 10:00 AM Pacific. Tanner McKee starts for the Eagles and Barkley is off the injury report.",
         "At Philadelphia Sunday 10:00 AM Pacific, rested off the bye. Giants -3.5, total 39.5, Eagles only about 18 implied.",
-        "Tanner McKee starts for a 2-6 Eagles team with Jalen Hurts on IR. Saquon Barkley is limited by hamstring and back issues.",
-        "FantasyPros lists the Giants as a Week 9 streaming defense."
+        "Tanner McKee starts for a 2-6 Eagles team with Jalen Hurts on IR. Saquon Barkley is limited by hamstring and back issues."
       ],
       "sources": [
+        {
+          "title": "Fantasy Six Pack: Week 9 final injury report",
+          "url": "https://fantasysixpack.net/2026-fantasy-football-week-9-final-injury-report"
+        },
         {
           "title": "Giants.com: Week 9 tracker",
           "url": "https://www.giants.com/news/week-9-tracker-latest-news-notes-roster-moves-philadelphia-eagles-nfc-east"
@@ -504,39 +527,15 @@
       "a": "11625",
       "b": "5859",
       "pick": "11625",
-      "why": "A.J. Brown did not practice Wednesday and Garrett Wilson also sat, which helps Mitchell. Keep Mitchell in the FLEX before Sunday 10:00 AM Pacific.",
+      "why": "A.J. Brown is ruled out and Garrett Wilson is out for the Jets. Start Mitchell in the FLEX before Sunday 10:00 AM Pacific.",
       "sources": [
-        {
-          "title": "ESPN: A.J. Brown listed questionable",
-          "url": "https://www.espn.com/nfl/story/_/id/50329240/patriots-wr-aj-brown-ankle-knee-listed-questionable"
-        },
-        {
-          "title": "Jets.com: Mitchell posts career game",
-          "url": "https://www.newyorkjets.com/news/adonai-mitchell-posts-career-game-in-loss-to-the-raiders-11-01-2026"
-        },
         {
           "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
-        }
-      ]
-    },
-    {
-      "a": "8161",
-      "b": "4943",
-      "pick": "8161",
-      "why": "Props are close, about 18.1 for Willis against 17.0 for Darnold. Willis has the rushing floor, a 50.5 total and faces the defense that allows the most QB points. Darnold's team is a double-digit favorite that may run a lot.",
-      "sources": [
-        {
-          "title": "Scores and Odds: Malik Willis props",
-          "url": "https://www.scoresandodds.com/prop-bets/3491780/malik-willis"
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
         },
         {
-          "title": "Scores and Odds: Sam Darnold props",
-          "url": "https://www.scoresandodds.com/prop-bets/328423/sam-darnold"
-        },
-        {
-          "title": "The Big Lead: Week 9 QB start-sit",
-          "url": "https://www.thebiglead.com/week-9-fantasy-football-qb-start-sit-malik-willis-tyler-shough-sam-darnold-c-j-stroud/"
+          "title": "Jets.com: Friday injury report vs. Chiefs",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-9-vs-chiefs-friday-11-6-2026"
         }
       ]
     },
@@ -544,19 +543,35 @@
       "a": "6130",
       "b": "8155",
       "pick": "6130",
-      "why": "Skattebo did not practice Wednesday and Hall was only limited coming off a five-game absence. Stay with Singletary unless Skattebo is cleared by Friday. Both kick off Sunday 10:00 AM Pacific.",
+      "why": "Skattebo is doubtful, so Singletary should handle lead back work. Hall is healthy but likely splits with Braelon Allen in his first game back at Kansas City. Both lock Sunday 10:00 AM Pacific.",
       "sources": [
         {
-          "title": "Giants.com: Week 9 tracker",
-          "url": "https://www.giants.com/news/week-9-tracker-latest-news-notes-roster-moves-philadelphia-eagles-nfc-east"
+          "title": "Yahoo: Week 9 injury tracker",
+          "url": "https://sports.yahoo.com/fantasy/article/nfl-injury-tracker-week-9-latest-news-fantasy-implications-as-49ers-mike-evans-deebo-samuel-out-giants-cam-skattebo-doubtful-135640202.html"
         },
         {
-          "title": "ESPN: Glenn says Hall is the starter",
-          "url": "https://www.espn.com/nfl/story/_/id/50360481/jets-breece-hall-starter-braelon-allen"
+          "title": "Fantasy Six Pack: Week 9 final injury report",
+          "url": "https://fantasysixpack.net/2026-fantasy-football-week-9-final-injury-report"
         },
+        {
+          "title": "Jets.com: Friday injury report vs. Chiefs",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-9-vs-chiefs-friday-11-6-2026"
+        }
+      ]
+    },
+    {
+      "a": "12501",
+      "b": "8155",
+      "pick": "12501",
+      "why": "Golden has no designation and a full role at New England. Hall is a fine bench backup if St. Brown is a late scratch.",
+      "sources": [
         {
           "title": "NFL.com: Week 9 injury report",
-          "url": "https://www.nfl.com/injuries/"
+          "url": "https://www.nfl.com/news/nfl-week-9-injury-report-2026-season"
+        },
+        {
+          "title": "Fantasy Six Pack: Week 9 final injury report",
+          "url": "https://fantasysixpack.net/2026-fantasy-football-week-9-final-injury-report"
         }
       ]
     }
