@@ -1,49 +1,46 @@
 {
   "season": 2026,
   "week": 10,
-  "generated_at": "2026-11-13T00:01:44Z",
-  "run": "Thursday night check",
-  "headline": "Bench Singletary for Breece Hall before 5:15 PM Pacific tonight, and add a QB because Willis is on IR and Darnold is out.",
+  "generated_at": "2026-11-15T04:00:46Z",
+  "run": "Saturday night review",
+  "headline": "Hockenson is out and you still need a QB, so add Aaron Rodgers and a TE like AJ Barner before Sunday 10:00 AM Pacific.",
   "alerts": [
-    "By 5:15 PM Pacific tonight: move Devin Singletary to the bench and start Breece Hall. Cam Skattebo is active for the Giants.",
-    "Giants DEF stays in and locks at 5:15 PM Pacific tonight.",
-    "You have no healthy QB. Willis is on IR and Darnold is ruled out. Add one before Sunday 6:30 AM Pacific, and drop Seth McGowan or Germie Bernard to make room.",
-    "A.J. Brown and Amon-Ra St. Brown play in Munich Sunday 6:30 AM Pacific. Check Friday injury reports. Hockenson did not practice Wednesday.",
-    "Sleeper could not be opened this run, so the roster here is last week's. Confirm in the app."
+    "Sunday 6:30 AM Pacific: Lions vs. Patriots in Munich locks first. St. Brown is questionable (ribs) but expected to play. Leave him in.",
+    "A.J. Brown is questionable. Keep Adonai Mitchell in the FLEX unless you check inactives around 5:00 AM Pacific and Brown is active.",
+    "Before 10:00 AM Pacific: T.J. Hockenson is OUT. Add a TE. AJ Barner (SEA, 1:05 PM Pacific) is a low-cost streamer if he is free. Drop Seth McGowan or Germie Bernard.",
+    "You have no healthy QB. Add Aaron Rodgers (PIT at CIN, 5:20 PM Pacific, total 49.5) or another free QB before his game.",
+    "Sleeper could not be opened this run, so the roster here is from earlier in the week. Confirm moves in the app."
   ],
   "games": {
-    "NYG": {
-      "note": "Hosts Washington Thursday 5:15 PM Pacific at MetLife. Giants -1.5, total 42.5, about 22 implied. Skattebo active, J.J. McCarthy full go."
-    },
-    "WAS": {
-      "note": "At the Giants Thursday 5:15 PM Pacific. About 20.5 implied. C Lucas Patrick and TE Colson Yankoff are inactive."
-    },
-    "MIA": {
-      "note": "At Indianapolis Sunday. Willis on IR, Kyle McCord starts."
-    },
-    "SEA": {
-      "note": "At Las Vegas Sunday 1:25 PM Pacific. Darnold out, Drew Lock starts."
-    },
     "DET": {
-      "note": "Plays New England in Munich Sunday 6:30 AM Pacific. St. Brown limited Wednesday."
+      "note": "Plays New England in Munich Sunday 6:30 AM Pacific. Lions -2.5, total 49.5, about 26 implied. St. Brown questionable but expected to play."
     },
     "NE": {
-      "note": "Plays Detroit in Munich Sunday 6:30 AM Pacific. A.J. Brown limited Wednesday. Rhamondre Stevenson expected out."
+      "note": "Plays Detroit in Munich Sunday 6:30 AM Pacific. About 23.5 implied. A.J. Brown and Rhamondre Stevenson questionable, TreVeyon Henderson out."
     },
     "MIN": {
-      "note": "At Green Bay Sunday 10:00 AM Pacific. Hockenson did not practice Wednesday."
+      "note": "At Green Bay Sunday 10:00 AM Pacific. Packers -2.5, total 42.5, Vikings about 20 implied. Hockenson, Jennings and Kyler Murray out, Addison questionable."
     },
     "GB": {
-      "note": "Hosts Minnesota Sunday 10:00 AM Pacific."
+      "note": "Hosts Minnesota Sunday 10:00 AM Pacific. About 22.5 implied. Josh Jacobs and Micah Parsons out."
     },
     "NYJ": {
-      "note": "Hosts Buffalo Sunday. Garrett Wilson remains out."
+      "note": "Hosts Buffalo Sunday 10:00 AM Pacific. Bills -8.5, total 50.5, Jets about 21 implied. Garrett Wilson questionable."
+    },
+    "SEA": {
+      "note": "At Las Vegas Sunday 1:05 PM Pacific. Seahawks -6.5, total 40.5, about 23.5 implied. Drew Lock starts, Charbonnet back."
     },
     "IND": {
-      "note": "Hosts Miami Sunday. Jonathan Taylor full in practice."
+      "note": "Hosts Miami Sunday 10:00 AM Pacific. Colts -3.5, total 38.5, about 21 implied."
+    },
+    "MIA": {
+      "note": "At Indianapolis. Kyle McCord starts with Willis on IR."
     },
     "PIT": {
-      "note": "At Cincinnati Sunday night 5:20 PM Pacific, game total about 49.5."
+      "note": "At Cincinnati Sunday 5:20 PM Pacific. Bengals -3.5, total 49.5, Steelers about 23 implied."
+    },
+    "NYG": {
+      "note": "Lost 24-21 to Washington Thursday. Done for the week."
     }
   },
   "players": {
@@ -53,14 +50,9 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Placed on IR Tuesday with a core-muscle injury, out at least four games. Kyle McCord starts for Miami. Bench him and pick up a QB."
+        "On IR with a core-muscle injury. Kyle McCord starts for Miami. Keep him on the bench or in an IR slot."
       ],
-      "sources": [
-        {
-          "title": "Fantasy Footballers: Willis move to IR official",
-          "url": "https://www.thefantasyfootballers.com/news/647007/malik-willis-move-to-ir-official/"
-        }
-      ]
+      "sources": []
     },
     "4943": {
       "name": "Sam Darnold",
@@ -68,51 +60,42 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Ruled out vs. the Raiders (quad, ribs). Drew Lock starts again. Bench him."
+        "Ruled out at Las Vegas. Drew Lock starts. Do not start him."
       ],
-      "sources": [
-        {
-          "title": "FOX 13 Seattle: Darnold ruled out vs. Raiders",
-          "url": "https://www.fox13seattle.com/sports/darnold-ruled-out-seahawks-raiders"
-        }
-      ]
+      "sources": []
     },
     "13286": {
       "name": "Jadarian Price",
       "verdict": "start",
-      "adj_pct": 0,
-      "confidence": "medium",
+      "adj_pct": -5,
+      "confidence": "low",
       "notes": [
-        "Seattle plays at Las Vegas Sunday 1:25 PM Pacific with Drew Lock at QB. No injury news found for Price."
+        "Seattle is a 6.5-point favorite at Las Vegas, about 23.5 implied, kickoff 1:05 PM Pacific. The Raiders allow the most rushing yards in the league.",
+        "Zach Charbonnet is back, so the work may be split. Still your best RB2 option."
       ],
       "sources": [
         {
-          "title": "FOX 13 Seattle: Darnold ruled out vs. Raiders",
-          "url": "https://www.fox13seattle.com/sports/darnold-ruled-out-seahawks-raiders"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+        },
+        {
+          "title": "ClutchPoints: Seahawks vs. Raiders bold predictions",
+          "url": "https://clutchpoints.com/nfl/nfl-stories/seahawks-vs-raiders-bold-predictions-for-nfl-week-10"
         }
       ]
     },
     "6130": {
       "name": "Devin Singletary",
       "verdict": "sit",
-      "adj_pct": -35,
-      "confidence": "medium",
+      "adj_pct": 0,
+      "confidence": "high",
       "notes": [
-        "Cam Skattebo is active tonight after missing Week 9, and his coach called him full go. Reports expect Skattebo to retake the lead role, so Singletary goes back to a backup job.",
-        "He locks at 5:15 PM Pacific tonight. Move him to the bench before then and start Breece Hall."
+        "Already played Thursday. Washington beat the Giants 24-21. Locked, no action needed."
       ],
       "sources": [
         {
-          "title": "Giants.com: Inactives vs. Commanders",
-          "url": "https://www.giants.com/news/inactives-who-s-in-who-s-out-for-giants-vs-commanders"
-        },
-        {
-          "title": "Fantasy Footballers: Skattebo ready for Week 10",
-          "url": "https://www.thefantasyfootballers.com/news/646820/cam-skattebo-looks-ready-to-go-for-week-10/"
-        },
-        {
-          "title": "SI: Skattebo injury update and betting impact",
-          "url": "https://www.si.com/betting/cam-skattebo-injury-update-betting-impact-for-commanders-vs-giants-in-nfl-week-10-2026"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -122,12 +105,12 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Jonathan Taylor was a full practice participant, so McGowan stays a stash. Top drop candidate if you need a roster spot for a QB."
+        "Jonathan Taylor is healthy. Colts are 3.5-point favorites vs. Miami, total 38.5. Top drop candidate for a QB or TE."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -137,12 +120,16 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Not on the Jets injury report this week. Takes Singletary's RB spot. Jets host Buffalo Sunday."
+        "Not on the Jets injury report. Jets are 8.5-point home underdogs to Buffalo, about 21 implied, kickoff 10:00 AM Pacific. Game script could tilt toward passing, but he catches passes."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "NewYorkJets.com: Wednesday injury report vs. Bills",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-10-vs-bills-wednesday-11-11-2026"
+        },
+        {
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -152,16 +139,21 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Limited in practice Wednesday with no game status. Lions play New England in Munich Sunday 6:30 AM Pacific, the earliest lock of the week."
+        "Questionable with a rib injury after three limited practices. ESPN's Jeremy Fowler expects him to play, and he played through it in Week 9 with 8 catches for 86 yards.",
+        "Lions are 2.5-point favorites in Munich, total 49.5, about 26 implied. Kickoff 6:30 AM Pacific, the first lock. Inactives come out about 5:00 AM Pacific."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "Detroit Sports Nation via Yahoo: Lions final injury report",
+          "url": "https://sports.yahoo.com/articles/detroit-lions-release-final-injury-163918013.html"
         },
         {
-          "title": "Patriots.com: Week 10 game in Munich",
-          "url": "https://patriots.com/news/patriots-to-face-lions-in-week-10-international-game-on-november-15-2026"
+          "title": "ClutchPoints via Yahoo: Fowler on St. Brown status",
+          "url": "https://sports.yahoo.com/articles/espn-insider-guarantees-lions-star-171155961.html"
+        },
+        {
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -169,33 +161,42 @@
       "name": "Justin Jefferson",
       "verdict": "start",
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "high",
       "notes": [
-        "Not on the Vikings injury report. Minnesota plays at Green Bay Sunday 10:00 AM Pacific."
+        "Not on the injury report. Hockenson and Jauan Jennings are out, and Jordan Addison is questionable, so targets should funnel to him.",
+        "Vikings are 2.5-point underdogs at Green Bay, total 42.5, kickoff 10:00 AM Pacific. Kyler Murray is out."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "Vikings.com: Final injury report at Packers",
+          "url": "https://www.vikings.com/news/packers-injury-report-week-10-2026-nfl-season"
         },
         {
-          "title": "NBC Sports: Week 10 schedule",
-          "url": "https://www.nbcsportsbayarea.com/nfl/nfl-week-10-schedule-games-start-times-watch-channels/1978828/?amp=1"
+          "title": "Heavy: Hockenson to miss Packers game",
+          "url": "https://heavy.com/sports/nfl/minnesota-vikings/tj-hockenson-miss-packers-game-injury/"
+        },
+        {
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
     "5844": {
       "name": "T.J. Hockenson",
-      "verdict": "start",
-      "adj_pct": -10,
-      "confidence": "low",
+      "verdict": "out",
+      "adj_pct": -60,
+      "confidence": "high",
       "notes": [
-        "Did not practice Wednesday. Watch the Thursday and Friday reports. You have no backup TE, so keep him in unless he is ruled out."
+        "Ruled out with wrist and chest injuries after missing every practice. Bench him and add a TE before 10:00 AM Pacific. You have no other TE."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "Vikings.com: Final injury report at Packers",
+          "url": "https://www.vikings.com/news/packers-injury-report-week-10-2026-nfl-season"
+        },
+        {
+          "title": "Heavy: Hockenson to miss Packers game",
+          "url": "https://heavy.com/sports/nfl/minnesota-vikings/tj-hockenson-miss-packers-game-injury/"
         }
       ]
     },
@@ -205,20 +206,21 @@
       "adj_pct": -10,
       "confidence": "low",
       "notes": [
-        "Limited in practice Wednesday after missing Week 9. Patriots play Detroit in Munich Sunday 6:30 AM Pacific. Start him in the FLEX over Mitchell only if he has no game status by Friday."
+        "Questionable with ankle and knee injuries. Limited all week but traveled to Germany, and Mike Vrabel feels pretty good about his chances. He has missed six of nine games.",
+        "Plays in Munich 6:30 AM Pacific. Patriots are about 23.5 implied. Only start him if you can check inactives around 5:00 AM Pacific."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "ClutchPoints via Yahoo: A.J. Brown and Stevenson statuses",
+          "url": "https://sports.yahoo.com/articles/j-brown-rhamondre-stevenson-official-181342831.html"
         },
         {
-          "title": "Patriots.com: Week 10 game in Munich",
-          "url": "https://patriots.com/news/patriots-to-face-lions-in-week-10-international-game-on-november-15-2026"
+          "title": "Boston.com: Patriots injury report for Germany",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/13/patriots-lions-injury-report-week-10-germany/"
         },
         {
-          "title": "Sharp Football Analysis: Week 10 waiver pickups",
-          "url": "https://www.sharpfootballanalysis.com/fantasy/nfl-waiver-wire-pickups-week-10-2026/amp/"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -228,16 +230,16 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Not on the Packers injury report. Green Bay hosts Minnesota Sunday 10:00 AM Pacific."
+        "Not on the Packers injury report. Packers are 2.5-point favorites vs. Minnesota, about 22.5 implied, kickoff 10:00 AM Pacific. Skyy Moore is questionable, which helps his share."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "Packers.com: Week 10 injury report",
+          "url": "https://www.packers.com/news/packers-list-seven-questionable-rule-out-four-vs-vikings-week-10-injury-report"
         },
         {
-          "title": "NBC Sports: Week 10 schedule",
-          "url": "https://www.nbcsportsbayarea.com/nfl/nfl-week-10-schedule-games-start-times-watch-channels/1978828/?amp=1"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -247,12 +249,17 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Not on the Jets injury report. Keep him in the FLEX unless A.J. Brown is cleared."
+        "Not on the Jets injury report. Garrett Wilson returned to limited practice from a concussion and may play, which could cut into his targets.",
+        "Jets are 8.5-point underdogs, a pass-heavy script, kickoff 10:00 AM Pacific. Safe FLEX because his game starts after the Munich inactives."
       ],
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "NewYorkJets.com: Wednesday injury report vs. Bills",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-10-vs-bills-wednesday-11-11-2026"
+        },
+        {
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -260,14 +267,14 @@
       "name": "Germie Bernard",
       "verdict": "sit",
       "adj_pct": 0,
-      "confidence": "low",
+      "confidence": "medium",
       "notes": [
-        "Pittsburgh plays at Cincinnati Sunday night 5:20 PM Pacific. Depth only, and a drop candidate for a QB."
+        "Steelers at Cincinnati Sunday 5:20 PM Pacific, total 49.5. Depth only and a drop candidate to add a QB or TE."
       ],
       "sources": [
         {
-          "title": "NBC Sports: Week 10 schedule",
-          "url": "https://www.nbcsportsbayarea.com/nfl/nfl-week-10-schedule-games-start-times-watch-channels/1978828/?amp=1"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -277,69 +284,65 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Colts host Miami, who now start Kyle McCord at QB. No injury news for Shrader."
+        "Colts are 3.5-point home favorites vs. Miami, about 21 implied, in a dome. Kickoff 10:00 AM Pacific. Total dropped from 47.5 to 38.5 after Miami lost its QB."
       ],
       "sources": [
         {
-          "title": "Fantasy Footballers: Willis move to IR official",
-          "url": "https://www.thefantasyfootballers.com/news/647007/malik-willis-move-to-ir-official/"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     },
     "NYG": {
       "name": "New York Giants",
       "verdict": "start",
-      "adj_pct": 5,
-      "confidence": "medium",
+      "adj_pct": 0,
+      "confidence": "high",
       "notes": [
-        "Hosts Washington tonight 5:15 PM Pacific. Giants -1.5, total 42.5, so Washington is about 20.5 implied. Washington is down C Lucas Patrick and several pass catchers."
+        "Already played. Lost 24-21 to Washington Thursday. Locked."
       ],
       "sources": [
         {
-          "title": "SI: Commanders vs. Giants odds and prediction",
-          "url": "https://www.si.com/betting/commanders-vs-giants-prediction-odds-spread-injuries-trends-for-nfl-week-10-2026"
-        },
-        {
-          "title": "Giants.com: Inactives vs. Commanders",
-          "url": "https://www.giants.com/news/inactives-who-s-in-who-s-out-for-giants-vs-commanders"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     }
   },
   "comparisons": [
     {
-      "a": "8155",
-      "b": "6130",
-      "pick": "8155",
-      "why": "Skattebo is active and expected to lead the Giants backfield, which pushes Singletary to a backup role. Swap before 5:15 PM Pacific tonight.",
+      "a": "11625",
+      "b": "5859",
+      "pick": "11625",
+      "why": "Brown is questionable and plays first in Munich at 6:30 AM Pacific, so if he sits late you could be stuck. Mitchell is healthy and plays at 10:00 AM. Pick Brown only if you confirm he is active around 5:00 AM Pacific.",
       "sources": [
         {
-          "title": "Giants.com: Inactives vs. Commanders",
-          "url": "https://www.giants.com/news/inactives-who-s-in-who-s-out-for-giants-vs-commanders"
+          "title": "ClutchPoints via Yahoo: A.J. Brown and Stevenson statuses",
+          "url": "https://sports.yahoo.com/articles/j-brown-rhamondre-stevenson-official-181342831.html"
         },
         {
-          "title": "Fantasy Footballers: Skattebo ready for Week 10",
-          "url": "https://www.thefantasyfootballers.com/news/646820/cam-skattebo-looks-ready-to-go-for-week-10/"
+          "title": "Boston.com: Patriots injury report for Germany",
+          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/13/patriots-lions-injury-report-week-10-germany/"
         },
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "NewYorkJets.com: Wednesday injury report vs. Bills",
+          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-10-vs-bills-wednesday-11-11-2026"
         }
       ]
     },
     {
-      "a": "5859",
-      "b": "11625",
-      "pick": "11625",
-      "why": "Mitchell is healthy. Switch to A.J. Brown only if he has no game status on Friday, since his game locks first, Sunday 6:30 AM Pacific.",
+      "a": "13286",
+      "b": "13424",
+      "pick": "13286",
+      "why": "Price gets a soft Raiders run defense as a big favorite. McGowan is behind a healthy Jonathan Taylor.",
       "sources": [
         {
-          "title": "NFL.com: Week 10 injury report",
-          "url": "https://www.nfl.com/injuries/league/2026/reg10"
+          "title": "ClutchPoints: Seahawks vs. Raiders bold predictions",
+          "url": "https://clutchpoints.com/nfl/nfl-stories/seahawks-vs-raiders-bold-predictions-for-nfl-week-10"
         },
         {
-          "title": "Patriots.com: Week 10 game in Munich",
-          "url": "https://patriots.com/news/patriots-to-face-lions-in-week-10-international-game-on-november-15-2026"
+          "title": "ESPN: Week 10 odds, spreads and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
         }
       ]
     }
