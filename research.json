@@ -1,15 +1,15 @@
 {
   "season": 2026,
   "week": 10,
-  "generated_at": "2026-11-15T16:47:24Z",
-  "run": "Sunday inactives, 10 AM games",
-  "headline": "No new 10 AM outs found for your starters. Hockenson is still out, so add a TE before 10:00 AM Pacific, and add a QB before your QB's game.",
+  "generated_at": "2026-11-15T19:58:00Z",
+  "run": "Sunday inactives, late games",
+  "headline": "No late-game outs found for your starters. Price stays in. If you still have no TE or QB, add AJ Barner before 1:05 PM Pacific and Aaron Rodgers before 5:20 PM Pacific.",
   "alerts": [
-    "Before 10:00 AM Pacific: T.J. Hockenson is OUT. Add a TE such as AJ Barner (SEA, 1:05 PM Pacific) and drop Seth McGowan or Germie Bernard.",
-    "You still need a QB. Add Aaron Rodgers (PIT at CIN, 5:20 PM Pacific) or another free QB before his game.",
-    "10 AM starters Breece Hall, Justin Jefferson, Matthew Golden and Spencer Shrader: no inactive reports found this run. Keep them in.",
-    "Garrett Wilson was reported clear to play for the Jets, so keep Adonai Mitchell on the bench.",
-    "This run could not open Sleeper or full inactive pages, so official 10 AM lists were not fully confirmed. Check the Sleeper app for any red OUT tags before 10:00 AM Pacific."
+    "Before 1:05 PM Pacific: Seattle posted seven inactives, led by Sam Darnold. No report lists Jadarian Price as inactive, so keep him in at RB.",
+    "If you have not filled TE yet (Hockenson is OUT), add AJ Barner (SEA, 1:05 PM Pacific) before kickoff and drop Seth McGowan or Germie Bernard.",
+    "If you have not filled QB yet, add Aaron Rodgers (PIT at CIN, 5:20 PM Pacific) before his game.",
+    "ESPN reported no fantasy-relevant injuries for the Sunday night game. Ladd McConkey (back) is the Monday night name to watch.",
+    "This run could not open Sleeper or the full Seahawks inactive names, so check the Sleeper app for a red OUT tag on Price before 1:05 PM Pacific."
   ],
   "games": {
     "DET": {
@@ -28,7 +28,7 @@
       "note": "Hosts Buffalo Sunday 10:00 AM Pacific. Bills -8.5, total 50.5, Jets about 21 implied. Garrett Wilson questionable."
     },
     "SEA": {
-      "note": "At Las Vegas Sunday 1:05 PM Pacific. Seahawks -6.5, total 40.5, about 23.5 implied. Drew Lock starts, Charbonnet back."
+      "note": "At Las Vegas Sunday 1:05 PM Pacific. Seahawks -6.5, total 40.5. Seven inactives including Darnold. Drew Lock starts, Shaheed back, LT Charles Cross out."
     },
     "IND": {
       "note": "Hosts Miami Sunday 10:00 AM Pacific. Colts -3.5, total 38.5, about 21 implied."
@@ -37,7 +37,7 @@
       "note": "At Indianapolis. Kyle McCord starts with Willis on IR."
     },
     "PIT": {
-      "note": "At Cincinnati Sunday 5:20 PM Pacific. Bengals -3.5, total 49.5, Steelers about 23 implied."
+      "note": "At Cincinnati Sunday 5:20 PM Pacific. Bengals -3.5, total 49.5. ESPN reported no fantasy-relevant injuries for this game."
     },
     "NYG": {
       "note": "Lost 24-21 to Washington Thursday. Done for the week."
@@ -60,9 +60,18 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Ruled out at Las Vegas. Drew Lock starts. Do not start him."
+        "Inactive at Las Vegas with quad and rib injuries. Drew Lock starts. Expected back around Week 12."
       ],
-      "sources": []
+      "sources": [
+        {
+          "title": "Yahoo Sports: Seahawks Week 10 inactives",
+          "url": "https://sports.yahoo.com/articles/seahawks-week-10-inactives-194226843.html"
+        },
+        {
+          "title": "ESPN: Seahawks at Raiders, Darnold out, Lock starts",
+          "url": "https://espn.com/nfl/story/_/id/50475505/seahawks-raiders-week-10-darnold-lock-shaheed-returns"
+        }
+      ]
     },
     "13286": {
       "name": "Jadarian Price",
@@ -70,10 +79,15 @@
       "adj_pct": -5,
       "confidence": "low",
       "notes": [
-        "Seattle is a 6.5-point favorite at Las Vegas, about 23.5 implied, kickoff 1:05 PM Pacific. The Raiders allow the most rushing yards in the league.",
+        "No report lists him inactive. Seattle named seven inactives led by Darnold. Official names not fully confirmed this run, check Sleeper before 1:05 PM Pacific.",
+        "Seattle is a 6.5-point favorite at Las Vegas, about 23.5 implied. The Raiders allow the most rushing yards in the league.",
         "Zach Charbonnet is back, so the work may be split. Still your best RB2 option."
       ],
       "sources": [
+        {
+          "title": "Yahoo Sports: Seahawks Week 10 inactives",
+          "url": "https://sports.yahoo.com/articles/seahawks-week-10-inactives-194226843.html"
+        },
         {
           "title": "ESPN: Week 10 odds, spreads and totals",
           "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
@@ -265,12 +279,16 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Steelers at Cincinnati Sunday 5:20 PM Pacific, total 49.5. Depth only and a drop candidate to add a QB or TE."
+        "Steelers at Cincinnati Sunday 5:20 PM Pacific, total 49.5. No injury news. Depth only and a drop candidate to add a QB or TE."
       ],
       "sources": [
         {
           "title": "ESPN: Week 10 odds, spreads and totals",
           "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+        },
+        {
+          "title": "ESPN: Week 10 inactives watch",
+          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active"
         }
       ]
     },
