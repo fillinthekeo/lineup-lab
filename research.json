@@ -1,22 +1,22 @@
 {
   "season": 2026,
   "week": 10,
-  "generated_at": "2026-11-15T04:00:46Z",
-  "run": "Saturday night review",
-  "headline": "Hockenson is out and you still need a QB, so add Aaron Rodgers and a TE like AJ Barner before Sunday 10:00 AM Pacific.",
+  "generated_at": "2026-11-15T13:55:00Z",
+  "run": "Sunday early check",
+  "headline": "St. Brown and A.J. Brown are both active in Munich, so start Brown in a FLEX over Adonai Mitchell before 6:30 AM Pacific, and still add a QB and TE.",
   "alerts": [
-    "Sunday 6:30 AM Pacific: Lions vs. Patriots in Munich locks first. St. Brown is questionable (ribs) but expected to play. Leave him in.",
-    "A.J. Brown is questionable. Keep Adonai Mitchell in the FLEX unless you check inactives around 5:00 AM Pacific and Brown is active.",
-    "Before 10:00 AM Pacific: T.J. Hockenson is OUT. Add a TE. AJ Barner (SEA, 1:05 PM Pacific) is a low-cost streamer if he is free. Drop Seth McGowan or Germie Bernard.",
-    "You have no healthy QB. Add Aaron Rodgers (PIT at CIN, 5:20 PM Pacific, total 49.5) or another free QB before his game.",
-    "Sleeper could not be opened this run, so the roster here is from earlier in the week. Confirm moves in the app."
+    "6:30 AM Pacific lock: A.J. Brown is ACTIVE. Move him into a FLEX and bench Adonai Mitchell before kickoff.",
+    "6:30 AM Pacific: Amon-Ra St. Brown is active despite the rib injury. Keep him in.",
+    "Before 10:00 AM Pacific: T.J. Hockenson is OUT. Add a TE such as AJ Barner (SEA, 1:05 PM Pacific). Drop Seth McGowan or Germie Bernard.",
+    "You still need a QB. Add Aaron Rodgers (PIT at CIN, 5:20 PM Pacific) or another free QB before his game.",
+    "Sleeper could not be opened again this run, so the roster here is from earlier in the week. Confirm moves in the app."
   ],
   "games": {
     "DET": {
-      "note": "Plays New England in Munich Sunday 6:30 AM Pacific. Lions -2.5, total 49.5, about 26 implied. St. Brown questionable but expected to play."
+      "note": "Plays New England in Munich Sunday 6:30 AM Pacific. Lions -2.5, total 49.5, about 26 implied. St. Brown active. D.J. Reed and Kerby Joseph out."
     },
     "NE": {
-      "note": "Plays Detroit in Munich Sunday 6:30 AM Pacific. About 23.5 implied. A.J. Brown and Rhamondre Stevenson questionable, TreVeyon Henderson out."
+      "note": "Plays Detroit in Munich Sunday 6:30 AM Pacific. About 23.5 implied. A.J. Brown and Rhamondre Stevenson active. Carlton Davis inactive."
     },
     "MIN": {
       "note": "At Green Bay Sunday 10:00 AM Pacific. Packers -2.5, total 42.5, Vikings about 20 implied. Hockenson, Jennings and Kyler Murray out, Addison questionable."
@@ -137,19 +137,15 @@
       "name": "Amon-Ra St. Brown",
       "verdict": "start",
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "high",
       "notes": [
-        "Questionable with a rib injury after three limited practices. ESPN's Jeremy Fowler expects him to play, and he played through it in Week 9 with 8 catches for 86 yards.",
-        "Lions are 2.5-point favorites in Munich, total 49.5, about 26 implied. Kickoff 6:30 AM Pacific, the first lock. Inactives come out about 5:00 AM Pacific."
+        "Active for Munich. The Lions said there was no chance he would miss the game despite the rib injury.",
+        "Lions are 2.5-point favorites, total 49.5, about 26 implied. Kickoff 6:30 AM Pacific."
       ],
       "sources": [
         {
-          "title": "Detroit Sports Nation via Yahoo: Lions final injury report",
-          "url": "https://sports.yahoo.com/articles/detroit-lions-release-final-injury-163918013.html"
-        },
-        {
-          "title": "ClutchPoints via Yahoo: Fowler on St. Brown status",
-          "url": "https://sports.yahoo.com/articles/espn-insider-guarantees-lions-star-171155961.html"
+          "title": "DetroitLions.com: Inactives, Lions vs. Patriots",
+          "url": "https://www.detroitlions.com/news/inactives-lions-vs-patriots-stbrown-vaki-cisco"
         },
         {
           "title": "ESPN: Week 10 odds, spreads and totals",
@@ -202,21 +198,17 @@
     },
     "5859": {
       "name": "A.J. Brown",
-      "verdict": "flex",
-      "adj_pct": -10,
-      "confidence": "low",
+      "verdict": "start",
+      "adj_pct": -5,
+      "confidence": "medium",
       "notes": [
-        "Questionable with ankle and knee injuries. Limited all week but traveled to Germany, and Mike Vrabel feels pretty good about his chances. He has missed six of nine games.",
-        "Plays in Munich 6:30 AM Pacific. Patriots are about 23.5 implied. Only start him if you can check inactives around 5:00 AM Pacific."
+        "Officially active after two missed games with ankle and knee injuries. No snap limit was reported.",
+        "Plays in Munich 6:30 AM Pacific, Patriots about 23.5 implied. Start him in a FLEX over Adonai Mitchell before kickoff."
       ],
       "sources": [
         {
-          "title": "ClutchPoints via Yahoo: A.J. Brown and Stevenson statuses",
-          "url": "https://sports.yahoo.com/articles/j-brown-rhamondre-stevenson-official-181342831.html"
-        },
-        {
-          "title": "Boston.com: Patriots injury report for Germany",
-          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/13/patriots-lions-injury-report-week-10-germany/"
+          "title": "Patriots.com: Inactives analysis, A.J. Brown and Stevenson active",
+          "url": "https://www.patriots.com/news/inactives-analysis-patriots-wr-a-j-brown-rb-rhamondre-stevenson-officially-active-for-sunday-s-game-vs-lions-in-munich"
         },
         {
           "title": "ESPN: Week 10 odds, spreads and totals",
@@ -245,12 +237,12 @@
     },
     "11625": {
       "name": "Adonai Mitchell",
-      "verdict": "flex",
+      "verdict": "sit",
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "Not on the Jets injury report. Garrett Wilson returned to limited practice from a concussion and may play, which could cut into his targets.",
-        "Jets are 8.5-point underdogs, a pass-heavy script, kickoff 10:00 AM Pacific. Safe FLEX because his game starts after the Munich inactives."
+        "Garrett Wilson is expected to play for the Jets, which cuts into his targets. A.J. Brown is active, so bench Mitchell for him.",
+        "Jets are 8.5-point underdogs to Buffalo, kickoff 10:00 AM Pacific. Next man up if anything changes before 6:30 AM."
       ],
       "sources": [
         {
@@ -311,18 +303,14 @@
   },
   "comparisons": [
     {
-      "a": "11625",
-      "b": "5859",
-      "pick": "11625",
-      "why": "Brown is questionable and plays first in Munich at 6:30 AM Pacific, so if he sits late you could be stuck. Mitchell is healthy and plays at 10:00 AM. Pick Brown only if you confirm he is active around 5:00 AM Pacific.",
+      "a": "5859",
+      "b": "11625",
+      "pick": "5859",
+      "why": "Brown is officially active with no reported snap limit and is the Patriots top target. Mitchell loses targets with Garrett Wilson back. Make the swap before 6:30 AM Pacific.",
       "sources": [
         {
-          "title": "ClutchPoints via Yahoo: A.J. Brown and Stevenson statuses",
-          "url": "https://sports.yahoo.com/articles/j-brown-rhamondre-stevenson-official-181342831.html"
-        },
-        {
-          "title": "Boston.com: Patriots injury report for Germany",
-          "url": "https://www.boston.com/sports/new-england-patriots/2026/11/13/patriots-lions-injury-report-week-10-germany/"
+          "title": "Patriots.com: Inactives analysis, A.J. Brown and Stevenson active",
+          "url": "https://www.patriots.com/news/inactives-analysis-patriots-wr-a-j-brown-rb-rhamondre-stevenson-officially-active-for-sunday-s-game-vs-lions-in-munich"
         },
         {
           "title": "NewYorkJets.com: Wednesday injury report vs. Bills",
