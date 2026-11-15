@@ -1,15 +1,15 @@
 {
   "season": 2026,
   "week": 10,
-  "generated_at": "2026-11-15T13:55:00Z",
-  "run": "Sunday early check",
-  "headline": "St. Brown and A.J. Brown are both active in Munich, so start Brown in a FLEX over Adonai Mitchell before 6:30 AM Pacific, and still add a QB and TE.",
+  "generated_at": "2026-11-15T16:47:24Z",
+  "run": "Sunday inactives, 10 AM games",
+  "headline": "No new 10 AM outs found for your starters. Hockenson is still out, so add a TE before 10:00 AM Pacific, and add a QB before your QB's game.",
   "alerts": [
-    "6:30 AM Pacific lock: A.J. Brown is ACTIVE. Move him into a FLEX and bench Adonai Mitchell before kickoff.",
-    "6:30 AM Pacific: Amon-Ra St. Brown is active despite the rib injury. Keep him in.",
-    "Before 10:00 AM Pacific: T.J. Hockenson is OUT. Add a TE such as AJ Barner (SEA, 1:05 PM Pacific). Drop Seth McGowan or Germie Bernard.",
+    "Before 10:00 AM Pacific: T.J. Hockenson is OUT. Add a TE such as AJ Barner (SEA, 1:05 PM Pacific) and drop Seth McGowan or Germie Bernard.",
     "You still need a QB. Add Aaron Rodgers (PIT at CIN, 5:20 PM Pacific) or another free QB before his game.",
-    "Sleeper could not be opened again this run, so the roster here is from earlier in the week. Confirm moves in the app."
+    "10 AM starters Breece Hall, Justin Jefferson, Matthew Golden and Spencer Shrader: no inactive reports found this run. Keep them in.",
+    "Garrett Wilson was reported clear to play for the Jets, so keep Adonai Mitchell on the bench.",
+    "This run could not open Sleeper or full inactive pages, so official 10 AM lists were not fully confirmed. Check the Sleeper app for any red OUT tags before 10:00 AM Pacific."
   ],
   "games": {
     "DET": {
@@ -120,6 +120,7 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "No inactive report found in the 8:40 AM Pacific check. Official list not fully confirmed, check Sleeper for an OUT tag.",
         "Not on the Jets injury report. Jets are 8.5-point home underdogs to Buffalo, about 21 implied, kickoff 10:00 AM Pacific. Game script could tilt toward passing, but he catches passes."
       ],
       "sources": [
@@ -159,6 +160,7 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
+        "No inactive report found in the 8:40 AM Pacific check. Official list not fully confirmed, check Sleeper for an OUT tag.",
         "Not on the injury report. Hockenson and Jauan Jennings are out, and Jordan Addison is questionable, so targets should funnel to him.",
         "Vikings are 2.5-point underdogs at Green Bay, total 42.5, kickoff 10:00 AM Pacific. Kyler Murray is out."
       ],
@@ -222,6 +224,7 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "No inactive report found in the 8:40 AM Pacific check. Official list not fully confirmed, check Sleeper for an OUT tag.",
         "Not on the Packers injury report. Packers are 2.5-point favorites vs. Minnesota, about 22.5 implied, kickoff 10:00 AM Pacific. Skyy Moore is questionable, which helps his share."
       ],
       "sources": [
@@ -241,6 +244,7 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "Garrett Wilson was reported clear for Week 10, so Mitchell stays on the bench.",
         "Garrett Wilson is expected to play for the Jets, which cuts into his targets. A.J. Brown is active, so bench Mitchell for him.",
         "Jets are 8.5-point underdogs to Buffalo, kickoff 10:00 AM Pacific. Next man up if anything changes before 6:30 AM."
       ],
@@ -276,6 +280,7 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
+        "No inactive report found in the 8:40 AM Pacific check. Official list not fully confirmed, check Sleeper for an OUT tag.",
         "Colts are 3.5-point home favorites vs. Miami, about 21 implied, in a dome. Kickoff 10:00 AM Pacific. Total dropped from 47.5 to 38.5 after Miami lost its QB."
       ],
       "sources": [
