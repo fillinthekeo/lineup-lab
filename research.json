@@ -1,46 +1,52 @@
 {
   "season": 2026,
-  "week": 10,
-  "generated_at": "2026-11-15T19:58:00Z",
-  "run": "Sunday inactives, late games",
-  "headline": "No late-game outs found for your starters. Price stays in. If you still have no TE or QB, add AJ Barner before 1:05 PM Pacific and Aaron Rodgers before 5:20 PM Pacific.",
+  "week": 11,
+  "generated_at": "2026-11-17T17:02:01Z",
+  "run": "Tuesday waivers and week preview",
+  "headline": "Big bye week: A.J. Brown, Golden, Price and Darnold are all off, and Willis is on IR, so add a QB (Rodgers or Cam Ward) and a WR (Flournoy) before waivers clear.",
   "alerts": [
-    "Before 1:05 PM Pacific: Seattle posted seven inactives, led by Sam Darnold. No report lists Jadarian Price as inactive, so keep him in at RB.",
-    "If you have not filled TE yet (Hockenson is OUT), add AJ Barner (SEA, 1:05 PM Pacific) before kickoff and drop Seth McGowan or Germie Bernard.",
-    "If you have not filled QB yet, add Aaron Rodgers (PIT at CIN, 5:20 PM Pacific) before his game.",
-    "ESPN reported no fantasy-relevant injuries for the Sunday night game. Ladd McConkey (back) is the Monday night name to watch.",
-    "This run could not open Sleeper or the full Seahawks inactive names, so check the Sleeper app for a red OUT tag on Price before 1:05 PM Pacific."
+    "You have no healthy QB. Willis is on IR and Seattle is on bye. Claim Aaron Rodgers or Cam Ward on waivers.",
+    "Byes this week: New England (A.J. Brown), Green Bay (Golden), Seattle (Price, Darnold). Three starters are out.",
+    "Thursday 5:15 PM Pacific: Colts at Texans. Set Seth McGowan at RB and Spencer Shrader at K before then.",
+    "Hockenson (wrist, chest) is uncertain for Sunday 5:20 PM Pacific in Mexico City. Grab a backup TE like Chig Okonkwo if you have room.",
+    "This run could not open Sleeper or the ESPN API, so the roster is from last week's run and Week 10 points were not scored. Check your roster in Sleeper before acting."
   ],
   "games": {
-    "DET": {
-      "note": "Plays New England in Munich Sunday 6:30 AM Pacific. Lions -2.5, total 49.5, about 26 implied. St. Brown active. D.J. Reed and Kerby Joseph out."
-    },
-    "NE": {
-      "note": "Plays Detroit in Munich Sunday 6:30 AM Pacific. About 23.5 implied. A.J. Brown and Rhamondre Stevenson active. Carlton Davis inactive."
-    },
-    "MIN": {
-      "note": "At Green Bay Sunday 10:00 AM Pacific. Packers -2.5, total 42.5, Vikings about 20 implied. Hockenson, Jennings and Kyler Murray out, Addison questionable."
-    },
-    "GB": {
-      "note": "Hosts Minnesota Sunday 10:00 AM Pacific. About 22.5 implied. Josh Jacobs and Micah Parsons out."
-    },
-    "NYJ": {
-      "note": "Hosts Buffalo Sunday 10:00 AM Pacific. Bills -8.5, total 50.5, Jets about 21 implied. Garrett Wilson questionable."
-    },
-    "SEA": {
-      "note": "At Las Vegas Sunday 1:05 PM Pacific. Seahawks -6.5, total 40.5. Seven inactives including Darnold. Drew Lock starts, Shaheed back, LT Charles Cross out."
-    },
     "IND": {
-      "note": "Hosts Miami Sunday 10:00 AM Pacific. Colts -3.5, total 38.5, about 21 implied."
+      "note": "At Houston Thursday 5:15 PM Pacific. Texans -10.5, total 44.5, Colts about 17 implied. Set McGowan and Shrader before kickoff."
     },
-    "MIA": {
-      "note": "At Indianapolis. Kyle McCord starts with Willis on IR."
+    "DET": {
+      "note": "Hosts Tampa Bay Sunday 10:00 AM Pacific. Lions -5.5, total 46.5, about 26 implied."
     },
     "PIT": {
-      "note": "At Cincinnati Sunday 5:20 PM Pacific. Bengals -3.5, total 49.5. ESPN reported no fantasy-relevant injuries for this game."
+      "note": "At Philadelphia Sunday 10:00 AM Pacific. Steelers -4.5, total 38.5, about 21.5 implied."
+    },
+    "MIA": {
+      "note": "At Buffalo Sunday 10:00 AM Pacific. Bills -16.5, total 46.5, Miami about 15 implied."
+    },
+    "NYJ": {
+      "note": "At the Chargers Sunday 1:05 PM Pacific. Chargers -3, total 40.5, Jets about 18.75 implied. Cross-country trip. Geno Smith ankle, Klubnik may start."
     },
     "NYG": {
-      "note": "Lost 24-21 to Washington Thursday. Done for the week."
+      "note": "Hosts Jacksonville Sunday 1:25 PM Pacific. Jaguars -6.5, total 46.5, Giants about 20 implied."
+    },
+    "MIN": {
+      "note": "At San Francisco in Mexico City Sunday 5:20 PM Pacific. 49ers -3, total 46.5, Vikings about 21.75 implied. Addison likely out, Hockenson uncertain."
+    },
+    "WAS": {
+      "note": "Hosts Cincinnati Monday 5:15 PM Pacific. Bengals -4.5, total 51.5, Washington about 23.5 implied."
+    },
+    "TEN": {
+      "note": "At Dallas Sunday 10:00 AM Pacific. Cowboys -7.5, total 53.5, the highest of the week. Titans about 23 implied."
+    },
+    "SEA": {
+      "note": "Bye week."
+    },
+    "NE": {
+      "note": "Bye week."
+    },
+    "GB": {
+      "note": "Bye week."
     }
   },
   "players": {
@@ -50,7 +56,7 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "On IR with a core-muscle injury. Kyle McCord starts for Miami. Keep him on the bench or in an IR slot."
+        "Still on IR with a core-muscle injury. Keep him in an IR slot."
       ],
       "sources": []
     },
@@ -60,71 +66,73 @@
       "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Inactive at Las Vegas with quad and rib injuries. Drew Lock starts. Expected back around Week 12."
+        "Seattle is on bye in Week 11. He is expected back for Week 12 at San Francisco on Nov. 29. Keep him, but you need a QB this week."
       ],
       "sources": [
         {
-          "title": "Yahoo Sports: Seahawks Week 10 inactives",
-          "url": "https://sports.yahoo.com/articles/seahawks-week-10-inactives-194226843.html"
+          "title": "Fantasy Footballers: Darnold expected back after Week 11 bye",
+          "url": "https://www.thefantasyfootballers.com/news/646863/sam-darnold-expected-back-after-week-11-bye/"
         },
         {
-          "title": "ESPN: Seahawks at Raiders, Darnold out, Lock starts",
-          "url": "https://espn.com/nfl/story/_/id/50475505/seahawks-raiders-week-10-darnold-lock-shaheed-returns"
+          "title": "CBS Sports: 2026 Week 11 schedule",
+          "url": "https://www.cbssports.com/nfl/schedule/2026/regular/11/"
         }
       ]
     },
     "13286": {
       "name": "Jadarian Price",
-      "verdict": "start",
-      "adj_pct": -5,
-      "confidence": "low",
-      "notes": [
-        "No report lists him inactive. Seattle named seven inactives led by Darnold. Official names not fully confirmed this run, check Sleeper before 1:05 PM Pacific.",
-        "Seattle is a 6.5-point favorite at Las Vegas, about 23.5 implied. The Raiders allow the most rushing yards in the league.",
-        "Zach Charbonnet is back, so the work may be split. Still your best RB2 option."
-      ],
-      "sources": [
-        {
-          "title": "Yahoo Sports: Seahawks Week 10 inactives",
-          "url": "https://sports.yahoo.com/articles/seahawks-week-10-inactives-194226843.html"
-        },
-        {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
-        },
-        {
-          "title": "ClutchPoints: Seahawks vs. Raiders bold predictions",
-          "url": "https://clutchpoints.com/nfl/nfl-stories/seahawks-vs-raiders-bold-predictions-for-nfl-week-10"
-        }
-      ]
-    },
-    "6130": {
-      "name": "Devin Singletary",
-      "verdict": "sit",
-      "adj_pct": 0,
+      "verdict": "out",
+      "adj_pct": -60,
       "confidence": "high",
       "notes": [
-        "Already played Thursday. Washington beat the Giants 24-21. Locked, no action needed."
+        "Seattle is on bye. Zero points this week."
       ],
       "sources": [
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "CBS Sports: 2026 Week 11 schedule",
+          "url": "https://www.cbssports.com/nfl/schedule/2026/regular/11/"
+        },
+        {
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
         }
       ]
     },
-    "13424": {
-      "name": "Seth McGowan",
-      "verdict": "stash",
-      "adj_pct": 0,
-      "confidence": "medium",
+    "5859": {
+      "name": "A.J. Brown",
+      "verdict": "out",
+      "adj_pct": -60,
+      "confidence": "high",
       "notes": [
-        "Jonathan Taylor is healthy. Colts are 3.5-point favorites vs. Miami, total 38.5. Top drop candidate for a QB or TE."
+        "New England is on bye. Zero points this week. Keep him for Week 12."
       ],
       "sources": [
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "CBS Sports: 2026 Week 11 schedule",
+          "url": "https://www.cbssports.com/nfl/schedule/2026/regular/11/"
+        },
+        {
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
+        }
+      ]
+    },
+    "12501": {
+      "name": "Matthew Golden",
+      "verdict": "out",
+      "adj_pct": -60,
+      "confidence": "high",
+      "notes": [
+        "Green Bay is on bye. Zero points this week."
+      ],
+      "sources": [
+        {
+          "title": "CBS Sports: 2026 Week 11 schedule",
+          "url": "https://www.cbssports.com/nfl/schedule/2026/regular/11/"
+        },
+        {
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
         }
       ]
     },
@@ -134,17 +142,63 @@
       "adj_pct": 0,
       "confidence": "medium",
       "notes": [
-        "No inactive report found in the 8:40 AM Pacific check. Official list not fully confirmed, check Sleeper for an OUT tag.",
-        "Not on the Jets injury report. Jets are 8.5-point home underdogs to Buffalo, about 21 implied, kickoff 10:00 AM Pacific. Game script could tilt toward passing, but he catches passes."
+        "At the Chargers Sunday 1:05 PM Pacific. Chargers -3, total 40.5, Jets about 18.75 implied.",
+        "Week 10: 11 carries for 41 yards plus 4 catches for 67 yards vs Buffalo, about 16.8 PPR points. He out-touched Braelon Allen.",
+        "Geno Smith hurt his ankle and rookie Cade Klubnik finished the Bills game. A rookie QB should mean more checkdowns to Hall, which helps in PPR."
       ],
       "sources": [
         {
-          "title": "NewYorkJets.com: Wednesday injury report vs. Bills",
-          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-10-vs-bills-wednesday-11-11-2026"
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         },
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "Fantasy Footballers: Breece Hall tops 100 scrimmage yards in Week 10",
+          "url": "https://www.thefantasyfootballers.com/news/647984/breece-hall-tops-100-scrimmage-yards-in-week-10/"
+        },
+        {
+          "title": "NewYorkJets.com: Film breakdown of Breece Hall's return",
+          "url": "https://www.newyorkjets.com/news/film-breakdown-how-breece-hall-performed-in-his-return-11-10-2026"
+        }
+      ]
+    },
+    "13424": {
+      "name": "Seth McGowan",
+      "verdict": "flex",
+      "adj_pct": 0,
+      "confidence": "medium",
+      "notes": [
+        "Plays Thursday at Houston 5:15 PM Pacific, so set him before then. Texans -10.5, total 44.5, Colts only about 17 implied.",
+        "Yahoo notes 77 yards and a TD on 12 opportunities last week and a TD in back-to-back games. He is still behind Jonathan Taylor, so it is TD-or-bust.",
+        "With Price on bye he is your best second RB option on the current roster."
+      ],
+      "sources": [
+        {
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
+        },
+        {
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
+        }
+      ]
+    },
+    "6130": {
+      "name": "Devin Singletary",
+      "verdict": "sit",
+      "adj_pct": 0,
+      "confidence": "medium",
+      "notes": [
+        "Giants host Jacksonville Sunday 1:25 PM Pacific. Jaguars -6.5, Giants about 20 implied.",
+        "He played only a handful of snaps in Week 10 and is back in a backup role. Top drop candidate."
+      ],
+      "sources": [
+        {
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
+        },
+        {
+          "title": "Fantasy Footballers: Singletary plays just five snaps",
+          "url": "https://www.thefantasyfootballers.com/news/647527/devin-singletary-plays-just-five-snaps/"
         }
       ]
     },
@@ -154,17 +208,17 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "Active for Munich. The Lions said there was no chance he would miss the game despite the rib injury.",
-        "Lions are 2.5-point favorites, total 49.5, about 26 implied. Kickoff 6:30 AM Pacific."
+        "Hosts Tampa Bay Sunday 10:00 AM Pacific in a dome. Lions -5.5, total 46.5 (down from 49.5), about 26 implied.",
+        "Played through a rib injury in Munich. Watch Wednesday and Thursday practice, but no new injury report was found."
       ],
       "sources": [
         {
-          "title": "DetroitLions.com: Inactives, Lions vs. Patriots",
-          "url": "https://www.detroitlions.com/news/inactives-lions-vs-patriots-stbrown-vaki-cisco"
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         },
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "CBS Sports: 2026 Week 11 schedule",
+          "url": "https://www.cbssports.com/nfl/schedule/2026/regular/11/"
         }
       ]
     },
@@ -174,102 +228,63 @@
       "adj_pct": 0,
       "confidence": "high",
       "notes": [
-        "No inactive report found in the 8:40 AM Pacific check. Official list not fully confirmed, check Sleeper for an OUT tag.",
-        "Not on the injury report. Hockenson and Jauan Jennings are out, and Jordan Addison is questionable, so targets should funnel to him.",
-        "Vikings are 2.5-point underdogs at Green Bay, total 42.5, kickoff 10:00 AM Pacific. Kyler Murray is out."
+        "At San Francisco in Mexico City Sunday 5:20 PM Pacific. 49ers -3, total 46.5, Vikings about 21.75 implied.",
+        "ESPN headlines say Jordan Addison needs thumb surgery and is an IR candidate, and Hockenson is banged up, so Jefferson should see a big target share.",
+        "Mexico City altitude and travel are minor factors for both teams."
       ],
       "sources": [
         {
-          "title": "Vikings.com: Final injury report at Packers",
-          "url": "https://www.vikings.com/news/packers-injury-report-week-10-2026-nfl-season"
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         },
         {
-          "title": "Heavy: Hockenson to miss Packers game",
-          "url": "https://heavy.com/sports/nfl/minnesota-vikings/tj-hockenson-miss-packers-game-injury/"
-        },
-        {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "CBS Sports: Hockenson expected to progress ahead of Week 11",
+          "url": "https://www.cbssports.com/fantasy/football/news/vikings-t-j-hockenson-expected-to-progress-ahead-of-week-11-action/"
         }
       ]
     },
     "5844": {
       "name": "T.J. Hockenson",
-      "verdict": "out",
-      "adj_pct": -60,
-      "confidence": "high",
+      "verdict": "flex",
+      "adj_pct": -10,
+      "confidence": "low",
       "notes": [
-        "Ruled out with wrist and chest injuries after missing every practice. Bench him and add a TE before 10:00 AM Pacific. You have no other TE."
+        "Missed Week 10 with wrist and chest injuries after no practices. Coach O'Connell expects progress before Sunday night in Mexico City, 5:20 PM Pacific.",
+        "Start him only if he practices by Friday. He is your only TE, so line up a backup TE from waivers in case he is ruled out late, since the game is the last one Sunday."
       ],
       "sources": [
         {
-          "title": "Vikings.com: Final injury report at Packers",
-          "url": "https://www.vikings.com/news/packers-injury-report-week-10-2026-nfl-season"
+          "title": "CBS Sports: Hockenson expected to progress ahead of Week 11",
+          "url": "https://www.cbssports.com/fantasy/football/news/vikings-t-j-hockenson-expected-to-progress-ahead-of-week-11-action/"
         },
         {
-          "title": "Heavy: Hockenson to miss Packers game",
-          "url": "https://heavy.com/sports/nfl/minnesota-vikings/tj-hockenson-miss-packers-game-injury/"
-        }
-      ]
-    },
-    "5859": {
-      "name": "A.J. Brown",
-      "verdict": "start",
-      "adj_pct": -5,
-      "confidence": "medium",
-      "notes": [
-        "Officially active after two missed games with ankle and knee injuries. No snap limit was reported.",
-        "Plays in Munich 6:30 AM Pacific, Patriots about 23.5 implied. Start him in a FLEX over Adonai Mitchell before kickoff."
-      ],
-      "sources": [
-        {
-          "title": "Patriots.com: Inactives analysis, A.J. Brown and Stevenson active",
-          "url": "https://www.patriots.com/news/inactives-analysis-patriots-wr-a-j-brown-rb-rhamondre-stevenson-officially-active-for-sunday-s-game-vs-lions-in-munich"
-        },
-        {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
-        }
-      ]
-    },
-    "12501": {
-      "name": "Matthew Golden",
-      "verdict": "start",
-      "adj_pct": 0,
-      "confidence": "medium",
-      "notes": [
-        "No inactive report found in the 8:40 AM Pacific check. Official list not fully confirmed, check Sleeper for an OUT tag.",
-        "Not on the Packers injury report. Packers are 2.5-point favorites vs. Minnesota, about 22.5 implied, kickoff 10:00 AM Pacific. Skyy Moore is questionable, which helps his share."
-      ],
-      "sources": [
-        {
-          "title": "Packers.com: Week 10 injury report",
-          "url": "https://www.packers.com/news/packers-list-seven-questionable-rule-out-four-vs-vikings-week-10-injury-report"
-        },
-        {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         }
       ]
     },
     "11625": {
       "name": "Adonai Mitchell",
-      "verdict": "sit",
-      "adj_pct": 0,
+      "verdict": "flex",
+      "adj_pct": 10,
       "confidence": "medium",
       "notes": [
-        "Garrett Wilson was reported clear for Week 10, so Mitchell stays on the bench.",
-        "Garrett Wilson is expected to play for the Jets, which cuts into his targets. A.J. Brown is active, so bench Mitchell for him.",
-        "Jets are 8.5-point underdogs to Buffalo, kickoff 10:00 AM Pacific. Next man up if anything changes before 6:30 AM."
+        "At the Chargers Sunday 1:05 PM Pacific, Jets about 18.75 implied.",
+        "Omar Cooper Jr. reinjured his ankle in Week 10, so Mitchell moves up as the deep threat. Yahoo and Lindy's both call him a WR3 or flex if Cooper sits.",
+        "A rookie QB is a risk for downfield volume."
       ],
       "sources": [
         {
-          "title": "NewYorkJets.com: Wednesday injury report vs. Bills",
-          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-10-vs-bills-wednesday-11-11-2026"
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
         },
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "Yahoo Sports (Lindy's): Week 11 waiver pickups for Bye-pocalypse",
+          "url": "https://sports.yahoo.com/articles/week-11-waiver-wire-pickups-020613348.html"
+        },
+        {
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -277,83 +292,89 @@
       "name": "Germie Bernard",
       "verdict": "sit",
       "adj_pct": 0,
-      "confidence": "medium",
+      "confidence": "low",
       "notes": [
-        "Steelers at Cincinnati Sunday 5:20 PM Pacific, total 49.5. No injury news. Depth only and a drop candidate to add a QB or TE."
+        "At Philadelphia Sunday 10:00 AM Pacific. Steelers -4.5, total only 38.5.",
+        "Michael Pittman Jr. and Roman Wilson could return from IR, which would push him down. Depth only and a drop candidate."
       ],
       "sources": [
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         },
         {
-          "title": "ESPN: Week 10 inactives watch",
-          "url": "https://www.espn.com/fantasy/football/story/_/page/FFSundayInactives-50462045/fantasy-football-injuries-nfl-week-10-inactive-active"
+          "title": "Forbes: Week 11 waiver wire, 5 best pickups",
+          "url": "https://www.forbes.com/sites/mikebarner/2026/11/17/fantasy-football-week-11-waiver-wire-5-best-pickups/"
         }
       ]
     },
     "12185": {
       "name": "Spencer Shrader",
       "verdict": "start",
-      "adj_pct": 0,
-      "confidence": "medium",
+      "adj_pct": -10,
+      "confidence": "low",
       "notes": [
-        "No inactive report found in the 8:40 AM Pacific check. Official list not fully confirmed, check Sleeper for an OUT tag.",
-        "Colts are 3.5-point home favorites vs. Miami, about 21 implied, in a dome. Kickoff 10:00 AM Pacific. Total dropped from 47.5 to 38.5 after Miami lost its QB."
+        "Plays Thursday at Houston 5:15 PM Pacific, set before then. Dome game.",
+        "Colts are 10.5-point underdogs with only about 17 implied points, so fewer scoring chances. Keep him unless a better kicker is free."
       ],
       "sources": [
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         }
       ]
     },
     "NYG": {
       "name": "New York Giants",
-      "verdict": "start",
-      "adj_pct": 0,
-      "confidence": "high",
+      "verdict": "sit",
+      "adj_pct": -15,
+      "confidence": "medium",
       "notes": [
-        "Already played. Lost 24-21 to Washington Thursday. Locked."
+        "Host Jacksonville Sunday 1:25 PM Pacific. Jaguars are 6.5-point favorites with about 26.5 implied points, a poor DEF matchup.",
+        "Stream a defense facing a weak offense if one is free, such as whoever faces Miami (Bills) or Arizona (Chiefs), but those are likely rostered."
       ],
       "sources": [
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         }
       ]
     }
   },
   "comparisons": [
     {
-      "a": "5859",
-      "b": "11625",
-      "pick": "5859",
-      "why": "Brown is officially active with no reported snap limit and is the Patriots top target. Mitchell loses targets with Garrett Wilson back. Make the swap before 6:30 AM Pacific.",
+      "a": "13424",
+      "b": "6130",
+      "pick": "13424",
+      "why": "McGowan has scored in back-to-back games and gets real work behind Taylor. Singletary played only a few snaps last week. Note McGowan plays Thursday 5:15 PM Pacific.",
       "sources": [
         {
-          "title": "Patriots.com: Inactives analysis, A.J. Brown and Stevenson active",
-          "url": "https://www.patriots.com/news/inactives-analysis-patriots-wr-a-j-brown-rb-rhamondre-stevenson-officially-active-for-sunday-s-game-vs-lions-in-munich"
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
         },
         {
-          "title": "NewYorkJets.com: Wednesday injury report vs. Bills",
-          "url": "https://www.newyorkjets.com/news/jets-injury-report-week-10-vs-bills-wednesday-11-11-2026"
+          "title": "Fantasy Footballers: Singletary plays just five snaps",
+          "url": "https://www.thefantasyfootballers.com/news/647527/devin-singletary-plays-just-five-snaps/"
         }
       ]
     },
     {
-      "a": "13286",
-      "b": "13424",
-      "pick": "13286",
-      "why": "Price gets a soft Raiders run defense as a big favorite. McGowan is behind a healthy Jonathan Taylor.",
+      "a": "11625",
+      "b": "13274",
+      "pick": "11625",
+      "why": "Mitchell moves up with Omar Cooper Jr. hurt. Bernard is in a 38.5-total game and could lose snaps to returning Steelers receivers.",
       "sources": [
         {
-          "title": "ClutchPoints: Seahawks vs. Raiders bold predictions",
-          "url": "https://clutchpoints.com/nfl/nfl-stories/seahawks-vs-raiders-bold-predictions-for-nfl-week-10"
+          "title": "Yahoo Sports (Lindy's): Week 11 waiver pickups for Bye-pocalypse",
+          "url": "https://sports.yahoo.com/articles/week-11-waiver-wire-pickups-020613348.html"
         },
         {
-          "title": "ESPN: Week 10 odds, spreads and totals",
-          "url": "https://www.espn.com/espn/betting/story/_/id/50414742/2026-nfl-week-10-schedule-odds-point-spreads-totals"
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
+        },
+        {
+          "title": "Forbes: Week 11 waiver wire, 5 best pickups",
+          "url": "https://www.forbes.com/sites/mikebarner/2026/11/17/fantasy-football-week-11-waiver-wire-5-best-pickups/"
         }
       ]
     }
@@ -363,11 +384,59 @@
       "id": "96",
       "name": "Aaron Rodgers",
       "pos": "QB",
-      "why": "You need a starting QB. Pittsburgh plays at Cincinnati Sunday night in a game with about a 49.5 total, and he threw for 292 yards and 3 TDs in the first meeting. Drop McGowan or Bernard.",
+      "why": "Priority one. Willis is on IR and Darnold is on bye, so you have no QB. Rodgers threw two TDs vs Cincinnati and may get Pittman and Wilson back. The Eagles game total is low (38.5), so add Cam Ward first if Rodgers is gone or you prefer upside. Drop Singletary.",
       "sources": [
         {
-          "title": "Sharp Football Analysis: Week 10 waiver pickups",
-          "url": "https://www.sharpfootballanalysis.com/fantasy/nfl-waiver-wire-pickups-week-10-2026/amp/"
+          "title": "Forbes: Week 11 waiver wire, 5 best pickups",
+          "url": "https://www.forbes.com/sites/mikebarner/2026/11/17/fantasy-football-week-11-waiver-wire-5-best-pickups/"
+        },
+        {
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Cam Ward",
+      "pos": "QB",
+      "why": "Tennessee at Dallas has the week's highest total at 53.5. Ward has 20 plus fantasy points in each of his last two games running a no-huddle offense. Strong one-week QB stream. Drop Singletary or Bernard.",
+      "sources": [
+        {
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
+        },
+        {
+          "title": "Yahoo Sports (Lindy's): Week 11 waiver pickups for Bye-pocalypse",
+          "url": "https://sports.yahoo.com/articles/week-11-waiver-wire-pickups-020613348.html"
+        },
+        {
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Ryan Flournoy",
+      "pos": "WR",
+      "why": "Cowboys WR with 50 plus yards or a TD in six straight games and 10 red zone targets over eight games. Hosts Tennessee in a 53.5 total, Dallas about 30.5 implied. Fills the A.J. Brown and Golden bye holes. Drop Bernard.",
+      "sources": [
+        {
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
+        },
+        {
+          "title": "Yahoo Sports (Lindy's): Week 11 waiver pickups for Bye-pocalypse",
+          "url": "https://sports.yahoo.com/articles/week-11-waiver-wire-pickups-020613348.html"
+        },
+        {
+          "title": "Forbes: Week 11 waiver wire, 5 best pickups",
+          "url": "https://www.forbes.com/sites/mikebarner/2026/11/17/fantasy-football-week-11-waiver-wire-5-best-pickups/"
+        },
+        {
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         }
       ]
     },
@@ -375,23 +444,51 @@
       "id": "13301",
       "name": "Antonio Williams",
       "pos": "WR",
-      "why": "Still Washington's top target with McLaurin out, playing tonight at the Giants. Only add him if you have a spare spot after a QB.",
+      "why": "Washington's main target since McLaurin went down, 6 catches for 83 yards and a TD vs the Giants. Hosts Cincinnati Monday 5:15 PM Pacific in a 51.5 total.",
       "sources": [
         {
-          "title": "Sharp Football Analysis: Week 10 waiver pickups",
-          "url": "https://www.sharpfootballanalysis.com/fantasy/nfl-waiver-wire-pickups-week-10-2026/amp/"
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
+        },
+        {
+          "title": "Forbes: Week 11 waiver wire, 5 best pickups",
+          "url": "https://www.forbes.com/sites/mikebarner/2026/11/17/fantasy-football-week-11-waiver-wire-5-best-pickups/"
+        },
+        {
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         }
       ]
     },
     {
-      "id": "13296",
-      "name": "Caleb Douglas",
-      "pos": "WR",
-      "why": "Miami's top receiver, but Kyle McCord now starts at QB, which lowers his outlook. Low priority this week.",
+      "id": "",
+      "name": "Kaelon Black",
+      "pos": "RB",
+      "why": "49ers backup to McCaffrey with 11 plus touches a game and RB2 upside if anything happens to McCaffrey. Good bench add while Price is on bye. Drop Singletary.",
       "sources": [
         {
-          "title": "Fantasy Footballers: Willis move to IR official",
-          "url": "https://www.thefantasyfootballers.com/news/647007/malik-willis-move-to-ir-official/"
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
+        },
+        {
+          "title": "Forbes: Week 11 waiver wire, 5 best pickups",
+          "url": "https://www.forbes.com/sites/mikebarner/2026/11/17/fantasy-football-week-11-waiver-wire-5-best-pickups/"
+        }
+      ]
+    },
+    {
+      "id": "",
+      "name": "Chig Okonkwo",
+      "pos": "TE",
+      "why": "TE insurance if Hockenson cannot go Sunday night. Washington hosts Cincinnati in a 51.5 total Monday. Yahoo calls him a high-end TE2 streamer.",
+      "sources": [
+        {
+          "title": "Yahoo Sports: Week 11 waiver pickups, 6 teams on bye",
+          "url": "https://sports.yahoo.com/fantasy/article/week-11-fantasy-football-waiver-wire-pickups-kaelon-black-among-top-adds-with-6-teams-on-bye-rash-of-injuries-152122668.html"
+        },
+        {
+          "title": "ESPN: Week 11 odds, lines and totals",
+          "url": "https://www.espn.com/espn/betting/story/_/id/50501650/2026-nfl-week-11-schedule-odds-point-spreads-totals"
         }
       ]
     }
